@@ -91,8 +91,8 @@ PAGE INTENTIONALLY BLANK
 
 THREE VIEWS
 
-```
 ![alt text](https://github.com/yocum137/kitfox/blob/master/images/Kitfox-S7-STi-3-view.png?raw=true)
+```
 Figure 1-1. Three View
 ```
 

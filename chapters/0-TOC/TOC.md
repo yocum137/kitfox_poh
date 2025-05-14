@@ -89,8 +89,6 @@ PAGE INTENTIONALLY BLANK
 
 ### MODEL SERIES 7 STi 1-
 
-THREE VIEWS
-
 ![Kitfox STi 3 View image](https://github.com/yocum137/kitfox_poh/blob/main/images/Kitfox-S7-STi-3-view.png?raw=true)
 ```
 Figure 1-1. Three View
@@ -153,37 +151,10 @@ Total Usable: 26 gallons
 OIL
 
 Oil Grade (Specification):
-MIL-L -6082 Aviation Grade Straight Mineral Oil: Use to replenish supply during first 25 hours and
-at the first 25-hour oil change. Continue to use until a total of 50 hours has accumulated or oil
-consumption has stabilized.
-
-### NOTE
-
-```
-The airplane was delivered from the factory with a corrosion preventive
-aircraft engine oil. This oil should be drained after the first 25 hours of
-operation.
-```
-```
-MIL-L -22851 Ashless Dispersant Oil: This oil must be used after first 50 hours or oil consumption
-has stabilized.
-```
-Recommended Viscosity for Temperature Range:
-MIL-L -6082 Aviation Grade Straight Mineral Oil:
-SAE 50 above 16°C (60°F)
-SAE 40 between -1°C (30°F) and 32°C (90°F)
-SAE 30 between -18°C (0°F) and 21°C (70°F)
-SAE 20 below -12°C (10°F)
-MIL-L -22851 Ashless Dispersant Oil:
-SAE 40 or SAE 50 above 16°C (60°F)
-SAE 40 between -1°C (30°F) and 32°C (90°F)
-SAE 30 or SAE 40 between -18°C (0°F) and 21°C (70°F)
-SAE 30 below -12°C (10°F)
+XPS 5W-50 Full Synthetic Aviation Engine
 
 Oil Capacity:
-Sump: 6 Quarts
-Total: 7 Quarts (if oil filter installed)
-
+Total: 3 Liters
 
 ### MODEL SERIES 7 STi 1-
 
@@ -191,26 +162,14 @@ MAXIMUM CERTIFICATED WEIGHTS
 
 Takeoff: 1550 lbs.
 Landing: 1550 lbs.
-Weight in Baggage Compartment:
+Weight in Baggage Compartment: 140lb
 Baggage Area 1 (or passenger on child’s seat) – Station 50 to 76: 120 lbs.
 See note below.
-Baggage Area 2 – Station 76 to 94: 40 lbs.
-See note below.
 
-### NOTE
-
-```
-The maximum combined weight capacity for baggage areas 1 and 2 is 120
-lbs.
-```
 STANDARD AIRPLANE WEIGHTS
 
-Standard Empty Weight
-152: 1081 lbs.
-152 II: 1118 lbs.
-Maximum Useful Load
-152: 589 lbs.
-152 II: 552 lbs.
+Standard Empty Weight: 968 lbs.
+Maximum Useful Load: 582 lbs.
 
 CABIN AND ENTRY DIMENSIONS
 
@@ -471,50 +430,23 @@ operation of the airplane, its engine, standard systems and standard equipment. 
 included in this section have been approved by the Federal Aviation Administration. When applicable,
 limitations associated with optional systems or equipment are included in Section 9.
 
-Your Kitfox is certificated under FAA Type Certificate No. 3A19 as Kitfox Model No. 152.
-
 AIRSPEED LIMITATIONS
 
 Airspeed limitations and their operational significance are shown in figure 2-1.
 
-### SPEED KCAS KIAS REMARKS
+|     | SPEED              | KCAS | KIAS | REMARKS                                            |
+|-----|--------------------|------|------|----------------------------------------------------|
+| VNE | Never Exceed Speed |  145 |  149 | Do not exceed this speed in any operation.         |
+| VNO | Maximum Structural |  108 |  111 | Do not exceed this speed except in smooth air, and |
+|     | Cruising Speed     |      |      | then only with caution.                            |
+| VA  | Maneuvering Speed: |      |      |                                                    |
+|     |      1550 Pounds   |  101 |  104 | Do not make full or abrupt control movements       |
+|     |                    |      |      | above this speed                                   |
+| VFE | Maximum Flap       |   82 |   80 | Do not exceed this speed with flaps down.          |
+|     | Extended Speed     |      |      |                                                    |
+|     | Maximum Door       |   77 |   75 | Do not exceed this speed with doors open.          |
+|     | Open Speed         |      |      |                                                    |
 
-```
-VNE Never Exceed Speed 145 149 Do not exceed this speed in any operation.
-VNO Maximum Structural
-Cruising Speed
-```
-```
-108 111 Do not exceed this speed except in smooth air, and
-then only with caution.
-VA Maneuvering Speed:
-1670 Pounds
-1500 Pounds
-1350 Pounds
-```
-### 101
-
-### 96
-
-### 91
-
-### 104
-
-### 98
-
-### 93
-
-```
-Do not make full or abrupt control movements
-above this speed.
-```
-```
-VFE Maximum Flap
-Extended Speed
-```
-(^87 85) Do not exceed this speed with flaps down.
-Maximum Window
-Open Speed
 
 ### 139 143
 

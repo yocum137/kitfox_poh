@@ -437,11 +437,14 @@ Airspeed limitations and their operational significance are shown in figure 2-1.
 |     | SPEED              | KCAS | KIAS | REMARKS                                            |
 |-----|--------------------|------|------|----------------------------------------------------|
 | VNE | Never Exceed Speed |  145 |  149 | Do not exceed this speed in any operation.         |
+|-----|--------------------|------|------|----------------------------------------------------|
 | VNO | Maximum Structural |  108 |  111 | Do not exceed this speed except in smooth air, and |
 |     | Cruising Speed     |      |      | then only with caution.                            |
+|-----|--------------------|------|------|----------------------------------------------------|
 | VA  | Maneuvering Speed: |      |      |                                                    |
 |     |      1550 Pounds   |  101 |  104 | Do not make full or abrupt control movements       |
 |     |                    |      |      | above this speed                                   |
+|-----|--------------------|------|------|----------------------------------------------------|
 | VFE | Maximum Flap       |   82 |   80 | Do not exceed this speed with flaps down.          |
 |     | Extended Speed     |      |      |                                                    |
 |     | Maximum Door       |   77 |   75 | Do not exceed this speed with doors open.          |

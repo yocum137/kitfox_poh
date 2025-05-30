@@ -114,34 +114,34 @@ DESCRIPTIVE DATA
 
 ENGINE
 
-Number of Engines: 1
-Engine Manufacturer: BRP-Rotax
-Engine Model Number: 915 iS A
+Number of Engines: 1  
+Engine Manufacturer: BRP-Rotax  
+Engine Model Number: 915 iS A  
 Engine Type: Turbo-aspirated, geared-drive, air and water cooled, horizontally opposed, EFI equipped,
-four-cylinder engine with 1352 cu. cm displacement.
-Horsepower Rating and Engine Speed: 141 rated BHP at 5800 RPM for no more than 5 minutes
-Horsepower Rating and Engine Speed: 135 rated BHP at 5500 RPM continuous
+four-cylinder engine with 1352 cu. cm displacement  
+Horsepower Rating and Engine Speed: 141 rated BHP at 5800 RPM for no more than 5 minutes   
+Horsepower Rating and Engine Speed: 135 rated BHP at 5500 RPM continuous  
 
 PROPELLER
 
-Propeller Manufacturer: Airmaster
-Propeller Model Number: AP430CTF-WWR72B-RSPB2.0-200F1.5-RS
-Number of Blades: 3
-Propeller Diameter: 72 inches
-Propeller Type: Variable Pitch
+Propeller Manufacturer: Airmaster  
+Propeller Model Number: AP430CTF-WWR72B-RSPB2.0-200F1.5-RS  
+Number of Blades: 3  
+Propeller Diameter: 72 inches  
+Propeller Type: Variable Pitch  
 
 FUEL
 
-Approved Fuel Grades (and Color):
-min. MON 85 RON 95 min. AKI 91
+Approved Fuel Grades (and Color):  
+min. MON 85 RON 95 min. AKI 91  
 
 ## FUEL LIMITATIONS
 
-Standard Tanks:
-Total Capacity: 27 gallons
-Total Capacity Each Tank: 13 gallons
-Capacity Header Tank: 1 gallon
-Total Usable: 26 gallons
+Standard Tanks:  
+Total Capacity: 27 gallons. 
+Total Capacity Each Tank: 13 gallons  
+Capacity Header Tank: 1 gallon  
+Total Usable: 26 gallons  
 
 
 ### MODEL SERIES 7 STi 1-
@@ -160,16 +160,15 @@ Total: 3 Liters
 
 MAXIMUM CERTIFICATED WEIGHTS
 
-Takeoff: 1550 lbs.
-Landing: 1550 lbs.
-Weight in Baggage Compartment: 140lb
-Baggage Area 1 (or passenger on child’s seat) – Station 50 to 76: 120 lbs.
-See note below.
+Takeoff: 1550 lbs 
+Landing: 1550 lbs 
+Weight in Baggage Compartment: 140lb  
+See note below.  
 
 STANDARD AIRPLANE WEIGHTS
 
-Standard Empty Weight: 968 lbs.
-Maximum Useful Load: 582 lbs.
+Standard Empty Weight: 968 lbs  
+Maximum Useful Load: 582 lbs  
 
 CABIN AND ENTRY DIMENSIONS
 
@@ -181,8 +180,8 @@ Baggage area dimensions are illustrated in detail in Section 6.
 
 SPECIFIC LOADINGS
 
-Wing Loading: 10.5 lbs./sq. ft.
-Power Loading: 15.2 lbs./hp.
+Wing Loading:  10.47 lbs/sq ft  
+Power Loading: 11.00 lbs/hp  
 
 
 ### MODEL SERIES 7 STi 1-

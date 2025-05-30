@@ -348,23 +348,20 @@ Useful Load Useful Load is the difference between takeoff weight and the basic e
 weight.
 ```
 ```
-Gross (Loaded)
-Weight
+Gross (Loaded) Weight
 ```
 ```
 Gross (Loaded) Weight is the loaded weight of the airplane.
 ```
 ```
-Maximum Takeoff
-Weight
+Maximum Takeoff Weight
 ```
 ```
 Maximum Takeoff Weight is the maximum weight approved for the start of
 the takeoff run.
 ```
 ```
-Maximum Landing
-Weight
+Maximum Landing Weight
 ```
 ```
 Maximum Landing Weight is the maximum weight approved for the landing

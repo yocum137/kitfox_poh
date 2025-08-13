@@ -407,8 +407,7 @@ scale reading to obtain the actual (net) airplane weight.
 - FLIGHT LOAD FACTOR LIMITS
 - KINDS OF OPERATION LIMITS
 - FUEL LIMITATIONS
-- PLACARDS......................................................................................................................................................
-
+- PLACARDS
 
 ### MODEL SERIES 7 STi 2-
 
@@ -617,12 +616,8 @@ Flight into known icing conditions is prohibited.
 FUEL LIMITATIONS
 
 2 Standard Tanks: 13 U.S. gallons each
-Total Fuel: 26 U.S. gallons
-Usable Fuel (all flight conditions): 24.5 U.S. gallons
-Unusable Fuel: 1.5 U.S. gallons
-2 Long Range Tanks: 19.5 U.S. gallons each
-Total Fuel: 39 U.S. gallons
-Usable Fuel (all flight conditions): 37.5 gallons
+Total Fuel: 27 U.S. gallons
+Usable Fuel (all flight conditions): 25.5 U.S. gallons
 Unusable Fuel: 1.5 U.S. gallons
 
 ### NOTE
@@ -656,10 +651,7 @@ The following information is displayed in the form of composite or individual pl
 ### MODEL SERIES 7 STi 2-9
 
 3. Near fuel shutoff valve (standard tanks):
-4. Near fuel shutoff valve (long range tanks):
 5. Near fuel tank filler cap (standard tanks):
-6. Near fuel tank filler cap (long range tanks):
-7. On the instrument panel near the altimeter:
 
 
 ### MODEL SERIES 7 STi 2-10
@@ -676,94 +668,94 @@ PAGE INTENTIONALLY BLANK
 
 ## Table of Contents
 
-### INTRODUCTION ............................................................................................................................................. 3
+### INTRODUCTION ................................................................ 3
 
-### AIRSPEEDS FOR EMERGENCY OPERATION .................................................................................................... 3
+### AIRSPEEDS FOR EMERGENCY OPERATION ........................................... 3
 
-### OPERATIONAL CHECKLISTS ........................................................................................................................... 3
+### OPERATIONAL CHECKLISTS ...................................................... 3
 
-### ENGINE FAILURES ...................................................................................................................................... 3
+### ENGINE FAILURES ............................................................. 3
 
-### ENGINE FAILURE DURING TAKEOFF RUN .............................................................................................. 3
+### ENGINE FAILURE DURING TAKEOFF RUN ........................................... 3
 
-### ENGINE FAILURE IMMEDIATELY AFTER TAKEOFF ................................................................................. 4
+### ENGINE FAILURE IMMEDIATELY AFTER TAKEOFF .................................... 4
 
-### ENGINE FAILURE DURING FLIGHT ......................................................................................................... 4
+### ENGINE FAILURE DURING FLIGHT ................................................ 4
 
-### FORCED LANDINGS ................................................................................................................................... 4
+### FORCED LANDINGS ............................................................. 4
 
-### EMERGENCY LANDING WITHOUT ENGINE POWER .............................................................................. 4
+### EMERGENCY LANDING WITHOUT ENGINE POWER ...................................... 4
 
-### PRECAUTIONARY LANDING WITH ENGINE POWER .............................................................................. 4
+### PRECAUTIONARY LANDING WITH ENGINE POWER ..................................... 4
 
-### DITCHING .............................................................................................................................................. 5
+### DITCHING .................................................................... 5
 
-### FIRES .......................................................................................................................................................... 5
+### FIRES ....................................................................... 5
 
-### DURING START ON GROUND ................................................................................................................ 5
+### DURING START ON GROUND ...................................................... 5
 
-### ENGINE FIRE IN FLIGHT ......................................................................................................................... 6
+### ENGINE FIRE IN FLIGHT ....................................................... 6
 
-### ELECTRICAL FIRE IN FLIGHT ................................................................................................................... 6
+### ELECTRICAL FIRE IN FLIGHT ................................................... 6
 
-### CABIN FIRE ............................................................................................................................................ 6
+### CABIN FIRE .................................................................. 6
 
-### WING FIRE ............................................................................................................................................. 7
+### WING FIRE ................................................................... 7
 
-### ICING ......................................................................................................................................................... 7
+### ICING ....................................................................... 7
 
-### INADVERTENT ICING ENCOUNTER ........................................................................................................ 7
+### INADVERTENT ICING ENCOUNTER ................................................. 7
 
-### LANDING WITH A FLAT MAIN TIRE ........................................................................................................... 7
+### LANDING WITH A FLAT MAIN TIRE ............................................... 7
 
-### ELECTRICAL POWER SUPPLY SYSTEM MALFUNCTIONS ............................................................................ 8
+### ELECTRICAL POWER SUPPLY SYSTEM MALFUNCTIONS ................................. 8
 
-### OVER-VOLTAGE LIGHT ILLUMINATES .................................................................................................... 8
+### OVER-VOLTAGE LIGHT ILLUMINATES .............................................. 8
 
-### AMMETER SHOWS DISCHARGE ............................................................................................................ 8
+### AMMETER SHOWS DISCHARGE ..................................................... 8
 
-### AMPLIFIED PROCEDURES .............................................................................................................................. 9
+### AMPLIFIED PROCEDURES ........................................................ 9
 
-### ENGINE FAILURE ....................................................................................................................................... 9
+### ENGINE FAILURE .............................................................. 9
 
 
 ### MODEL SERIES 7 STi 3-2
 
-### FORCED LANDINGS ................................................................................................................................. 10
+### FORCED LANDINGS ............................................................ 10
 
-### LANDING WITHOUT ELEVATOR CONTROL .............................................................................................. 10
+### LANDING WITHOUT ELEVATOR CONTROL ........................................... 10
 
-### FIRES ........................................................................................................................................................ 10
+### FIRES ...................................................................... 10
 
-### EMERGENCY OPERATION IN CLOUDS ..................................................................................................... 10
+### EMERGENCY OPERATION IN CLOUDS .............................................. 10
 
 ```
-(Vacuum System Failure) ........................................................................................................................ 10
-EXECUTING A 180° TURN IN CLOUDS ................................................................................................. 11
+(Vacuum System Failure) ........................................................ 10
+EXECUTING A 180° TURN IN CLOUDS ................................................ 11
 ```
 ```
-EMERGENCY DESCENT THROUGH CLOUDS ........................................................................................ 11
-RECOVERY FROM A SPIRAL DIVE ......................................................................................................... 11
+EMERGENCY DESCENT THROUGH CLOUDS ............................................... 11
+RECOVERY FROM A SPIRAL DIVE .................................................... 11
 ```
 ```
-FLIGHT IN ICING CONDITIONS ................................................................................................................. 12
-SPINS ....................................................................................................................................................... 12
+FLIGHT IN ICING CONDITIONS ..................................................... 12
+SPINS .......................................................................... 12
 ```
 ```
-ROUGH ENGINE OPERATION OR LOSS OF POWER ................................................................................. 12
-CARBURETOR ICING ............................................................................................................................ 12
+ROUGH ENGINE OPERATION OR LOSS OF POWER ........................................ 12
+CARBURETOR ICING ............................................................... 12
 ```
 ```
-SPARK PLUG FOULING ......................................................................................................................... 13
-MAGNETO MALFUNCTION .................................................................................................................. 13
+SPARK PLUG FOULING ............................................................. 13
+MAGNETO MALFUNCTION ............................................................ 13
 ```
 ```
-LOW OIL PRESSURE ............................................................................................................................. 13
-ELECTRICAL POWER SUPPLY SYSTEM MALFUNCTIONS .......................................................................... 13
+LOW OIL PRESSURE ............................................................... 13
+ELECTRICAL POWER SUPPLY SYSTEM MALFUNCTIONS .................................... 13
 ```
 ```
-EXCESSIVE RATE OF CHARGE .............................................................................................................. 13
-INSUFFICIENT RATE OF CHARGE ......................................................................................................... 14
+EXCESSIVE RATE OF CHARGE ....................................................... 13
+INSUFFICIENT RATE OF CHARGE .................................................... 14
 ```
 
 ### MODEL SERIES 7 STi 3-3
@@ -780,16 +772,14 @@ optional systems can be found in Section 9.
 
 AIRSPEEDS FOR EMERGENCY OPERATION
 
-Engine Failure After Takeoff ................................................................................................ 60 KIAS
+Engine Failure After Takeoff .............................................. 60 KIAS
 Maneuver Speed:
-1670 Lbs ............................................................................................................... 104 KIAS
-1500 Lbs ................................................................................................................. 98 KIAS
-1350 Lbs ................................................................................................................. 93 KIAS
-Maximum Glide .................................................................................................................... 60 KIAS
-Precautionary Landing With Engine Power ......................................................................... 55 KIAS
+1550 Lbs .................................................................. 98 KIAS
+Maximum Glide ............................................................. 60 KIAS
+Precautionary Landing With Engine Power ................................... 55 KIAS
 Landing Without Engine Power:
-Wing Flaps Up ........................................................................................................ 65 KIAS
-Wing Flaps Down ................................................................................................... 60 KIAS
+Wing Flaps Up ............................................................. 65 KIAS
+Wing Flaps Down ........................................................... 60 KIAS
 
 OPERATIONAL CHECKLISTS
 
@@ -800,9 +790,7 @@ ENGINE FAILURE DURING TAKEOFF RUN
 1. Throttle – IDLE.
 2. Brakes – APPLY.
 3. Wing Flaps – RETRACT.
-4. Mixture – IDLE CUT-OFF.
-5. Ignition Switch – OFF.
-6. Master Switch – OFF.
+4. Master Switch – OFF.
 
 
 ### MODEL SERIES 7 STi 3-4
@@ -810,44 +798,37 @@ ENGINE FAILURE DURING TAKEOFF RUN
 ENGINE FAILURE IMMEDIATELY AFTER TAKEOFF
 
 1. Airspeed – 60 KIAS.
-2. Mixture – IDLE CUT-OFF.
-3. Fuel Shutoff Valve – OFF.
-4. Ignition Switch – OFF.
-5. Wing Flaps – AS REQUIRED.
-6. Master Switch – OFF.
+2. Fuel Shutoff Valve – OFF.
+3. Wing Flaps – AS REQUIRED.
+4. Master Switch – OFF.
 
 ENGINE FAILURE DURING FLIGHT
 
 1. Airspeed – 60 KIAS.
-2. Carburetor Heat – ON.
-3. Primer – IN and LOCKED.
-4. Fuel Shutoff Valve – ON.
-5. Mixture – RICH.
-6. Ignition Switch – BOTH (or START if propeller is stopped).
+2. Fuel Shutoff Valve – ON.
+3. Power Switch - EMS BACKUP.
+4. Start Button - Press START if propeller is stopped.
 
 FORCED LANDINGS
 
 EMERGENCY LANDING WITHOUT ENGINE POWER
 
 1. Airspeed – 65 KIAS (flaps UP),
-    60 KIAS (flaps DOWN).
-2. Mixture – IDLE CUT-OFF.
-3. Fuel Shutoff Valve – OFF.
-4. Ignition Switch – OFF
-5. Wing Flaps – AS REQUIRED (30° recommended).
-6. Master Switch – OFF.
-7. Doors – UNLATCH PRIOR TO TOUCHDOWN.
-8. Touchdown – SLIGHTLY TAIL LOW.
-9. Brakes – APPLY HEAVILY.
+              60 KIAS (flaps DOWN).
+2. Fuel Shutoff Valve – OFF.
+3. Wing Flaps – AS REQUIRED (Full recommended).
+4. Master Switch – OFF.
+5. Doors – UNLATCH PRIOR TO TOUCHDOWN.
+6. Touchdown – SLIGHTLY TAIL LOW.
+7. Brakes – APPLY HEAVILY.
 
 PRECAUTIONARY LANDING WITH ENGINE POWER
 
 1. Airspeed – 60 KIAS.
-2. Wing Flaps – 20°.
-3. Selected Field – FLY OVER, noting terrain and obstructions, then retract flaps upon reaching a
-    safe altitude and airspeed.
+2. Wing Flaps – Half.
+3. Selected Field – FLY OVER, noting terrain and obstructions, Wind Wires Surface Slope (WWSS)
 4. Radio and Electrical Switches – OFF.
-5. Wing Flaps – 30° (on final approach).
+5. Wing Flaps – Full (on final approach).
 6. Airspeed – 55 KIAS.
 7. Master Switch – OFF.
 8. Doors – UNLATCH PRIOR TO TOUCHDOWN.
@@ -862,14 +843,13 @@ DITCHING
 1. Radio – TRANSMIT MAYDAY on 121.5 MHz, giving location and intentions.
 2. Heavy Objects (in baggage area) – SECURE OR JETTISON.
 3. Approach – High Winds, Heavy Seas – INTO THE WIND.
-    Light Winds, Heavy Swells – PARALLEL TO SWELLS.
-4. Wing Flaps – 30°.
+              Light Winds, Heavy Swells – PARALLEL TO SWELLS.
+4. Wing Flaps – Full.
 5. Power – ESTABLISH 300 FT/MIN DESCENT AT 55 KIAS.
 6. Cabin Doors – UNLATCH.
 7. Touchdown – LEVEL ATTITUDE AT 300 FT/MIN DESCENT.
 8. Face – CUSHION at touchdown with folded coat.
-9. Airplane – EVACUATE through cabin doors. If necessary, open windows and flood cabin to
-    equalize pressure so doors can be opened.
+9. Airplane – EVACUATE through cabin doors.
 10. Life Vests and Raft – INFLATE.
 
 FIRES
@@ -881,8 +861,8 @@ DURING START ON GROUND
 
 If engine starts:
 
-2. Power – 1700 RPM for a few minutes.
-3. Engine – SHUTDOWN and inspect for damage.
+1. Power – 3300 RPM for a few minutes.
+2. Engine – SHUTDOWN and inspect for damage.
 
 If engine fails to start:
 
@@ -890,8 +870,7 @@ If engine fails to start:
 2. Fire Extinguisher – OBTAIN (have ground attendants obtain if not installed).
 3. Engine – SECURE.
     a. Master Switch – OFF.
-    b. Ignition Switch – OFF.
-    c. Fuel Shutoff Valve – OFF.
+    b. Fuel Shutoff Valve – OFF.
 4. Fire – EXTINGUISH using fire extinguisher, wool blanket, or dirt.
 5. Fire Damage – INSPECT, repair damage or replace damaged components or wiring before
     conducting another flight.
@@ -901,18 +880,18 @@ If engine fails to start:
 
 ENGINE FIRE IN FLIGHT
 
-1. Mixture – IDLE CUT-OFF.
+1. Fuel Pumps – OFF.
 2. Fuel Shutoff Valve – OFF.
 3. Master Switch – OFF.
-4. Cabin Heat and Air – OFF (except wing root vents).
-5. Airspeed – 85 KIAS (If fire is not extinguished, increase glide speed to find an airspeed which will
+4. Cabin Air – OFF.
+5. Airspeed – 85 KIAS in a side slip to the left (If fire is not extinguished, increase glide speed to find an airspeed which will
     provide an incombustible mixture).
 6. Forced Landing – EXECUTE (as described in Emergency Landing Without Engine Power).
 
 ELECTRICAL FIRE IN FLIGHT
 
 1. Master Switch – OFF.
-2. All Other Switches (except ignition switch) – OFF.
+2. All Other Switches – OFF.
 3. Vents/Cabin Air/Heat – CLOSED.
 4. Fire Extinguisher – ACTIVATE (if available).
 
@@ -932,7 +911,7 @@ If fire appears out and electrical power is necessary for continuance of flight:
 CABIN FIRE
 
 1. Master Switch – OFF.
-2. Vents/Cabin Air/Heat – CLOSED (to avoid drafts).
+2. Vents/Cabin Air – CLOSED (to avoid drafts).
 3. Fire Extinguisher – ACTIVATE (if available)
 
 ### WARNING
@@ -950,7 +929,8 @@ WING FIRE
 
 1. Navigation Light Switch – OFF.
 2. Strobe Light Switch (if installed) – OFF.
-3. Pitot Heat Switch (if installed) – OFF.
+3. Landing/Wig-wag (if installed) - OFF.
+4. Pitot Heat Switch (if installed) – OFF.
 
 ### NOTE
 
@@ -964,24 +944,19 @@ INADVERTENT ICING ENCOUNTER
 
 1. Turn pitot heat switch ON (if installed).
 2. Turn back or change altitude to obtain an outside air temperature that is less conducive to icing.
-3. Pull cabin heat control full out to obtain maximum defroster air temperature. For greater air
+3. Set cabin heat control to high to obtain maximum defroster air temperature. For greater air
     flow at reduced temperatures, adjust the cabin air control as required.
 4. Open the throttle to increase engine speed and minimize ice build-up on propeller blades.
-5. Watch for signs of carburetor air filter ice and apply carburetor heat as required. An unexpected
-    loss in engine speed could be caused by carburetor ice or air intake filter ice. Lean the mixture
-    for maximum RPM, if carburetor heat is used continuously.
-6. Plan a landing at the nearest airport. With an extremely rapid ice build-up, select a suitable “off
+5. Plan a landing at the nearest airport. With an extremely rapid ice build-up, select a suitable “off
     airport” landing site.
-7. With an ice accumulation of 1/4 inch or more on the wing leading edges, be prepared for
+6. With an ice accumulation of 1/4 inch or more on the wing leading edges, be prepared for
     significantly higher stall speed.
-8. Leave wing flaps retracted. With a severe ice build-up on the horizontal tail, the change in wing
+7. Leave wing flaps retracted. With a severe ice build-up on the horizontal tail, the change in wing
     wake airflow direction caused by wing flap extension could result in a loss of elevator
     effectiveness.
-9. Open left window and, if practical, scrape ice from a portion of the windshield for visibility in the
-    landing approach.
-10. Perform a landing approach using a forward slip, if necessary, for improved visibility.
-11. Approach at 65 to 75 KIAS depending upon the amount of ice accumulation.
-12. Perform a landing in level attitude.
+8. Perform a landing approach using a forward slip, if necessary, for improved visibility.
+9. Approach at 65 to 75 KIAS depending upon the amount of ice accumulation.
+10. Perform a landing in level attitude.
 
 LANDING WITH A FLAT MAIN TIRE
 
@@ -995,9 +970,9 @@ LANDING WITH A FLAT MAIN TIRE
 
 ELECTRICAL POWER SUPPLY SYSTEM MALFUNCTIONS
 
-OVER-VOLTAGE LIGHT ILLUMINATES
+OVER-VOLTAGE WARNING ILLUMINATES
 
-1. Master Switch – OFF (both sides).
+1. Master Switch – OFF.
 2. Master Switch – ON.
 3. Over-Voltage Light – OFF.
 
@@ -1007,9 +982,8 @@ If over-voltage light illuminates again:
 
 AMMETER SHOWS DISCHARGE
 
-1. Alternator – OFF.
-2. Nonessential Electrical Equipment – OFF.
-3. Flight – TERMINATE as soon as practical.
+1. Nonessential Electrical Equipment – OFF.
+2. Flight – TERMINATE as soon as practical.
 
 
 ### MODEL SERIES 7 STi 3-9
@@ -1022,7 +996,7 @@ If an engine failure occurs during the takeoff run, the most important thing to 
 the remaining runway. Those extra items on the checklist will provide added safety after a failure of this
 type.
 
-Prompt lowering of the nose to maintain airspeed and establish a glide attitude is the first response to
+PROMPTLY LOWERING THE NOSE TO MAINTAIN AIRSPEED and establish a glide attitude is the first response to
 an engine failure after takeoff. In most cases, the landing should be planned straight ahead with only
 small changes in direction to avoid obstructions. Altitude and airspeed are seldom sufficient to execute
 a 180° gliding turn necessary to return to the runway. The checklist procedures assume that adequate
@@ -1086,7 +1060,7 @@ GLIDE DISTANCE - NAUTICAL MILES
 ```
 ### SPEED 60 KIAS
 
-### PROPELLERWINDMILLING
+### PROPELLER WINDMILLING
 
 ### FLAPS UP
 
@@ -1113,9 +1087,9 @@ throttle and elevator trim controls. Then **do not change the elevator trim cont
 glide angle by adjusting power exclusively.
 
 At flareout, the nose-down moment resulting from power reduction is an adverse factor and the
-airplane may hit on the nose wheel. Consequently, at flareout, the trim control should be set at the full
+airplane may hit nose low. Consequently, at flareout, the trim control should be set at the full
 nose-up position and the power adjusted so that the airplane will rotate to the horizontal attitude for
-touchdown. Close the throttle at touchdown.
+touchdown. Retract the flaps and close the throttle at touchdown.
 
 FIRES
 
@@ -1127,13 +1101,6 @@ The initial indication of an electrical fire is usually the odor of burning insu
 problem should result in elimination of the fire.
 
 EMERGENCY OPERATION IN CLOUDS
-
-(Vacuum System Failure)
-
-In the event of a vacuum system failure during flight in marginal weather, the directional indicator and
-attitude indicator will be disabled, and the pilot will have to rely on the turn coordinator if he
-inadvertently flies into clouds. The following instructions assume that only the electrically-powered turn
-coordinator is operative, and that the pilot is not completely proficient in instrument flying.
 
 
 ### MODEL SERIES 7 STi 3-11
@@ -1165,15 +1132,13 @@ steer a straight course with rudder control by monitoring the turn coordinator. 
 compass heading and make minor corrections to hold an approximate course. Before descending into
 the clouds, set up a stabilized let-down condition as follows:
 
-1. Apply full rich mixture.
-2. Use full carburetor heat.
-3. Reduce power to set up a 500 to 800 ft/min rate of descent.
-4. Adjust the elevator trim for a stabilized descent at 70 KIAS.
-5. Keep hands off control wheel.
-6. Monitor turn coordinator and make corrections by rudder alone.
-7. Check trend of compass card movement and make cautious corrections with rudder to stop
+1. Reduce power to set up a 500 to 800 ft/min rate of descent.
+2. Adjust the elevator trim for a stabilized descent at 70 KIAS.
+3. Keep hands off control stick.
+4. Monitor turn coordinator and make corrections by rudder alone.
+5. Check trend of compass card movement and make cautious corrections with rudder to stop
     turn.
-8. Upon breaking out of clouds, resume normal cruising flight.
+6. Upon breaking out of clouds, resume normal cruising flight.
 
 RECOVERY FROM A SPIRAL DIVE
 
@@ -1184,14 +1149,12 @@ If a spiral is encountered, proceed as follows:
     the turn coordinator with the horizon reference line.
 3. Cautiously apply elevator back pressure to slowly reduce the airspeed to 70 KIAS.
 4. Adjust the elevator trim control to maintain a 70 KIAS glide.
-5. Keep hands off the control wheel, using rudder control to hold a straight heading.
+5. Keep hands off the control stick, using rudder control to hold a straight heading.
 
 
 ### MODEL SERIES 7 STi 3-12
 
-6. Apply carburetor heat.
-7. Clear engine occasionally, but avoid using enough power to disturb the trimmed glide.
-8. Upon breaking out of clouds, resume normal cruising flight.
+6. Upon breaking out of clouds, resume normal cruising flight.
 
 FLIGHT IN ICING CONDITIONS
 
@@ -1203,13 +1166,10 @@ SPINS
 
 Should an inadvertent spin occur, the following recovery procedure should be used:
 
-### 1. PLACE AILERONS IN NEUTRAL POSITION.
-
-### 2. RETARD THROTTLE TO IDLE POSITION.
-
-### 3. APPLY AND HOLD FULL RUDDER OPPOSITE TO THE DIRECTION OF ROTATION.
-
-### 4. JUST AFTER THE RUDDER REACHES THE STOP, MOVE THE CONTROL WHEEL BRISKLY FORWARD
+1. PLACE AILERONS IN NEUTRAL POSITION.
+2. RETARD THROTTLE TO IDLE POSITION.
+3. APPLY AND HOLD FULL RUDDER OPPOSITE TO THE DIRECTION OF ROTATION.
+4. JUST AFTER THE RUDDER REACHES THE STOP, MOVE THE CONTROL STICK BRISKLY FORWARD
 
 ```
 FAR ENOUGH TO BREAK THE STALL. Full down elevator may be required at aft center of gravity
@@ -1232,39 +1192,20 @@ Procedures (Section 4).
 
 ROUGH ENGINE OPERATION OR LOSS OF POWER
 
-CARBURETOR ICING
-
-A gradual loss of RPM and eventual engine roughness may result from the formation of carburetor ice.
-To clear the ice, apply full throttle and pull the carburetor heat knob full out until the engine runs
-smoothly; then remove carburetor heat and readjust the throttle. If conditions require the continued
-use of carburetor heat in cruise flight, use the minimum amount of heat necessary to prevent ice from
-forming and lean the mixture slightly for smoothest engine operation.
-
-
 ### MODEL SERIES 7 STi 3-13
 
 SPARK PLUG FOULING
 
 A slight engine roughness in flight may be caused by one or more spark plugs becoming fouled by
-carbon or lead deposits. This may be verified by turning the ignition switch momentarily from BOTH to
-either L or R position. An obvious power loss in single ignition operation is evidence of spark plug or
-magneto trouble. Assuming that spark plugs are the more likely cause, lean the mixture to the
-recommended lean setting for cruise flight. If the problem does not clear up in several minutes,
-determine if a richer mixture setting will produce smoother operation. If not, proceed to the nearest
-airport for repairs using the BOTH position of the ignition switch unless extreme roughness dictates the
-use of a single ignition position.
-
-MAGNETO MALFUNCTION
-
-A sudden engine roughness or misfiring is usually evidence of magneto problems. Switching from BOTH
-to either L or R ignition switch position will identify which magneto is malfunctioning. Select different
-power settings and enrichen the mixture to determine if continued operation on BOTH magnetos is
-practicable. If not, switch to the good magneto and proceed to the nearest airport for repairs.
+carbon or lead deposits. This may be verified by turning Lane A off briefly, turning Lane A back on and 
+waiting for the light to turn back on and then repeating the same procedure with Lane B. An obvious 
+power loss in single ignition operation is evidence of spark plug problem. Proceed to the nearest
+airport for repairs.
 
 LOW OIL PRESSURE
 
-If low oil pressure is accompanied by normal oil temperature, there is a possibility the oil pressure gage
-or relief valve is malfunctioning. A leak in the line to the gage is not necessarily cause for an immediate
+If low oil pressure is accompanied by normal oil temperature, there is a possibility the oil pressure gauge
+or relief valve is malfunctioning. A leak in the line to the gauge is not necessarily cause for an immediate
 precautionary landing because an orifice in this line will prevent a sudden loss of oil from the engine
 sump. However, a landing at the nearest airport would be advisable to inspect the source of trouble.
 

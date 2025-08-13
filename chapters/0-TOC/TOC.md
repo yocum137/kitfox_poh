@@ -137,7 +137,6 @@ min. MON 85 RON 95 min. AKI 91
 
 ## FUEL LIMITATIONS
 
-Standard Tanks:  
 Total Capacity: 27 gallons. 
 Total Capacity Each Tank: 13 gallons  
 Capacity Header Tank: 1 gallon  
@@ -160,8 +159,8 @@ Total: 3 Liters
 
 MAXIMUM CERTIFICATED WEIGHTS
 
-Takeoff: 1550 lbs 
-Landing: 1550 lbs 
+Takeoff: 1550 lbs
+Landing: 1550 lbs
 Weight in Baggage Compartment: 140lb  
 See note below.  
 

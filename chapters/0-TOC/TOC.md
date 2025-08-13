@@ -45,23 +45,23 @@ TABLE OF CONTENTS
 
 ## SECTION
 
-### GENERAL ........................................................................................................................................ 1
+### GENERAL ..................................................................... 1
 
-### LIMITATIONS .................................................................................................................................. 2
+### LIMITATIONS ................................................................. 2
 
-### EMERGENCY PROCEDURES ............................................................................................................ 3
+### EMERGENCY PROCEDURES ........................................................ 3
 
-### NORMAL PROCEDURES .................................................................................................................. 4
+### NORMAL PROCEDURES ........................................................... 4
 
-### PERFORMANCE .............................................................................................................................. 5
+### PERFORMANCE ................................................................. 5
 
-### WEIGHT & BALANCE/EQUIPMENT LIST ......................................................................................... 6
+### WEIGHT & BALANCE/EQUIPMENT LIST ............................................. 6
 
-### AIRPLANE & SYSTEMS DESCRIPTIONS ............................................................................................ 7
+### AIRPLANE & SYSTEMS DESCRIPTIONS ............................................. 7
 
-### AIRPLANE HANDLING, SERVICE & MAINTENANCE ......................................................................... 8
+### AIRPLANE HANDLING, SERVICE & MAINTENANCE .................................... 8
 
-SUPPLEMENTS (Optional Systems Description & Operating Procedures) ..................................... 9
+SUPPLEMENTS (Optional Systems Description & Operating Procedures) ............... 9
 
 This handbook will be kept current by Service Letters published by Kitfox Aircraft Company. These are
 
@@ -441,15 +441,11 @@ Airspeed limitations and their operational significance are shown in figure 2-1.
 |-----|--------------------|------|------|----------------------------------------------------|
 | VFE | Maximum Flap       |   82 |   80 | Do not exceed this speed with flaps down.          |
 |     | Extended Speed     |      |      |                                                    |
+|-----|--------------------|------|------|----------------------------------------------------|
 |     | Maximum Door       |   77 |   75 | Do not exceed this speed with doors open.          |
 |     | Open Speed         |      |      |                                                    |
 
 
-### 139 143
-
-```
-Do not exceed this speed with windows open.
-```
 ## AIRSPEED LIMITATIONS
 
 
@@ -459,7 +455,7 @@ AIRSPEED INDICATOR MARKINGS
 
 Airspeed indicator markings and their color code significance are shown in figure 2-2.
 
-### MARKING KIAS VALUE
+### MARKING MPH VALUE
 
 ### OR RANGE
 
@@ -482,14 +478,14 @@ weight VS at most forward C.G. with flaps retracted.
 Upper limit is maximum structural cruising speed.
 ```
 ```
-Yellow Arc 111 – 149
+Yellow Arc 111 – 140
 ```
 ```
 Operations must be conducted with caution and
 only in smooth air.
 ```
 ```
-Red Line 149 Maximum speed for all operations.
+Red Line 140 Maximum speed for all operations.
 ```
 ## AIRSPEED INDICATOR MARKINGS
 
@@ -498,11 +494,11 @@ Red Line 149 Maximum speed for all operations.
 
 POWER PLANT LIMITATIONS
 
-Engine Manufacturer: Avco Lycoming
-Engine Model Number: O-235-L2C
+Engine Manufacturer: Rotax
+Engine Model Number: 915iS A
 Engine Operating Limits for Takeoff and Continuous Operations:
-Maximum Power: 110 BHP
-Maximum Engine Speed: 2550 RPM
+Maximum Power: 141 BHP
+Maximum Engine Speed: 5800 RPM
 
 ### NOTE
 
@@ -576,11 +572,10 @@ No aerobatic maneuvers are approved except those listed below:
 ### MANEUVER MAXIMUM ENTRY SPEED*
 
 ```
-Chandelles ................................................................................................................. 95 knots
-Lazy Eights ................................................................................................................. 95 knots
-Steep Turns ............................................................................................................... 95 knots
-Spins ................................................................................................... Use Slow Deceleration
-Stalls (Except Whip Stalls) .................................................................. Use Slow Deceleration
+Chandelles ................................................................ 95 knots
+Lazy Eights ............................................................... 95 knots
+Steep Turns ............................................................... 95 knots
+Stalls (Except Whip Stalls) .................................. Use Slow Deceleration
 ```
 * Higher speeds can be used if abrupt use of the controls is avoided.
 

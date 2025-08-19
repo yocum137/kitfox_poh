@@ -428,22 +428,13 @@ AIRSPEED LIMITATIONS
 
 Airspeed limitations and their operational significance are shown in figure 2-1.
 
-|     | SPEED              | MPH | REMARKS                                            |
+|     | SPEED | MPH | REMARKS |
 |-----|--------------------|-----|----------------------------------------------------|
-| VNE | Never Exceed Speed | 140 | Do not exceed this speed in any operation.         |
-|-----|--------------------|-----|----------------------------------------------------|
-| VNO | Maximum Structural | 111 | Do not exceed this speed except in smooth air, and |
-|     | Cruising Speed     |     | then only with caution.                            |
-|-----|--------------------|-----|----------------------------------------------------|
-| VA  | Maneuvering Speed: |     |                                                    |
-|     |      1550 Pounds   | 104 | Do not make full or abrupt control movements       |
-|     |                    |     | above this speed                                   |
-|-----|--------------------|-----|----------------------------------------------------|
-| VFE | Maximum Flap       |  80 | Do not exceed this speed with flaps down.          |
-|     | Extended Speed     |     |                                                    |
-|-----|--------------------|-----|----------------------------------------------------|
-|     | Maximum Door       |  75 | Do not exceed this speed with doors open.          |
-|     | Open Speed         |     |                                                    |
+| VNE | Never Exceed Speed | 140 | Do not exceed this speed in any operation. |
+| VNO | Maximum Structural Cruising Speed | 111 | Do not exceed this speed except in smooth air, and then only with caution |
+| VA  | Maneuvering Speed: 1550 Pounds| 104 | Do not make full or abrupt control movements above this speed |
+| VFE | Maximum Flap Extended Speed |  80 | Do not exceed this speed with flaps down. |
+|     | Maximum Door Open Speed | 75 | Do not exceed this speed with doors open. |
 
 
 

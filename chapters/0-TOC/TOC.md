@@ -14,7 +14,7 @@
 PAGE INTENTIONALLY BLANK
 
 
-### MODEL SERIES 7 STi
+
 
 CONGRATULATIONS.....
 
@@ -39,7 +39,7 @@ The following services are offered by the Kitfox Customer Services Department:
     News Letters, published by Kitfox Aircraft Company.
 
 
-### MODEL SERIES 7 STi
+
 
 TABLE OF CONTENTS
 
@@ -81,26 +81,26 @@ current status.
 ## GENERAL
 
 
-### MODEL SERIES 7 STi 1-
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 1-
+
 
 ![Kitfox STi 3 View image](https://github.com/yocum137/kitfox_poh/blob/main/images/Kitfox-S7-STi-3-view.png?raw=true)
 ```
 Figure 1-1. Three View
 ```
 
-### MODEL SERIES 7 STi 1-
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 1-
+
 
 INTRODUCTION
 
@@ -143,7 +143,7 @@ Capacity Header Tank: 1 gallon
 Total Usable: 26 gallons  
 
 
-### MODEL SERIES 7 STi 1-
+
 
 ### NOTE
 
@@ -155,7 +155,7 @@ XPS 5W-50 Full Synthetic Aviation Engine
 Oil Capacity:
 Total: 3 Liters
 
-### MODEL SERIES 7 STi 1-
+
 
 MAXIMUM CERTIFICATED WEIGHTS
 
@@ -183,7 +183,7 @@ Wing Loading:  10.47 lbs/sq ft
 Power Loading: 11.00 lbs/hp  
 
 
-### MODEL SERIES 7 STi 1-
+
 
 SYMBOLS, ABBREVIATIONS AND TERMINOLOGY
 
@@ -236,7 +236,7 @@ VY Best Rate-of-Climb Speed is the speed which results in the greatest gain in
 altitude in a given time.
 ```
 
-### MODEL SERIES 7 STi 1-
+
 
 METEOROLOGICAL TERMINOLOGY
 
@@ -291,7 +291,7 @@ expected per gallon of fuel consumed at a specific engine power setting
 and/or flight configuration.
 ```
 
-### MODEL SERIES 7 STi 1-
+
 
 WEIGHT AND BALANCE TERMINOLOGY
 
@@ -409,13 +409,13 @@ scale reading to obtain the actual (net) airplane weight.
 - FUEL LIMITATIONS
 - PLACARDS
 
-### MODEL SERIES 7 STi 2-
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 2-
+
 
 INTRODUCTION
 
@@ -433,13 +433,13 @@ Airspeed limitations and their operational significance are shown in figure 2-1.
 | VNE | Never Exceed Speed | 140 | Do not exceed this speed in any operation. |
 | VNO | Maximum Structural Cruising Speed | 111 | Do not exceed this speed except in smooth air, and then only with caution |
 | VA  | Maneuvering Speed: 1550 Pounds| 104 | Do not make full or abrupt control movements above this speed |
-| VFE | Maximum Flap Extended Speed |  80 | Do not exceed this speed with flaps down. |
+| VFE | Maximum Flap Extended Speed | 80 | Do not exceed this speed with flaps down. |
 |     | Maximum Door Open Speed | 75 | Do not exceed this speed with doors open. |
 
 
 
 
-### MODEL SERIES 7 STi 2-
+
 
 ## AIRSPEED LIMITATIONS
 
@@ -466,7 +466,7 @@ Airspeed indicator markings and their color code significance are shown in figur
 ## AIRSPEED INDICATOR MARKINGS
 
 
-### MODEL SERIES 7 STi 2-
+
 
 POWER PLANT LIMITATIONS
 
@@ -511,7 +511,7 @@ Oil Pressure 25 psi 60 – 90 psi 100 psi
 Figure 2-3. Power Plant Instrument Markings
 ```
 
-### MODEL SERIES 7 STi 2-
+
 
 WEIGHT LIMITS
 
@@ -562,7 +562,7 @@ care should always be exercised to avoid excessive speed which in turn can impos
 the execution of all maneuvers, avoid abrupt use of controls.
 
 
-### MODEL SERIES 7 STi 2-7
+
 
 FLIGHT LOAD FACTOR LIMITS
 
@@ -608,7 +608,7 @@ Approved Fuel Grades (and Colors):
 100 (Formerly 100/130) Grade Aviation Fuel (Green)
 
 
-### MODEL SERIES 7 STi 2-8
+
 
 PLACARDS
 
@@ -619,19 +619,19 @@ The following information is displayed in the form of composite or individual pl
 2. In the baggage compartment:
 
 
-### MODEL SERIES 7 STi 2-9
+
 
 3. Near fuel shutoff valve (standard tanks):
 5. Near fuel tank filler cap (standard tanks):
 
 
-### MODEL SERIES 7 STi 2-10
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 3-1
+
 
 # SECTION 3
 
@@ -690,7 +690,7 @@ PAGE INTENTIONALLY BLANK
 ### ENGINE FAILURE .............................................................. 9
 
 
-### MODEL SERIES 7 STi 3-2
+
 
 ### FORCED LANDINGS ............................................................ 10
 
@@ -729,7 +729,7 @@ EXCESSIVE RATE OF CHARGE .......................................................
 INSUFFICIENT RATE OF CHARGE .................................................... 14
 ```
 
-### MODEL SERIES 7 STi 3-3
+
 
 INTRODUCTION
 
@@ -764,7 +764,7 @@ ENGINE FAILURE DURING TAKEOFF RUN
 4. Master Switch – OFF.
 
 
-### MODEL SERIES 7 STi 3-4
+
 
 ENGINE FAILURE IMMEDIATELY AFTER TAKEOFF
 
@@ -807,7 +807,7 @@ PRECAUTIONARY LANDING WITH ENGINE POWER
 10. Brakes – APPLY HEAVILY.
 
 
-### MODEL SERIES 7 STi 3-5
+
 
 DITCHING
 
@@ -847,7 +847,7 @@ If engine fails to start:
     conducting another flight.
 
 
-### MODEL SERIES 7 STi 3-6
+
 
 ENGINE FIRE IN FLIGHT
 
@@ -894,7 +894,7 @@ cabin.
 4. Land the airplane as soon as possible to inspect for damage.
 
 
-### MODEL SERIES 7 STi 3-7
+
 
 WING FIRE
 
@@ -937,7 +937,7 @@ LANDING WITH A FLAT MAIN TIRE
     control.
 
 
-### MODEL SERIES 7 STi 3-8
+
 
 ELECTRICAL POWER SUPPLY SYSTEM MALFUNCTIONS
 
@@ -957,7 +957,7 @@ AMMETER SHOWS DISCHARGE
 2. Flight – TERMINATE as soon as practical.
 
 
-### MODEL SERIES 7 STi 3-9
+
 
 AMPLIFIED PROCEDURES
 
@@ -1036,7 +1036,7 @@ GLIDE DISTANCE - NAUTICAL MILES
 ### FLAPS UP
 
 
-### MODEL SERIES 7 STi 3-10
+
 
 FORCED LANDINGS
 
@@ -1074,7 +1074,7 @@ problem should result in elimination of the fire.
 EMERGENCY OPERATION IN CLOUDS
 
 
-### MODEL SERIES 7 STi 3-11
+
 
 EXECUTING A 180° TURN IN CLOUDS
 
@@ -1123,7 +1123,7 @@ If a spiral is encountered, proceed as follows:
 5. Keep hands off the control stick, using rudder control to hold a straight heading.
 
 
-### MODEL SERIES 7 STi 3-12
+
 
 6. Upon breaking out of clouds, resume normal cruising flight.
 
@@ -1163,7 +1163,7 @@ Procedures (Section 4).
 
 ROUGH ENGINE OPERATION OR LOSS OF POWER
 
-### MODEL SERIES 7 STi 3-13
+
 
 SPARK PLUG FOULING
 
@@ -1208,7 +1208,7 @@ However, after thirty minutes of cruising flight, the ammeter should be indicati
 widths of charging current. If the charging rate were to remain above this value on a long flight, the
 
 
-### MODEL SERIES 7 STi 3-14
+
 
 battery would overheat and evaporate the electrolyte at an excessive rate. Electronic components in
 the electrical system could be adversely affected by higher than normal voltage if a faulty voltage
@@ -1230,7 +1230,7 @@ load on the system. All nonessential equipment should be turned off and the flig
 as practical.
 
 
-### MODEL SERIES 7 STi 4-1
+
 
 # SECTION 4
 
@@ -1289,7 +1289,7 @@ as practical.
 ### BALKED LANDING ............................................................... 9
 
 
-### MODEL SERIES 7 STi 4-2
+
 
 ### AFTER LANDING ................................................................ 9
 
@@ -1338,7 +1338,7 @@ as practical.
 ### NOISE ABATEMENT ............................................................. 20
 
 
-### MODEL SERIES 7 STi 4-3
+
 
 INTRODUCTION
 
@@ -1371,7 +1371,7 @@ Maximum Recommended Turbulent Air Penetration Speed:
 Maximum Demonstrated Crosswind Velocity ................................... 12 
 
 
-### MODEL SERIES 7 STi 4-4
+
 
 ```
 Figure 4-1. Preflight Inspection
@@ -1388,7 +1388,7 @@ with battery and pitot heat switches on. If a night flight is planned, check
 operation of all lights, and make sure a flashlight is available.
 ```
 
-### MODEL SERIES 7 STi 4-5
+
 
 CHECKLIST PROCEDURES
 
@@ -1437,7 +1437,7 @@ PREFLIGHT INSPECTION
 6. Nose Wheel Strut and Tire – CHECK for proper inflation.
 
 
-### MODEL SERIES 7 STi 4-6
+
 
 7. Nose Tie-Down – DISCONNECT.
 8. Static Source Opening (left side of fuselage) – CHECK for stoppage.
@@ -1485,7 +1485,7 @@ STARTING ENGINE (Temperatures Above Freezing)
 9. Oil Pressure – CHECK.
 
 
-### MODEL SERIES 7 STi 4-7
+
 
 BEFORE TAKEOFF
 
@@ -1530,7 +1530,7 @@ SHORT FIELD TAKEOFF
 9. Wing Flaps – RETRACT slowly after reaching 60 MPH.
 
 
-### MODEL SERIES 7 STi 4-8
+
 
 ENROUTE CLIMB
 
@@ -1579,7 +1579,7 @@ SHORT FIELD LANDING
 7. Wing Flaps – RETRACT.
 
 
-### MODEL SERIES 7 STi 4-9
+
 
 BALKED LANDING
 
@@ -1604,13 +1604,13 @@ SECURING AIRPLANE
 6. Control Lock – INSTALL.
 
 
-### MODEL SERIES 7 STi 4-10
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 4-11
+
 
 AMPLIFIED PROCEDURES
 
@@ -1647,7 +1647,7 @@ below freezing may be found under Cold Weather Operation paragraphs
 in this section.
 ```
 
-### MODEL SERIES 7 STi 4-12
+
 
 TAXIING
 
@@ -1669,7 +1669,7 @@ absolutely necessary. When the knob is pulled out to the heat position, air ente
 filtered.
 
 
-### MODEL SERIES 7 STi 4-13
+
 
 Taxiing over loose gravel or cinders should be done at low engine speed to avoid abrasion and stone
 damage to the propeller tips.
@@ -1709,7 +1709,7 @@ run-up (1700 RPM). The ammeter will remain within a needle width of its initial 
 alternator and voltage regulator are operating properly.
 
 
-### MODEL SERIES 7 STi 4-14
+
 
 TAKEOFF
 
@@ -1755,7 +1755,7 @@ slightly higher than normal, then pulled off abruptly to prevent possible settli
 while drifting. When clear of the ground, make a coordinated turn into the wind to correct for drift.
 
 
-### MODEL SERIES 7 STi 4-15
+
 
 ENROUTE CLIMB
 
@@ -1846,7 +1846,7 @@ should be leaned until engine RPM peaks and drops 25-50 RPM. At lower powers it 
 enrichen the mixture slightly to obtain smooth operation.
 
 
-### MODEL SERIES 7 STi 4-16
+
 
 Carburetor ice, as evidenced by an unexplained drop in RPM, can be removed by application of full
 carburetor heat. Upon regaining the original RPM (with heat off), use the minimum amount of heat (by
@@ -1898,7 +1898,7 @@ solo flight in which spins will be conducted, the copilot’s seat belt and shou
 secured. **Spins with baggage loadings or occupied child’s seat are not approved.**
 
 
-### MODEL SERIES 7 STi 4-17
+
 
 The seat belts and shoulder harnesses should be adjusted to provide proper restraint during all
 anticipated flight conditions. However, care should be taken to ensure that the pilot can easily reach
@@ -1955,7 +1955,7 @@ loadings to assure optimum recoveries.
     inputs may extend the recovery.
 
 
-### MODEL SERIES 7 STi 4-18
+
 
 ### 5. AS ROTATION STOPS, NEUTRALIZE RUDDER, AND MAKE A SMOOTH RECOVERY FROM THE
 
@@ -2008,7 +2008,7 @@ full power is applied. Upon reaching a safe airspeed, the flaps should be slowly
 position.
 
 
-### MODEL SERIES 7 STi 4-19
+
 
 COLD WEATHER OPERATION
 
@@ -2055,7 +2055,7 @@ is at the controls.
 16. Primer – LOCK.
 
 
-### MODEL SERIES 7 STi 4-20
+
 
 **Without Preheat:**
 
@@ -2108,7 +2108,7 @@ determination has been made by the Federal Aviation Administration that the nois
 airplane are or should be acceptable or unacceptable for operation at, into or out of, any airport.
 
 
-### MODEL SERIES 7 STi 5-1
+
 
 # SECTION 5
 
@@ -2167,7 +2167,7 @@ airplane are or should be acceptable or unacceptable for operation at, into or o
 ### ENDURANCE PROFILE ............................................................ 16
 
 
-### MODEL SERIES 7 STi 5-2
+
 
 ### 45 MINUTES RESERVE ........................................................... 16
 
@@ -2184,7 +2184,7 @@ airplane are or should be acceptable or unacceptable for operation at, into or o
 ### SHORT FIELD .................................................................. 18
 
 
-### MODEL SERIES 7 STi 5-3
+
 
 INTRODUCTION
 
@@ -2236,7 +2236,7 @@ Temperature 25°C
 Field length 3000 Feet
 
 
-### MODEL SERIES 7 STi 5-4
+
 
 TAKEOFF
 
@@ -2273,7 +2273,7 @@ nautical miles under no wind conditions. The endurance profile chart, figure 5-9
 3.9 hours.
 
 
-### MODEL SERIES 7 STi 5-5
+
 
 The range figure of 375 nautical miles is corrected to account for the expected 10 mph headwind at
 5500 feet.
@@ -2325,7 +2325,7 @@ Climb distance -10
 Cruise distance 310 Nautical Miles
 
 
-### MODEL SERIES 7 STi 5-6
+
 
 With an expected 10 mph headwind, the ground speed for cruise is predicted to be:
 
@@ -2376,7 +2376,7 @@ A correction for the effect of wind may be made based on Note 2 of the landing c
 procedure as outlined for takeoff.
 
 
-### MODEL SERIES 7 STi 5-7
+
 
 AIRSPEED CALIBRATION
 
@@ -2406,7 +2406,7 @@ Power required for level flight or maximum rated RPM dive.
 Figure 5-1. Airspeed Calibration
 ```
 
-### MODEL SERIES 7 STi 5-8
+
 
 TEMPERATURE CONVERSION CHART
 
@@ -2414,7 +2414,7 @@ TEMPERATURE CONVERSION CHART
 Figure 5-2. Temperature Conversion Chart
 ```
 
-### MODEL SERIES 7 STi 5-9
+
 
 STALL SPEEDS
 
@@ -2478,7 +2478,7 @@ MOST FORWARD CENTER OF GRAVITY
 Figure 5-3. Stall Speeds
 ```
 
-### MODEL SERIES 7 STi 5-10
+
 
 ```
 TAKEOFF DISTANCE
@@ -2598,7 +2598,7 @@ OBS
 Figure 5-4. Takeoff Distance
 ```
 
-### MODEL SERIES 7 STi 5-11
+
 
 RATE OF CLIMB
 
@@ -2651,7 +2651,7 @@ Mixture leaned above 3000 feet for maximum RPM.
 Figure 5-5. Rate of Climb
 ```
 
-### MODEL SERIES 7 STi 5-12
+
 
 ```
 TIME, FUEL, AND DISTANCE TO CLIMB
@@ -2744,7 +2744,7 @@ Standard Temperature
 Figure 5-6. Time, Fuel, and Distance to Climb
 ```
 
-### MODEL SERIES 7 STi 5-13
+
 
 CRUISE PERFORMANCE
 
@@ -2842,7 +2842,7 @@ TEMP
 Figure 5-7. Cruise Performance
 ```
 
-### MODEL SERIES 7 STi 5-14
+
 
 ```
 RANGE PROFILE
@@ -2868,7 +2868,7 @@ NOTES:
 Figure 5-8. Range Profile (Sheet 1 of 2)
 ```
 
-### MODEL SERIES 7 STi 5-15
+
 
 ```
 RANGE PROFILE
@@ -2894,7 +2894,7 @@ NOTES:
 Figure 5-8. Range Profile (Sheet 2 of 2)
 ```
 
-### MODEL SERIES 7 STi 5-16
+
 
 ```
 ENDURANCE PROFILE
@@ -2917,7 +2917,7 @@ Standard Temperature
 Figure 5-9. Endurance Profile (Sheet 1 of 2)
 ```
 
-### MODEL SERIES 7 STi 5-17
+
 
 ```
 ENDURANCE PROFILE
@@ -2940,7 +2940,7 @@ Standard Temperature
 Figure 5-9. Endurance Profile (Sheet 2 of 2)
 ```
 
-### MODEL SERIES 7 STi 5-18
+
 
 ```
 LANDING DISTANCE
@@ -3052,7 +3052,7 @@ OBS
 Figure 5-4. Landing Distance
 ```
 
-### MODEL SERIES 7 STi 6-1
+
 
 # SECTION 6
 
@@ -3069,13 +3069,13 @@ Figure 5-4. Landing Distance
 ### EQUIPMENT LIST ......................................................................................................................................... 13
 
 
-### MODEL SERIES 7 STi 6-2
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 6-3
+
 
 INTRODUCTION
 
@@ -3115,19 +3115,19 @@ AIRPLANE WEIGHING PROCEDURES
 6. Basic Empty Weight may be determined by completing figure 6-1.
 
 
-### MODEL SERIES 7 STi 6-4
+
 
 ```
 Figure 6-1. Sample Airplane Weighing
 ```
 
-### MODEL SERIES 7 STi 6-5
+
 
 ```
 Figure 6-2. Sample Weight and Balance Record
 ```
 
-### MODEL SERIES 7 STi 6-6
+
 
 WEIGHT AND BALANCE
 
@@ -3167,7 +3167,7 @@ Total the weights and moments/1000 and plot these values on the Center of Gravit
 to determine whether the point falls within the envelope, and if the loading is acceptable.
 
 
-### MODEL SERIES 7 STi 6-7
+
 
 ```
 Figure 6-3. Loading Arrangements
@@ -3176,37 +3176,37 @@ Figure 6-3. Loading Arrangements
 Figure 6-4. Baggage Loading and Tie-Down
 ```
 
-### MODEL SERIES 7 STi 6-8
+
 
 ```
 Figure 6-5. Internal Cabin Dimensions
 ```
 
-### MODEL SERIES 7 STi 6-9
+
 
 ```
 Figure 6-6. Sample Loading Problem
 ```
 
-### MODEL SERIES 7 STi 6-10
+
 
 ```
 Figure 6-7. Loading Graph
 ```
 
-### MODEL SERIES 7 STi 6-11
+
 
 ```
 Figure 6-8. Center of Gravity Moment Envelope
 ```
 
-### MODEL SERIES 7 STi 6-12
+
 
 ```
 Figure 6-9. Center of Gravity Limits
 ```
 
-### MODEL SERIES 7 STi 6-13
+
 
 EQUIPMENT LIST
 
@@ -3254,7 +3254,7 @@ components does not necessarily equal the complete assembly
 installation.
 ```
 
-### MODEL SERIES 7 STi 6-14
+
 
 ### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
 
@@ -3317,7 +3317,7 @@ TIRE, 4-PLY BLACKWALL C262003- 0102 4.0 - 10.8
 TUBE C252023- 0101 1.2 - 10.8
 
 
-### MODEL SERIES 7 STi 6-15
+
 
 ### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
 
@@ -3421,7 +3421,7 @@ C661076
 15.8
 ```
 
-### MODEL SERIES 7 STi 6-16
+
 
 ### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
 
@@ -3523,7 +3523,7 @@ G13-A CORROSION PROOFING, INTERNAL 0400027 - 2 4.5 68.0
 G16-A STATIC DISCHARGERS (SET OF 10) 0401015 0.4 117.6
 
 
-### MODEL SERIES 7 STi 6-17
+
 
 ### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
 
@@ -3725,7 +3725,7 @@ TRANSCEIVER (RT-359A)
 13.0
 ```
 
-### MODEL SERIES 7 STi 6-18
+
 
 ANTENNA (A-1098) 41530 - 0001 0.1 67.0
 **ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS**
@@ -3961,7 +3961,7 @@ MOUNT, WIRING & MISC HARDWARE
 12.9
 ```
 
-### MODEL SERIES 7 STi 6-19
+
 
 ### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
 
@@ -4199,7 +4199,7 @@ HEADPHONE INSTALLATION
 17.2
 ```
 
-### MODEL SERIES 7 STi 6-20
+
 
 ### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
 
@@ -4324,7 +4324,7 @@ H22-A-2 RT-385A 1ST UNIT ADDED MID-YEAR
 31.8
 ```
 
-### MODEL SERIES 7 STi 7-1
+
 
 # SECTION 7
 
@@ -4383,7 +4383,7 @@ H22-A-2 RT-385A 1ST UNIT ADDED MID-YEAR
 ### CARBURETOR AND PRIMING SYSTEM ..................................................................................................... 16
 
 
-### MODEL SERIES 7 STi 7-2
+
 
 ### COOLING SYSTEM ................................................................................................................................... 17
 
@@ -4438,7 +4438,7 @@ H22-A-2 RT-385A 1ST UNIT ADDED MID-YEAR
 ### STATIC DISCHARGERS .............................................................................................................................. 30
 
 
-### MODEL SERIES 7 STi 7-3
+
 
 INTRODUCTION
 
@@ -4483,25 +4483,25 @@ elevator trim tab. The leading edge of both left and right elevator tips incorpo
 contain balance weights.
 
 
-### MODEL SERIES 7 STi 7-4
+
 
 ```
 Figure 7-1. Flight Control and Trim Systems (Sheet 1 of 2)
 ```
 
-### MODEL SERIES 7 STi 7-5
+
 
 ```
 Figure 7-1. Flight Control and Trim Systems (Sheet 2 of 2)
 ```
 
-### MODEL SERIES 7 STi 7-6
+
 
 ```
 Figure 7-2. Instrument Panel (Sheet 1 of 2)
 ```
 
-### MODEL SERIES 7 STi 7-7
+
 
 1. Turn Coordinator
 2. Airspeed Indicator
@@ -4552,7 +4552,7 @@ Figure 7-2. Instrument Panel (Sheet 1 of 2)
 Figure 7-2. Instrument Panel (Sheet 2 of 2)
 ```
 
-### MODEL SERIES 7 STi 7-8
+
 
 FLIGHT CONTROLS
 
@@ -4600,7 +4600,7 @@ bars) will turn the nose wheel through an arc of approximately 8.5° each side o
 either left or right brake, the degree of turn may be increased by up to 30° each side of center.
 
 
-### MODEL SERIES 7 STi 7-9
+
 
 Moving the airplane by hand is most easily accomplished by attaching a tow bar to the nose gear strut.
 If a tow bar is not available, or pushing is required, use the wing struts as push points. Do not use the
@@ -4626,7 +4626,7 @@ right side of the instrument panel.
 Figure 7-3. Wing Flap System
 ```
 
-### MODEL SERIES 7 STi 7-10
+
 
 LANDING GEAR SYSTEM
 
@@ -4674,7 +4674,7 @@ A child’s seat is available for installation in the rear of the cabin. The sea
 sidewalls, and the seat bottom is attached to brackets on the floor. This seat is non-adjustable.
 
 
-### MODEL SERIES 7 STi 7-11
+
 
 SEAT BELT AND SHOULDER HARNESSES
 
@@ -4715,13 +4715,13 @@ with objects during sudden deceleration. Also, the pilot will want the freedom t
 easily.
 
 
-### MODEL SERIES 7 STi 7-12
+
 
 ```
 Figure 7-4. Seat Belts and Shoulder Harnesses
 ```
 
-### MODEL SERIES 7 STi 7-13
+
 
 INTEGRATED SEAT BELT/SHOULDER HARNESSES WITH INERTIA REELS
 
@@ -4770,7 +4770,7 @@ mph. All other cabin windows are of the fixed type and cannot be opened. Two add
 windows may be installed in the cabin top.
 
 
-### MODEL SERIES 7 STi 7-14
+
 
 CONTROL LOCKS
 
@@ -4818,7 +4818,7 @@ indicate that minimum idling pressure is 25 PSI (red line), the normal operating
 (green arc), and maximum pressure is 100 PSI (red line).
 
 
-### MODEL SERIES 7 STi 7-15
+
 
 Oil temperature is indicated by a gage located on the subpanel. The gage is operated by an electrical-
 resistance type temperature sensor which receives power from the airplane electrical system. Oil
@@ -4868,7 +4868,7 @@ clips will hold the valve open. After draining, use a suitable tool to snap the 
 (closed) position and remove the drain hose.
 
 
-### MODEL SERIES 7 STi 7-16
+
 
 IGNITION-STARTER SYSTEM
 
@@ -4918,7 +4918,7 @@ equipped with a lock and, after being pushed full in, must be rotated either lef
 cannot be pulled out.
 
 
-### MODEL SERIES 7 STi 7-17
+
 
 COOLING SYSTEM
 
@@ -4989,7 +4989,7 @@ decreased fuel flow and eventual engine stoppage. Venting is accomplished by an 
 from the right fuel tank to the left tank. The left tank is vented overboard through a vent line which is
 
 
-### MODEL SERIES 7 STi 7-18
+
 
 equipped with a check valve, and protrudes from the bottom surface of the left wing near the wing strut
 attach point. The right fuel tank filler cap is also vented.
@@ -5001,7 +5001,7 @@ by two electrically-operated fuel quantity indicators on the lower left portion 
 Figure 7-6. Fuel System (Standard and Long Range)
 ```
 
-### MODEL SERIES 7 STi 7-19
+
 
 An empty tank is indicated by a red line and the letter E. When an indicator shows an empty tank,
 approximately .75 gallon remains in either a standard or long range tank as unusable fuel. The
@@ -5045,7 +5045,7 @@ braking pressure. If one brake becomes weak or fails, use the other brake sparin
 rudder, as required, to offset the good brake.
 
 
-### MODEL SERIES 7 STi 7-20
+
 
 ELECTRICAL SYSTEM
 
@@ -5094,7 +5094,7 @@ light does not illuminate, normal alternator charging has resumed; however, if t
 again, a malfunction has occurred, and the flight should be terminated as soon as practical.
 
 
-### MODEL SERIES 7 STi 7-21
+
 
 The warning light may be tested by momentarily turning off the ALT portion of the master switch and
 leaving the BAT portion turned on.
@@ -5103,7 +5103,7 @@ leaving the BAT portion turned on.
 Figure 7-7. Electrical System
 ```
 
-### MODEL SERIES 7 STi 7-22
+
 
 CIRCUIT BREAKERS AND FUSES
 
@@ -5150,7 +5150,7 @@ turned off when taxiing in the vicinity of other airplanes, or during night flig
 haze.
 
 
-### MODEL SERIES 7 STi 7-23
+
 
 INTERIOR LIGHTING
 
@@ -5181,7 +5181,7 @@ odor), turn off the light switch of the affected lights, reset the breaker, and 
 the breaker opens again, do not reset it.
 
 
-### MODEL SERIES 7 STi 7-24
+
 
 CABIN HEATING, VENTILATING AND DEFROSTING SYSTEM
 
@@ -5192,7 +5192,7 @@ manipulation of the push-pull CABIN HT and CABIN AIR control knobs (see figure 7
 Figure 7-8. Cabin Heating, Ventilating, and Defrosting System
 ```
 
-### MODEL SERIES 7 STi 7-25
+
 
 Heated fresh air and outside air are blended in a cabin manifold just aft of the firewall by adjustment of
 the heat and air controls; this air is then vented into the cabin from outlets in the cabin manifold near
@@ -5236,7 +5236,7 @@ Calibration chart in Section 5. Knowing the calibrated airspeed, read true airsp
 the calibrated airspeed.
 
 
-### MODEL SERIES 7 STi 7-26
+
 
 RATE-OF-CLIMB INDICATOR
 
@@ -5258,7 +5258,7 @@ below the instrument panel, and instruments (including a suction gage) on the le
 instrument panel.
 
 
-### MODEL SERIES 7 STi 7-27
+
 
 ```
 Figure 7-9. Vacuum System
@@ -5271,7 +5271,7 @@ presented by a pointer at the top of the indicator relative to the bank scale wh
 miniature airplane in relation to the horizontal bar. A knob at the bottom of the instrument is provided
 
 
-### MODEL SERIES 7 STi 7-28
+
 
 for in-flight adjustment of the miniature airplane to the horizon bar for a more accurate flight attitude
 indication.
@@ -5318,7 +5318,7 @@ installed, a transmitter/audio switching system is provided (see figure 7-10). T
 switching system is described in the following paragraphs.
 
 
-### MODEL SERIES 7 STi 7-29
+
 
 The transmitter selector switch is labeled TRANS, and has two positions. When two transmitters are
 installed, it is necessary to switch the microphone to the radio unit the pilot desires to use for
@@ -5356,7 +5356,7 @@ the SIDETONE VOL control knob clockwise to increase audio volume and countercloc
 it. When headphones are in use, sidetone volume cannot be adjusted.
 
 
-### MODEL SERIES 7 STi 7-30
+
 
 STATIC DISCHARGERS
 
@@ -5374,7 +5374,7 @@ of dependable radio signals. If avoidance is impractical, minimize airspeed and 
 loss of radio signals while in these areas.
 
 
-### MODEL SERIES 7 STi 8-1
+
 
 # SECTION 8
 
@@ -5433,7 +5433,7 @@ loss of radio signals while in these areas.
 ### PAINTED SURFACES ................................................................................................................................. 13
 
 
-### MODEL SERIES 7 STi 8-2
+
 
 ### PROPELLER CARE ..................................................................................................................................... 13
 
@@ -5442,7 +5442,7 @@ loss of radio signals while in these areas.
 ### INTERIOR CARE ........................................................................................................................................ 14
 
 
-### MODEL SERIES 7 STi 8-3
+
 
 INTRODUCTION
 
@@ -5492,7 +5492,7 @@ o AVIONICS
 - POWER COMPUTER
 
 
-### MODEL SERIES 7 STi 8-4
+
 
 ### • SALES AND SERVICE DEALER DIRECTORY
 
@@ -5538,7 +5538,7 @@ Kitfox recommends that these items, plus the Pilot’s Operating Handbook, Pilot
 Computer, Customer Care Program book and Customer Care Card, be carried in the airplane at all times.
 
 
-### MODEL SERIES 7 STi 8-5
+
 
 AIRPLANE INSPECTION PERIODS
 
@@ -5583,7 +5583,7 @@ and FAR Part 91 establishes the requirement that properly certified agencies or 
 required FAA inspections and most of the manufacturer recommended inspections.
 
 
-### MODEL SERIES 7 STi 8-6
+
 
 KITFOX CUSTOMER CARE PROGRAM
 
@@ -5627,7 +5627,7 @@ airworthiness of the airplane is not violated. Alterations or repairs to the air
 accomplished by licensed personnel.
 
 
-### MODEL SERIES 7 STi 8-7
+
 
 GROUND HANDLING
 
@@ -5673,7 +5673,7 @@ for a second jacking operation. **Do not** jack both main wheels simultaneously 
 gear jack pads.
 
 
-### MODEL SERIES 7 STi 8-8
+
 
 If nose gear maintenance is required, the nose wheel may be raised off the ground by pressing down on
 a tailcone bulkhead, just forward of the horizontal stabilizer, and allowing the tail to rest on the tail tie-
@@ -5728,7 +5728,7 @@ charged to prevent electrolyte from freezing in cold weather. If the airplane is
 or indefinitely, refer to the Service Manual for proper storage procedures.
 
 
-### MODEL SERIES 7 STi 8-9
+
 
 SERVICING
 
@@ -5779,7 +5779,7 @@ SAE 30 or SAE 40 between -18°C (0°F) and 21°C (70°F)
 SAE 30 below -12°C (10°F)
 ```
 
-### MODEL SERIES 7 STi 8-10
+
 
 CAPACITY OF ENGINE SUMP – 6 Quarts
 Do not operate on less than 4 quarts. To minimize loss of oil through breather, fill to 5 quart level for
@@ -5822,7 +5822,7 @@ corroded terminals. A periodic check of these items during subsequent
 servicing operations is recommended.
 ```
 
-### MODEL SERIES 7 STi 8-11
+
 
 FUEL
 
@@ -5847,7 +5847,7 @@ NOSE GEAR SHOCK STRUT – Keep filled with MIL-H-5606 hydraulic fluid and inflat
 Do not over-inflate.
 
 
-### MODEL SERIES 7 STi 8-12
+
 
 CLEANING AND CARE
 
@@ -5878,7 +5878,7 @@ further scratching.
 may scratch the plastic surface.
 
 
-### MODEL SERIES 7 STi 8-13
+
 
 PAINTED SURFACES
 
@@ -5929,7 +5929,7 @@ cleaning the engine assembly. Caustic cleaning solutions should be used
 cautiously and should always be properly neutralized after their use.
 ```
 
-### MODEL SERIES 7 STi 8-14
+
 
 INTERIOR CARE
 
@@ -5954,7 +5954,7 @@ with Stoddard solvent. Volatile solvents, such as mentioned in paragraphs on car
 must never be used since they soften and craze the plastic.
 
 
-### MODEL SERIES 7 STi 9-1
+
 
 # SECTION 9
 
@@ -6013,7 +6013,7 @@ SECTION 5 – PERFORMANCE ......................................................
 SUPPLEMENT .............................................................................................................................................. 19
 
 
-### MODEL SERIES 7 STi 9-2
+
 
 ```
 KITFOX 300 NAV/COM (720-Channel – Type RT-385A) ......................................................................... 19
@@ -6085,7 +6085,7 @@ SECTION 3 – EMERGENCY PROCEDURES .............................................
 SECTION 4 – NORMAL PROCEDURES .................................................................................................. 39
 ```
 
-### MODEL SERIES 7 STi 9-3
+
 
 ### SECTION 5 – PERFORMANCE ............................................................................................................... 40
 
@@ -6134,13 +6134,13 @@ SECTION 4 – NORMAL PROCEDURES ................................................
 SECTION 5 – PERFORMANCE ............................................................................................................... 51
 ```
 
-### MODEL SERIES 7 STi 9-4
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 9-5
+
 
 INTRODUCTION
 
@@ -6151,13 +6151,13 @@ optional equipment, whose function and operational procedures do not require det
 are discussed in Section 7.
 
 
-### MODEL SERIES 7 STi 9-6
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 9-7
+
 
 SUPPLEMENT
 
@@ -6181,7 +6181,7 @@ the tailcone. To gain access to the unit, remove the baggage compartment wall. T
 a control panel at the forward facing end of the unit (see figure 1.)
 
 
-### MODEL SERIES 7 STi 9-8
+
 
 ```
 Figure 1. ELT Control Panel
@@ -6216,7 +6216,7 @@ follows:
     ON position.
 
 
-### MODEL SERIES 7 STi 9-9
+
 
 2. PRIOR TO SIGHTING RESCUE AIRCRAFT – Conserve airplane battery. Do not activate radio
     transceiver.
@@ -6243,13 +6243,13 @@ SECTION 5 – PERFORMANCE
 There is no change to the airplane performance data when this equipment is installed.
 
 
-### MODEL SERIES 7 STi 9-10
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 9-11
+
 
 SUPPLEMENT
 
@@ -6278,7 +6278,7 @@ selected. In addition, when two or more radios are installed, a transmitter sele
 speaker-phone selector switch are provided. Each control function is described in Figure 1.
 
 
-### MODEL SERIES 7 STi 9-12
+
 
 ```
 Figure 1. Kitfox 300 Nav/Com (Type RT-308C) – VOR only
@@ -6306,7 +6306,7 @@ Figure 1. Kitfox 300 Nav/Com (Type RT-308C) – VOR only
 10. COURSE DEVIATION POINTER – Indicates deviation from selected omni bearing.
 
 
-### MODEL SERIES 7 STi 9-13
+
 
 11. OFF/TO-FROM (OMNI) INDICATOR – Operates only with VOR signal. “OFF” position (flag) indicates
     unreliable signal or no signal (shows OFF when localizer frequency is selected). When “OFF”
@@ -6353,13 +6353,13 @@ installation of an externally mounted antenna or several related external antenn
 reduction in cruise performance.
 
 
-### MODEL SERIES 7 STi 9-14
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 9-15
+
 
 SUPPLEMENT
 
@@ -6393,7 +6393,7 @@ Each control function is described in Figure 1, and the audio control panel supp
 is shown and described in Section 7 of this handbook.
 
 
-### MODEL SERIES 7 STi 9-16
+
 
 ```
 Figure 1. Kitfox 300 Nav/Com (Type RT-328T)
@@ -6418,7 +6418,7 @@ Figure 1. Kitfox 300 Nav/Com (Type RT-328T)
     coverage is in .05-MHz steps between .025 and .975.
 
 
-### MODEL SERIES 7 STi 9-17
+
 
 ### NOTE
 
@@ -6467,7 +6467,7 @@ SECTION 3 – EMERGENCY PROCEDURES
 There is no change to the airplane emergency procedures when this avionics equipment is installed.
 
 
-### MODEL SERIES 7 STi 9-18
+
 
 SECTION 4 – NORMAL PROCEDURES
 
@@ -6520,7 +6520,7 @@ installation of an externally mounted antenna of several external antennas, will
 reduction in cruise performance.
 
 
-### MODEL SERIES 7 STi 9-19
+
 
 SUPPLEMENT
 
@@ -6558,7 +6558,7 @@ front panel of the receiver-transmitter. In addition, when two or more radios ar
 mounted transmitter selector and speaker/phone switches are provided.
 
 
-### MODEL SERIES 7 STi 9-20
+
 
 ```
 Figure 1. Kitfox 300 Nav/Com (Type RT-385A), Operating Controls and Indicators (Sheet 1 of 3)
@@ -6584,7 +6584,7 @@ displayed in the Com fractional frequency display.
     VOR navigational self-test function is selected.
 
 
-### MODEL SERIES 7 STi 9-21
+
 
 5. NAVIGATION RECEIVER FRACTIONAL MEGAHERTZ SELECTOR – Selects Nav frequency in .05-MHz
     steps between .00 and .95 MHz; simultaneously selects paired glide slope frequency and DME
@@ -6634,7 +6634,7 @@ pilot should be aware that on many Kitfox airplanes equipped with the windshield
 antenna, pilots should avoid use of 2700 ±100 RPM on airplanes equipped with a two-bladed propeller
 
 
-### MODEL SERIES 7 STi 9-22
+
 
 or 1800±100 RPM on airplanes equipped with a three-bladed propeller during ILS approaches to avoid
 oscillations of the glide slope deviation pointer caused by propeller interference.
@@ -6687,7 +6687,7 @@ b. To Receive – RELEASE mike button.
        on) position.
 
 
-### MODEL SERIES 7 STi 9-23
+
 
 ### NOTE
 
@@ -6735,13 +6735,13 @@ installation of an externally mounted antenna or several related external antenn
 reduction in cruise performance.
 
 
-### MODEL SERIES 7 STi 9-24
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 9-25
+
 
 SUPPLEMENT
 
@@ -6769,7 +6769,7 @@ The Kitfox 300 ADF is designed to receive transmission from the following radio 
 broadcast stations, low-frequency range stations, FAA radio beacons, and ILS compass locators.
 
 
-### MODEL SERIES 7 STi 9-26
+
 
 ```
 Figure 1. Kitfox 300 ADF Operating Controls and Indicators
@@ -6794,7 +6794,7 @@ Figure 1. Kitfox 300 ADF Operating Controls and Indicators
 6. HEADING CONTROL (HDG) – Rotates card to set in relative, magnetic, or true bearing information.
 
 
-### MODEL SERIES 7 STi 9-27
+
 
 SECTION 2 – LIMITATIONS
 
@@ -6845,7 +6845,7 @@ A 1000-Hz tone is heard in the audio output when a CW signal (Morse
 Code) is tuned in properly.
 ```
 
-### MODEL SERIES 7 STi 9-28
+
 
 SECTION 5 – PERFORMANCE
 
@@ -6854,7 +6854,7 @@ installation of an externally mounted antenna or several related external antenn
 reduction in cruise performance.
 
 
-### MODEL SERIES 7 STi 9-29
+
 
 SUPPLEMENT
 
@@ -6881,7 +6881,7 @@ altimeter setting knob, are located on the front panel of the unit. The altimete
 on the encoding altimeter. Functions of the operating controls are described in Figure 1.
 
 
-### MODEL SERIES 7 STi 9-30
+
 
 ```
 Figure 1. Kitfox 300 Transponder and Encoding Altimeter
@@ -6909,7 +6909,7 @@ Figure 1. Kitfox 300 Transponder and Encoding Altimeter
 7. REPLY-CODE INDICATORS (4) – Display selected Mode A reply code.
 
 
-### MODEL SERIES 7 STi 9-31
+
 
 8. 1000-FOOT DRUM TYPE INDICATOR – Provides digital altitude readout in 1000-foot increments
     between -1000 feet and +35,000 feet. When altitude is below 10,000 feet, a diagonally striped flag
@@ -6958,7 +6958,7 @@ SECTION 4 – NORMAL PROCEDURES
 ### TO TRANSMIT MODE A (AIRCRAFT IDENTIFICATION) CODES IN FLIGHT:
 
 
-### MODEL SERIES 7 STi 9-32
+
 
 1. Reply-Code Selector Knobs – SELECT assigned code.
 2. Function Switch – ON.
@@ -7010,7 +7010,7 @@ installation of an externally mounted antenna or several related external antenn
 reduction in cruise performance.
 
 
-### MODEL SERIES 7 STi 9-33
+
 
 SUPPLEMENT
 
@@ -7038,7 +7038,7 @@ All Kitfox 300 Transponder operating controls are located on the front panel of 
 the operating controls are described in Figure 1.
 
 
-### MODEL SERIES 7 STi 9-34
+
 
 ```
 Figure 1. Kitfox 300 Transponder and Altitude Encoder (Blind)
@@ -7068,7 +7068,7 @@ Figure 1. Kitfox 300 Transponder and Altitude Encoder (Blind)
     the airplane’s maximum service ceiling.
 
 
-### MODEL SERIES 7 STi 9-35
+
 
 SECTION 2 – LIMITATIONS
 
@@ -7121,7 +7121,7 @@ flashes indicating transponder replies to interrogations.
 2. Function Switch – ALT.
 
 
-### MODEL SERIES 7 STi 9-36
+
 
 ### NOTE
 
@@ -7154,7 +7154,7 @@ installation of an externally mounted antenna or several related external antenn
 reduction in cruise performance.
 
 
-### MODEL SERIES 7 STi 9-37
+
 
 SUPPLEMENT
 
@@ -7181,7 +7181,7 @@ altimeter setting knob, are located on the front panel of the unit. The altimete
 on the encoding altimeter. Functions of the operating controls are described in Figure 1.
 
 
-### MODEL SERIES 7 STi 9-38
+
 
 ```
 Figure 1. Kitfox 400 Transponder and Encoding Altimeter Operating Controls
@@ -7207,7 +7207,7 @@ Figure 1. Kitfox 400 Transponder and Encoding Altimeter Operating Controls
     operation.)
 
 
-### MODEL SERIES 7 STi 9-39
+
 
 6. REPLY-CODE SELECTOR SWITCHES (4) – Select assigned Mode A Reply Code.
 7. REPLY-CODE INDICATORS (4) – Display selected Mode A Reply Code.
@@ -7257,7 +7257,7 @@ SECTION 4 – NORMAL PROCEDURES
 1. Function Switch – SBY.
 
 
-### MODEL SERIES 7 STi 9-40
+
 
 ### TO TRANSMIT MODE A (AIRCRAFT IDENTIFICATION) CODES IN FLIGHT:
 
@@ -7313,7 +7313,7 @@ installation of an externally mounted antenna or several related external antenn
 reduction in cruise performance.
 
 
-### MODEL SERIES 7 STi 9-41
+
 
 SUPPLEMENT
 
@@ -7341,7 +7341,7 @@ All Kitfox 400 Transponder operating controls are located on the front panel of 
 the operating controls are described in Figure 1.
 
 
-### MODEL SERIES 7 STi 9-42
+
 
 ```
 Figure 1. Kitfox 400 Transponder and Altitude Encoder (Blind)
@@ -7371,7 +7371,7 @@ Figure 1. Kitfox 400 Transponder and Altitude Encoder (Blind)
     the airplane’s maximum service ceiling.
 
 
-### MODEL SERIES 7 STi 9-43
+
 
 SECTION 2 – LIMITATIONS
 
@@ -7424,7 +7424,7 @@ flashes indicating transponder replies to interrogations.
 2. Function Switch – ALT.
 
 
-### MODEL SERIES 7 STi 9-44
+
 
 ### NOTE
 
@@ -7457,7 +7457,7 @@ installation of an externally mounted antenna or several related external antenn
 reduction in cruise performance.
 
 
-### MODEL SERIES 7 STi 9-45
+
 
 SUPPLEMENT
 
@@ -7486,7 +7486,7 @@ Outer 2 dashes/sec (400 Hz) Blue
 Operating controls and indicator lights are shown and described in Figure 1.
 
 
-### MODEL SERIES 7 STi 9-46
+
 
 ```
 Figure 1. Kitfox 400 Marker Beacon Operating Controls and Indicator Lights
@@ -7509,7 +7509,7 @@ Figure 1. Kitfox 400 Marker Beacon Operating Controls and Indicator Lights
     indicating the lights are operational (the test position is a lamp test function only).
 
 
-### MODEL SERIES 7 STi 9-47
+
 
 SECTION 2 – LIMITATIONS
 
@@ -7537,13 +7537,13 @@ installation of an externally mounted antenna or several external antennas, will
 reduction in cruise performance.
 
 
-### MODEL SERIES 7 STi 9-48
+
 
 ```
 PAGE INTENTIONALLY BLANK
 ```
 
-### MODEL SERIES 7 STi 9-49
+
 
 SUPPLEMENT
 
@@ -7571,7 +7571,7 @@ glide slope indicators. However, refer to the 400 Nav/Com or HSI write-ups if th
 section as options for additional glide slope indicators.
 
 
-### MODEL SERIES 7 STi 9-50
+
 
 ```
 Figure 1. Typical 300 Series VOR/LOC/ILS Indicator
@@ -7603,7 +7603,7 @@ SECTION 3 – EMERGENCY PROCEDURES
 There is no change to the airplane emergency procedures when this avionic equipment is installed.
 
 
-### MODEL SERIES 7 STi 9-51
+
 
 SECTION 4 – NORMAL PROCEDURES
 
@@ -7625,7 +7625,7 @@ SECTION 5 – PERFORMANCE
 There is no change to the airplane performance when this avionic equipment is installed.
 
 
-### MODEL SERIES 7 STi 9-52
+
 
 ```
 PAGE INTENTIONALLY BLANK

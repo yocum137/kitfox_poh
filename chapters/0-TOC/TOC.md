@@ -190,17 +190,17 @@ SYMBOLS, ABBREVIATIONS AND TERMINOLOGY
 GENERAL AIRSPEED TERMINOLOGY AND SYMBOLS
 
 ```
-KCAS Knots Calibrated Airspeed is indicated airspeed corrected for position and
-instrument error and expressed in knots. Knots calibrated airspeed is equal
+CAS MPH Calibrated Airspeed is indicated airspeed corrected for position and
+instrument error and expressed in mph. MPH calibrated airspeed is equal
 to KTAS in standard atmosphere at sea level.
 ```
 ```
-KIAS Knots Indicated Airspeed is the speed show on the airspeed indicator and
-expressed in knots.
+MPH MPH Indicated Airspeed is the speed show on the airspeed indicator and
+expressed in mph.
 ```
 ```
-KTAS Knots True Airspeed is the airspeed expressed in knots relative to
-undisturbed air which is KCAS corrected for altitude and temperature.
+KTAS MPH True Airspeed is the airspeed expressed in mph relative to
+undisturbed air which is CAS corrected for altitude and temperature.
 ```
 ```
 VA Maneuvering Speed is the maximum speed at which you may use abrupt
@@ -428,65 +428,50 @@ AIRSPEED LIMITATIONS
 
 Airspeed limitations and their operational significance are shown in figure 2-1.
 
-|     | SPEED              | KCAS | KIAS | REMARKS                                            |
-|-----|--------------------|------|------|----------------------------------------------------|
-| VNE | Never Exceed Speed |  145 |  149 | Do not exceed this speed in any operation.         |
-|-----|--------------------|------|------|----------------------------------------------------|
-| VNO | Maximum Structural |  108 |  111 | Do not exceed this speed except in smooth air, and |
-|     | Cruising Speed     |      |      | then only with caution.                            |
-|-----|--------------------|------|------|----------------------------------------------------|
-| VA  | Maneuvering Speed: |      |      |                                                    |
-|     |      1550 Pounds   |  101 |  104 | Do not make full or abrupt control movements       |
-|     |                    |      |      | above this speed                                   |
-|-----|--------------------|------|------|----------------------------------------------------|
-| VFE | Maximum Flap       |   82 |   80 | Do not exceed this speed with flaps down.          |
-|     | Extended Speed     |      |      |                                                    |
-|-----|--------------------|------|------|----------------------------------------------------|
-|     | Maximum Door       |   77 |   75 | Do not exceed this speed with doors open.          |
-|     | Open Speed         |      |      |                                                    |
+|     | SPEED              | MPH | REMARKS                                            |
+|-----|--------------------|-----|----------------------------------------------------|
+| VNE | Never Exceed Speed | 140 | Do not exceed this speed in any operation.         |
+|-----|--------------------|-----|----------------------------------------------------|
+| VNO | Maximum Structural | 111 | Do not exceed this speed except in smooth air, and |
+|     | Cruising Speed     |     | then only with caution.                            |
+|-----|--------------------|-----|----------------------------------------------------|
+| VA  | Maneuvering Speed: |     |                                                    |
+|     |      1550 Pounds   | 104 | Do not make full or abrupt control movements       |
+|     |                    |     | above this speed                                   |
+|-----|--------------------|-----|----------------------------------------------------|
+| VFE | Maximum Flap       |  80 | Do not exceed this speed with flaps down.          |
+|     | Extended Speed     |     |                                                    |
+|-----|--------------------|-----|----------------------------------------------------|
+|     | Maximum Door       |  75 | Do not exceed this speed with doors open.          |
+|     | Open Speed         |     |                                                    |
 
 
-## AIRSPEED LIMITATIONS
 
 
 ### MODEL SERIES 7 STi 2-
 
-AIRSPEED INDICATOR MARKINGS
+## AIRSPEED LIMITATIONS
+
+### AIRSPEED INDICATOR MARKINGS
 
 Airspeed indicator markings and their color code significance are shown in figure 2-2.
 
-### MARKING MPH VALUE
+| MARKING    | MPH VALUE | SIGNIFICANCE                                        |
+|            | OR RANGE  |                                                     |
+|------------|-----------|-----------------------------------------------------|
+| White Arc  | 35 – 85   | Full Flap Operating Range. Lower limit is maximum   |
+|            |           | weight VS0 in landing configuration. Upper limit is |
+|            |           | maximum speed permissible with flaps extended.      |
+|------------|-----------|-----------------------------------------------------|
+| Green Arc  | 40 – 111  | Normal Operating Range. Lower limit is maximum      |
+|            |           | weight VS at most forward C.G. with flaps retracted.|
+|            |           | Upper limit is maximum structural cruising speed.   |
+|------------|-----------|-----------------------------------------------------|
+| Yellow Arc | 111 – 140 | Operations must be conducted with caution and       |
+|            |           | only in smooth air.                                 |
+|------------|-----------|-----------------------------------------------------|
+| Red Line   |       140 | Maximum speed for all operations.                   |
 
-### OR RANGE
-
-### SIGNIFICANCE
-
-```
-White Arc 35 – 85
-```
-```
-Full Flap Operating Range. Lower limit is maximum
-weight VS0 in landing configuration. Upper limit is
-maximum speed permissible with flaps extended.
-```
-```
-Green Arc 40 – 111
-```
-```
-Normal Operating Range. Lower limit is maximum
-weight VS at most forward C.G. with flaps retracted.
-Upper limit is maximum structural cruising speed.
-```
-```
-Yellow Arc 111 – 140
-```
-```
-Operations must be conducted with caution and
-only in smooth air.
-```
-```
-Red Line 140 Maximum speed for all operations.
-```
 ## AIRSPEED INDICATOR MARKINGS
 
 
@@ -503,9 +488,9 @@ Maximum Engine Speed: 5800 RPM
 ### NOTE
 
 ```
-The static RPM range at full throttle (carburetor heat off and mixture
-leaned to maximum RPM) is 2280 to 2380 RPM.
+The static RPM range at full throttle is 5800 for a maximum of 5 minutes
 ```
+
 Maximum Oil Temperature: 118°C (245°F)
 Oil Pressure
 Minimum: 25 psi
@@ -572,9 +557,9 @@ No aerobatic maneuvers are approved except those listed below:
 ### MANEUVER MAXIMUM ENTRY SPEED*
 
 ```
-Chandelles ................................................................ 95 knots
-Lazy Eights ............................................................... 95 knots
-Steep Turns ............................................................... 95 knots
+Chandelles ................................................................ 95 mph
+Lazy Eights ............................................................... 95 mph
+Steep Turns ............................................................... 95 mph
 Stalls (Except Whip Stalls) .................................. Use Slow Deceleration
 ```
 * Higher speeds can be used if abrupt use of the controls is avoided.
@@ -767,14 +752,14 @@ optional systems can be found in Section 9.
 
 AIRSPEEDS FOR EMERGENCY OPERATION
 
-Engine Failure After Takeoff .............................................. 60 KIAS
+Engine Failure After Takeoff .............................................. 60 MPH
 Maneuver Speed:
-1550 Lbs .................................................................. 98 KIAS
-Maximum Glide ............................................................. 60 KIAS
-Precautionary Landing With Engine Power ................................... 55 KIAS
+1550 Lbs .................................................................. 98 MPH
+Maximum Glide ............................................................. 60 MPH
+Precautionary Landing With Engine Power ................................... 55 MPH
 Landing Without Engine Power:
-Wing Flaps Up ............................................................. 65 KIAS
-Wing Flaps Down ........................................................... 60 KIAS
+Wing Flaps Up ............................................................. 65 MPH
+Wing Flaps Down ........................................................... 60 MPH
 
 OPERATIONAL CHECKLISTS
 
@@ -792,14 +777,14 @@ ENGINE FAILURE DURING TAKEOFF RUN
 
 ENGINE FAILURE IMMEDIATELY AFTER TAKEOFF
 
-1. Airspeed – 60 KIAS.
+1. Airspeed – 60 MPH.
 2. Fuel Shutoff Valve – OFF.
 3. Wing Flaps – AS REQUIRED.
 4. Master Switch – OFF.
 
 ENGINE FAILURE DURING FLIGHT
 
-1. Airspeed – 60 KIAS.
+1. Airspeed – 60 MPH.
 2. Fuel Shutoff Valve – ON.
 3. Power Switch - EMS BACKUP.
 4. Start Button - Press START if propeller is stopped.
@@ -808,8 +793,8 @@ FORCED LANDINGS
 
 EMERGENCY LANDING WITHOUT ENGINE POWER
 
-1. Airspeed – 65 KIAS (flaps UP),
-              60 KIAS (flaps DOWN).
+1. Airspeed – 65 MPH (flaps UP),
+              60 MPH (flaps DOWN).
 2. Fuel Shutoff Valve – OFF.
 3. Wing Flaps – AS REQUIRED (Full recommended).
 4. Master Switch – OFF.
@@ -819,12 +804,12 @@ EMERGENCY LANDING WITHOUT ENGINE POWER
 
 PRECAUTIONARY LANDING WITH ENGINE POWER
 
-1. Airspeed – 60 KIAS.
+1. Airspeed – 60 MPH.
 2. Wing Flaps – Half.
 3. Selected Field – FLY OVER, noting terrain and obstructions, Wind Wires Surface Slope (WWSS)
 4. Radio and Electrical Switches – OFF.
 5. Wing Flaps – Full (on final approach).
-6. Airspeed – 55 KIAS.
+6. Airspeed – 55 MPH.
 7. Master Switch – OFF.
 8. Doors – UNLATCH PRIOR TO TOUCHDOWN.
 9. Ignition Switch – OFF.
@@ -840,7 +825,7 @@ DITCHING
 3. Approach – High Winds, Heavy Seas – INTO THE WIND.
               Light Winds, Heavy Swells – PARALLEL TO SWELLS.
 4. Wing Flaps – Full.
-5. Power – ESTABLISH 300 FT/MIN DESCENT AT 55 KIAS.
+5. Power – ESTABLISH 300 FT/MIN DESCENT AT 55 MPH.
 6. Cabin Doors – UNLATCH.
 7. Touchdown – LEVEL ATTITUDE AT 300 FT/MIN DESCENT.
 8. Face – CUSHION at touchdown with folded coat.
@@ -879,7 +864,7 @@ ENGINE FIRE IN FLIGHT
 2. Fuel Shutoff Valve – OFF.
 3. Master Switch – OFF.
 4. Cabin Air – OFF.
-5. Airspeed – 85 KIAS in a side slip to the left (If fire is not extinguished, increase glide speed to find an airspeed which will
+5. Airspeed – 85 MPH in a side slip to the left (If fire is not extinguished, increase glide speed to find an airspeed which will
     provide an incombustible mixture).
 6. Forced Landing – EXECUTE (as described in Emergency Landing Without Engine Power).
 
@@ -950,7 +935,7 @@ INADVERTENT ICING ENCOUNTER
     wake airflow direction caused by wing flap extension could result in a loss of elevator
     effectiveness.
 8. Perform a landing approach using a forward slip, if necessary, for improved visibility.
-9. Approach at 65 to 75 KIAS depending upon the amount of ice accumulation.
+9. Approach at 65 to 75 MPH depending upon the amount of ice accumulation.
 10. Perform a landing in level attitude.
 
 LANDING WITH A FLAT MAIN TIRE
@@ -1053,7 +1038,7 @@ HEIGHT ABOVE TERRAIN (FEET)
 ```
 GLIDE DISTANCE - NAUTICAL MILES
 ```
-### SPEED 60 KIAS
+### SPEED 60 MPH
 
 ### PROPELLER WINDMILLING
 
@@ -1077,7 +1062,7 @@ giving location and intentions.
 
 LANDING WITHOUT ELEVATOR CONTROL
 
-Trim for horizontal flight (with an airspeed of approximately 55 KIAS and flaps lowered to 20°) by using
+Trim for horizontal flight (with an airspeed of approximately 55 MPH and flaps lowered to 20°) by using
 throttle and elevator trim controls. Then **do not change the elevator trim control setting** ; control the
 glide angle by adjusting power exclusively.
 
@@ -1128,7 +1113,7 @@ compass heading and make minor corrections to hold an approximate course. Before
 the clouds, set up a stabilized let-down condition as follows:
 
 1. Reduce power to set up a 500 to 800 ft/min rate of descent.
-2. Adjust the elevator trim for a stabilized descent at 70 KIAS.
+2. Adjust the elevator trim for a stabilized descent at 70 MPH.
 3. Keep hands off control stick.
 4. Monitor turn coordinator and make corrections by rudder alone.
 5. Check trend of compass card movement and make cautious corrections with rudder to stop
@@ -1142,8 +1127,8 @@ If a spiral is encountered, proceed as follows:
 1. Close the throttle.
 2. Stop the turn by using coordinated aileron and rudder control to align the symbolic airplane in
     the turn coordinator with the horizon reference line.
-3. Cautiously apply elevator back pressure to slowly reduce the airspeed to 70 KIAS.
-4. Adjust the elevator trim control to maintain a 70 KIAS glide.
+3. Cautiously apply elevator back pressure to slowly reduce the airspeed to 70 MPH.
+4. Adjust the elevator trim control to maintain a 70 MPH glide.
 5. Keep hands off the control stick, using rudder control to hold a straight heading.
 
 
@@ -1197,12 +1182,17 @@ waiting for the light to turn back on and then repeating the same procedure with
 power loss in single ignition operation is evidence of spark plug problem. Proceed to the nearest
 airport for repairs.
 
+IGNITION MALFUNCTION
+
+A sudden engine roughness or misfiring is usually evidence of ignition system or ECU problems. 
+Switching from BOTH to either Lane A or Lane B position will identify which lane is malfunctioning. 
+Select different power settings to determine if continued operation on BOTH lanes is practicable. 
+If not, switch to the good lane and proceed to the nearest airport for repairs.
+
 LOW OIL PRESSURE
 
 If low oil pressure is accompanied by normal oil temperature, there is a possibility the oil pressure gauge
-or relief valve is malfunctioning. A leak in the line to the gauge is not necessarily cause for an immediate
-precautionary landing because an orifice in this line will prevent a sudden loss of oil from the engine
-sump. However, a landing at the nearest airport would be advisable to inspect the source of trouble.
+or relief valve is malfunctioning. Landing at the nearest airport would be advisable to inspect the source of trouble.
 
 If a total loss of oil pressure is accompanied by a rise in oil temperature, there is good reason to suspect
 an engine failure is imminent. Reduce engine power immediately and select a suitable forced landing
@@ -1212,7 +1202,7 @@ ELECTRICAL POWER SUPPLY SYSTEM MALFUNCTIONS
 
 Malfunctions in the electrical power supply system can be detected by periodic monitoring of the
 ammeter and over-voltage warning light; however, the cause of these malfunctions is usually difficult to
-determine. A broken alternator drive belt or wiring is most likely the cause of alternator failures,
+determine. A failing alternator or wiring is most likely the cause of alternator failures,
 although other factors could cause the problem. A damaged or improperly adjusted voltage regulator
 can also cause malfunctions. Problems of this nature constitute an electrical emergency and should be
 dealt with immediately. Electrical power malfunctions usually fall into two categories: excessive rate of
@@ -1231,11 +1221,11 @@ widths of charging current. If the charging rate were to remain above this value
 
 battery would overheat and evaporate the electrolyte at an excessive rate. Electronic components in
 the electrical system could be adversely affected by higher than normal voltage if a faulty voltage
-regulator setting is causing the overcharging. To preclude these possibilities, an over-voltage sensor will
+regulator setting is causing the overcharging. To preclude these possibilities, [an over-voltage sensor will
 automatically shut down the alternator and the over-voltage warning light will illuminate if the charge
-voltage reaches approximately 31.5 volts. Assuming that the malfunction was only momentary, an
-attempt should be made to reactivate the alternator system. To do this, turn both sides of the master
-switch off and then on again. If the problem no longer exists, normal alternator charging will resume
+voltage reaches approximately 14.2 volts.] Assuming that the malfunction was only momentary, an
+attempt should be made to reactivate the alternator system. To do this, turn both lanes
+off and then on again. If the problem no longer exists, normal alternator charging will resume
 and the warning light will go off. If the light illuminates again, a malfunction is confirmed. In this event,
 the flight should be terminated and/or the current drain on the battery minimized because the battery
 can supply the electrical system for only a limited period of time. If the emergency occurs at night,
@@ -1257,108 +1247,105 @@ as practical.
 
 ## Table of Contents
 
-### INTRODUCTION ................................................................ 3
+### INTRODUCTION ................................................................. 3
 
-### SPEEDS FOR NORMAL OPERATION ................................................. 3
+### SPEEDS FOR NORMAL OPERATION .................................................. 3
 
-### CHECKLIST PROCEDURES ........................................................ 5
+### CHECKLIST PROCEDURES ......................................................... 5
 
-### PREFLIGHT INSPECTION ........................................................ 5
+### PREFLIGHT INSPECTION ......................................................... 5
 
-###  CABIN .................................................................... 5
+### CABIN ........................................................................ 5
 
-###  EMPENNAGE ................................................................ 5
+### EMPENNAGE .................................................................... 5
 
-```
- RIGHT WING Trailing Edge ..................................................... 5
-```
-```
- RIGHT WING ................................................................... 5
- NOSE ......................................................................... 5
-```
-```
- LEFT WING .................................................................... 6
- LEFT WING Leading Edge ....................................................... 6
-```
-```
- LEFT WING Trailing Edge ...................................................... 6
-BEFORE STARTING ENGINE .......................................................... 6
-```
-```
-STARTING ENGINE (Temperatures Above Freezing) ................................... 6
-BEFORE TAKEOFF .................................................................. 7
-```
-```
-TAKEOFF ......................................................................... 7
-NORMAL TAKEOFF .................................................................. 7
-```
-```
-SHORT FIELD TAKEOFF ............................................................. 7
-ENROUTE CLIMB ................................................................... 8
-```
-```
-CRUISE .......................................................................... 8
-BEFORE LANDING .................................................................. 8
-```
-```
-LANDING ......................................................................... 8
-NORMAL LANDING .................................................................. 8
-```
-```
-SHORT FIELD LANDING ............................................................. 8
-BALKED LANDING .................................................................. 9
-```
+### RIGHT WING Trailing Edge ..................................................... 5
+
+### RIGHT WING ................................................................... 5
+
+### NOSE ......................................................................... 5
+
+### LEFT WING .................................................................... 6
+
+### LEFT WING Leading Edge ....................................................... 6
+
+### LEFT WING Trailing Edge ...................................................... 6
+
+### BEFORE STARTING ENGINE ....................................................... 6
+
+### STARTING ENGINE (Temperatures Above Freezing) ................................ 6
+
+### BEFORE TAKEOFF ............................................................... 7
+
+### TAKEOFF ...................................................................... 7
+
+### NORMAL TAKEOFF ............................................................... 7
+
+### SHORT FIELD TAKEOFF .......................................................... 7
+
+### ENROUTE CLIMB ................................................................ 8
+
+### CRUISE ....................................................................... 8
+
+### BEFORE LANDING ............................................................... 8
+
+### LANDING ...................................................................... 8
+
+### NORMAL LANDING ............................................................... 8
+
+### SHORT FIELD LANDING .......................................................... 8
+
+### BALKED LANDING ............................................................... 9
+
 
 ### MODEL SERIES 7 STi 4-2
 
-### AFTER LANDING ............................................................... 9
+### AFTER LANDING ................................................................ 9
 
-### SECURING AIRPLANE ........................................................... 9
+### SECURING AIRPLANE ............................................................ 9
 
-### AMPLIFIED PROCEDURES ....................................................... 11
+### AMPLIFIED PROCEDURES ........................................................ 11
 
-```
-STARTING ENGINE (Temperatures Above Freezing) .................................. 11
-```
-```
-TAXIING ........................................................................ 12
-BEFORE TAKEOFF ................................................................. 13
-```
-```
-WARM-UP ........................................................................ 13
-MAGNETO CHECK .................................................................. 13
-```
-```
-ALTERNATOR CHECK ............................................................... 13
-TAKEOFF ........................................................................ 14
-```
-```
-POWER CHECK .................................................................... 14
-WING FLAP SETTING .............................................................. 14
-```
-```
-ENROUTE CLIMB .................................................................. 15
-CRUISE ......................................................................... 15
-```
-```
-FUEL SAVINGS PROCEDURES FOR FLIGHT TRAINING OPERATIONS ......................... 16
-STALLS ......................................................................... 16
-```
-```
-SPINS .......................................................................... 16
-LANDING ........................................................................ 18
-```
-```
-SHORT FIELD LANDING ............................................................ 18
-CROSSWIND LANDING .............................................................. 18
-```
-```
-BALKED LANDING ................................................................. 18
-COLD WEATHER OPERATION ......................................................... 19
-```
-```
-NOISE ABATEMENT ................................................................ 20
-```
+### STARTING ENGINE (Temperatures Above Freezing) ............................... 11
+
+### TAXIING ..................................................................... 12
+
+### BEFORE TAKEOFF .............................................................. 13
+
+### WARM-UP ..................................................................... 13
+
+### MAGNETO CHECK ............................................................... 13
+
+### ALTERNATOR CHECK ............................................................ 13
+
+### TAKEOFF ..................................................................... 14
+
+### POWER CHECK ................................................................. 14
+
+### WING FLAP SETTING ........................................................... 14
+
+### ENROUTE CLIMB ............................................................... 15
+
+### CRUISE ...................................................................... 15
+
+### FUEL SAVINGS PROCEDURES FOR FLIGHT TRAINING OPERATIONS ...................... 16
+
+### STALLS ...................................................................... 16
+
+### SPINS ....................................................................... 16
+
+### LANDING ..................................................................... 18
+
+### SHORT FIELD LANDING ......................................................... 18
+
+### CROSSWIND LANDING ........................................................... 18
+
+### BALKED LANDING .............................................................. 18
+
+### COLD WEATHER OPERATION ...................................................... 19
+
+### NOISE ABATEMENT ............................................................. 20
+
 
 ### MODEL SERIES 7 STi 4-3
 
@@ -1369,28 +1356,28 @@ procedures associated with optional systems can be found in Section 9.
 
 SPEEDS FOR NORMAL OPERATION
 
-Unless otherwise noted, the following speeds are based on a maximum weight of 1670 pounds and may
+Unless otherwise noted, the following speeds are based on a maximum weight of 1550 pounds and may
 be used for any lesser weight.
 
 Takeoff:
-Normal Climb Out ....................................................... 65-75 KIAS
-Short Field Takeoff, Flaps 10°, Speed at 50 Feet .......................... 54 KIAS
+Normal Climb Out ....................................................... 65-75 MPH
+Short Field Takeoff, Flaps 1/2, Speed at 50 Feet .......................... 54 MPH
 Climb, Flaps Up:
-Normal ................................................................. 70-80 KIAS
-Best Rate of Climb, Sea Level ............................................. 67 KIAS
-Best Rate of Climb, 10,000 Feet ........................................... 61 KIAS
-Best Angle of Climb, Sea Level thru 10,000 Feet ........................... 55 KIAS
+Normal .................................................................... 70 MPH
+Best Rate of Climb, Sea Level ............................................. 67 MPH
+Best Rate of Climb, 10,000 Feet ........................................... 61 MPH
+Best Angle of Climb, Sea Level thru 10,000 Feet ........................... 55 MPH
 Landing Approach:
-Normal Approach, Flaps Up .............................................. 60-70 KIAS
-Normal Approach, Flaps 30° ............................................. 55-65 KIAS
-Short Field Approach, Flaps 30° ........................................... 54 KIAS
+Normal Approach, Flaps Up .............................................. 60-70 MPH
+Normal Approach, Flaps 30° ............................................. 55-65 MPH
+Short Field Approach, Flaps 30° ........................................... 54 MPH
 Balked Landing:
-Maximum Power, Flaps 20° .................................................. 55 KIAS
+Maximum Power, Flaps 20° .................................................. 55 MPH
 Maximum Recommended Turbulent Air Penetration Speed:
-1670 Lbs ................................................................. 104 KIAS
-1500 Lbs .................................................................. 98 KIAS
-1350 Lbs .................................................................. 93 KIAS
-Maximum Demonstrated Crosswind Velocity .................................. 12 KNOTS
+1670 Lbs ................................................................. 104 MPH
+1500 Lbs .................................................................. 98 MPH
+1350 Lbs .................................................................. 93 MPH
+Maximum Demonstrated Crosswind Velocity ................................... 12 
 
 
 ### MODEL SERIES 7 STi 4-4
@@ -1536,8 +1523,8 @@ NORMAL TAKEOFF
 1. Wing Flaps – 0° - 10°.
 2. Carburetor Heat – COLD.
 3. Throttle – FULL OPEN.
-4. Elevator Control – LIFT NOSE WHEEL at 50 KIAS.
-5. Climb Speed – 65-75 KIAS.
+4. Elevator Control – LIFT NOSE WHEEL at 50 MPH.
+5. Climb Speed – 65-75 MPH.
 
 SHORT FIELD TAKEOFF
 
@@ -1548,15 +1535,15 @@ SHORT FIELD TAKEOFF
 5. Mixture – RICH (above 3000 feet, LEAN to obtain maximum RPM).
 6. Brakes – RELEASE.
 7. Elevator Control – SLIGHTLY TAIL LOW.
-8. Climb Speed – 54 KIAS (until all obstacles are cleared).
-9. Wing Flaps – RETRACT slowly after reaching 60 KIAS.
+8. Climb Speed – 54 MPH (until all obstacles are cleared).
+9. Wing Flaps – RETRACT slowly after reaching 60 MPH.
 
 
 ### MODEL SERIES 7 STi 4-8
 
 ENROUTE CLIMB
 
-1. Airspeed – 70-80 KIAS.
+1. Airspeed – 70-80 MPH.
 
 ### NOTE
 
@@ -1583,18 +1570,18 @@ LANDING
 
 NORMAL LANDING
 
-1. Airspeed – 60-70 KIAS (flaps UP).
-2. Wing Flaps – AS DESIRED (below 85 KIAS).
-3. Airspeed – 55-65 KIAS (flaps DOWN).
+1. Airspeed – 60-70 MPH (flaps UP).
+2. Wing Flaps – AS DESIRED (below 85 MPH).
+3. Airspeed – 55-65 MPH (flaps DOWN).
 4. Touchdown – MAIN WHEELS FIRST.
 5. Landing Roll – LOWER NOSE WHEEL GENTLY.
 6. Braking – MINIMUM REQUIRED.
 
 SHORT FIELD LANDING
 
-1. Airspeed – 60-70 KIAS (flaps UP).
-2. Wing Flaps – 30° (below 85 KIAS).
-3. Airspeed – MAINTAIN 54 KIAS.
+1. Airspeed – 60-70 MPH (flaps UP).
+2. Wing Flaps – 30° (below 85 MPH).
+3. Airspeed – MAINTAIN 54 MPH.
 4. Power – REDUCE to idle as obstacle is cleared.
 5. Touchdown – MAIN WHEEL FIRST.
 6. Brakes – APPLY HEAVILY.
@@ -1608,7 +1595,7 @@ BALKED LANDING
 1. Throttle – FULL OPEN.
 2. Carburetor Heat – COLD.
 3. Wing Flaps – RETRACT to 20°.
-4. Airspeed – 55 KIAS.
+4. Airspeed – 55 MPH.
 5. Wing Flaps – RETRACT (slowly).
 
 AFTER LANDING
@@ -1761,9 +1748,9 @@ WING FLAP SETTING
 Normal takeoffs are accomplished with wing flaps 0° - 10°. Using 10° wing flaps reduces the total
 distance over an obstacle by approximately 10%. Flap deflections greater than 10° are not approved for
 takeoff. If 10° wing flaps are used for takeoff, they should be left down until all obstacles are cleared
-and a safe flap retraction speed of 60 KIAS is reached.
+and a safe flap retraction speed of 60 MPH is reached.
 
-On a short field, 10° wing flaps and an obstacle clearance speed of 54 KIAS should be used. This speed
+On a short field, 10° wing flaps and an obstacle clearance speed of 54 MPH should be used. This speed
 provides the best overall climb speed to clear obstacles when taking into account turbulence often
 found near ground level.
 
@@ -1781,7 +1768,7 @@ while drifting. When clear of the ground, make a coordinated turn into the wind 
 
 ENROUTE CLIMB
 
-Normal climbs are performed with flaps up and full throttle and at speeds 5 to 10 knots higher than best
+Normal climbs are performed with flaps up and full throttle and at speeds 5 to 10 mph higher than best
 rate-of-climb speeds for the best combination of performance, visibility and engine cooling. The mixture
 should be full rich below 3000 feet and may be leaned above 3000 feet for smoother operation or to
 obtain maximum RPM. For maximum rate of climb, use the best rate-of-climb speeds shown in the Rate
@@ -1904,7 +1891,7 @@ typical training operations at a full rich mixture.
 STALLS
 
 The stall characteristics are conventional for the flaps up and flaps down condition. The stall warning
-horn produces a steady signal 5 to 10 knots before the actual stall is reached and remains on until the
+horn produces a steady signal 5 to 10 mph before the actual stall is reached and remains on until the
 airplane flight attitude is changed. Stall speeds for various combinations of flap setting and bank angle
 are summarized in Section 5.
 
@@ -2000,8 +1987,8 @@ recovery are potentially damaging to the flap/wing structure.
 
 LANDING
 
-Normal landing approaches can be made with power-on or power-off at speeds of 60 to 70 KIAS with
-flaps up, and 55 to 65 KIAS with flaps down. Surface winds and air turbulence are usually the primary
+Normal landing approaches can be made with power-on or power-off at speeds of 60 to 70 MPH with
+flaps up, and 55 to 65 MPH with flaps down. Surface winds and air turbulence are usually the primary
 factors in determining the most comfortable approach speeds.
 
 Actual touchdown should be made with power-off and on the main wheels first. The nose wheel should
@@ -2009,9 +1996,9 @@ be lowered smoothly to the runway as speed is diminished.
 
 SHORT FIELD LANDING
 
-For a short field landing in smooth air conditions, make an approach at 54 KIAS with 30° flaps using
+For a short field landing in smooth air conditions, make an approach at 54 MPH with 30° flaps using
 enough power to control the glide path. After all approach obstacles are cleared, progressively reduce
-power and maintain 54 KIAS by lowering the nose of the airplane. Touchdown should be made with
+power and maintain 54 MPH by lowering the nose of the airplane. Touchdown should be made with
 power-off and on the main wheels first. Immediately after touchdown, lower the nose wheel and apply
 heavy braking as required. For maximum brake effectiveness, retract flaps, hold full nose-up elevator,
 and apply maximum brake pressure without sliding the tires.
@@ -2241,7 +2228,7 @@ Usable fuel 24.5 Gallons
 
 Field pressure altitude 1500 Feet
 Temperature 28°C (16°C above standard)
-Wind component along runway 12 Knot Headwind
+Wind component along runway 12 MPH Headwind
 Field length 3500 Feet
 
 ### CRUISE CONDITIONS
@@ -2249,7 +2236,7 @@ Field length 3500 Feet
 Total distance 320 Nautical Miles
 Pressure altitude 5500 Feet
 Temperature 20°C (16°C above standard)
-Expected wind enroute 10 Knot Headwind
+Expected wind enroute 10 MPH Headwind
 
 ### LANDING CONDITIONS
 
@@ -2272,7 +2259,7 @@ Ground roll 980 Feet
 Total distance to clear a 50-foot obstacle 1820 Feet
 
 These distances are well within the available takeoff field length. However, a correction for the effect of
-wind may be made based on Note 3 of the takeoff chart. The correction for a 12 knot headwind is:
+wind may be made based on Note 3 of the takeoff chart. The correction for a 12 mph headwind is:
 
 (^129) 𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾 × 10%=13% 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷
 This results in the following distances, corrected for wind:
@@ -2297,11 +2284,11 @@ nautical miles under no wind conditions. The endurance profile chart, figure 5-9
 
 ### MODEL SERIES 7 STi 5-5
 
-The range figure of 375 nautical miles is corrected to account for the expected 10 knot headwind at
+The range figure of 375 nautical miles is corrected to account for the expected 10 mph headwind at
 5500 feet.
 
 Range, zero wind 375
-Decrease in range due to wind (3.9 hours × 10 knot headwind) 39
+Decrease in range due to wind (3.9 hours × 10 mph headwind) 39
 Corrected range 336 Nautical Miles
 
 This indicates that the trip can be made without a fuel stop using approximately 65% power.
@@ -2311,7 +2298,7 @@ temperature. These values most nearly correspond to the planned altitude and exp
 conditions. The engine speed chosen is 2400 RPM, which results in the following:
 
 Power 64%
-True airspeed 99 Knots
+True airspeed 99 MPH
 Cruise fuel flow 5.2 GPH
 
 The power computer may be used to determine power and fuel consumption more accurately during
@@ -2349,13 +2336,13 @@ Cruise distance 310 Nautical Miles
 
 ### MODEL SERIES 7 STi 5-6
 
-With an expected 10 knot headwind, the ground speed for cruise is predicted to be:
+With an expected 10 mph headwind, the ground speed for cruise is predicted to be:
 
 ### 99
 
 ### -10
 
-89 Knots
+89 MPH
 
 Therefore, the time required for the cruise portion of the trip is:
 
@@ -2408,19 +2395,19 @@ Power required for level flight or maximum rated RPM dive.
 
 ### FLAPS UP
 
-### KIAS 40 50 60 70 80 90 100 110 120 130 140
+### MPH 40 50 60 70 80 90 100 110 120 130 140
 
 ### KCAS 46 53 60 69 78 88 97 107 117 127 136
 
 ### FLAPS 10°
 
-### KIAS 40 50 60 70 80 85 - - - - - - - - - - - - - - -
+### MPH 40 50 60 70 80 85 - - - - - - - - - - - - - - -
 
 ### KCAS 44 52 61 70 80 84 - - - - - - - - - - - - - - -
 
 ### FLAPS 30°
 
-### KIAS 40 50 60 70 80 85 - - - - - - - - - - - - - - -
+### MPH 40 50 60 70 80 85 - - - - - - - - - - - - - - -
 
 ### KCAS 43 51 61 71 82 87 - - - - - - - - - - - - - - -
 
@@ -2446,7 +2433,7 @@ Power Off
 
 ### NOTE:
 
-KIAS values are approximate and are based on airspeed calibration data with power off.
+MPH values are approximate and are based on airspeed calibration data with power off.
 
 MOST REARWARD CENTER OF GRAVITY
 
@@ -2462,7 +2449,7 @@ MOST REARWARD CENTER OF GRAVITY
 
 ### 0° 30° 45° 60°
 
-### KIAS KCAS KIAS KCAS KIAS KCAS KIAS KCAS
+### MPH KCAS MPH KCAS MPH KCAS MPH KCAS
 
 ### 1670
 
@@ -2486,7 +2473,7 @@ MOST FORWARD CENTER OF GRAVITY
 
 ### 0° 30° 45° 60°
 
-### KIAS KCAS KIAS KCAS KIAS KCAS KIAS KCAS
+### MPH KCAS MPH KCAS MPH KCAS MPH KCAS
 
 ### 1670
 
@@ -2517,7 +2504,7 @@ Zero Wind
 
 1. Short field technique as specified in Section 4.
 2. Prior to takeoff from fields above 3000 feet elevation, the mixture should be leaned to give maximum RPM in a full throttle, static runup.
-3. Decrease distances 10% for each 9 knots headwind. For operation with tailwinds up to 10 knots, increase distance by 10% for each 2 knots.
+3. Decrease distances 10% for each 9 mph headwind. For operation with tailwinds up to 10 mph, increase distance by 10% for each 2 mph.
 4. For operation on a dry, grass runway, increase distances by 15% of the “ground roll” figure.
 
 ### WEIGHT
@@ -2528,7 +2515,7 @@ Zero Wind
 
 ### SPEED
 
-### KIAS PRESS^
+### MPH PRESS^
 
 ### ALT
 
@@ -2647,7 +2634,7 @@ Mixture leaned above 3000 feet for maximum RPM.
 
 ### SPEED
 
-### KIAS
+### MPH
 
 ### RATE OF CLIMB – FPM
 
@@ -2710,7 +2697,7 @@ Standard Temperature
 
 ### SPEED
 
-### KIAS
+### MPH
 
 ### RATE OF
 
@@ -2778,7 +2765,7 @@ Recommended Lean Mixture (See Section 4, Cruise)
 ### NOTE:
 
 Cruise speeds are shown for an airplane equipped with speed fairings which increase the speed by
-approximately two knots.
+approximately two mph.
 
 ```
 PRESSURE
@@ -2884,7 +2871,7 @@ NOTES:
     climb as shown in figure 5-6.
 2. Reserve fuel is based on 45 minutes at 45% BHP and is 2.8 gallons.
 3. Performance is shown for an airplane equipped with speed fairings which increase the cruise speeds
-    by approximately two knots.
+    by approximately two mph.
 
 ```
 Figure 5-8. Range Profile (Sheet 1 of 2)
@@ -2910,7 +2897,7 @@ NOTES:
     climb as shown in figure 5-6.
 2. Reserve fuel is based on 45 minutes at 45% BHP and is 2.8 gallons.
 3. Performance is shown for an airplane equipped with speed fairings which increase the cruise speeds
-    by approximately two knots.
+    by approximately two mph.
 
 ```
 Figure 5-8. Range Profile (Sheet 2 of 2)
@@ -2979,7 +2966,7 @@ Zero Wind
 ### NOTES:
 
 1. Short field technique as specified in Section 4.
-2. Decrease distances 10% for each 9 knots headwind. For operation with tailwinds up to 10 knots, increase distance by 10% for each 2 knots.
+2. Decrease distances 10% for each 9 mph headwind. For operation with tailwinds up to 10 mph, increase distance by 10% for each 2 mph.
 3. For operation on a dry, grass runway, increase distances by 45% of the “ground roll” figure.
 
 ### WEIGHT
@@ -2990,7 +2977,7 @@ Zero Wind
 
 ### AT 50 FT
 
-### KIAS
+### MPH
 
 ### PRESS
 
@@ -4776,7 +4763,7 @@ prior to flight, and should not be opened intentionally during flight.
 ```
 Accidental opening of a cabin door in flight due to improper closing does
 not constitute a need to land the airplane. The best procedure is to set
-up the airplane in a trimmed condition at approximately 65 knots,
+up the airplane in a trimmed condition at approximately 65 mph,
 momentarily shove the door outward slightly, and forcefully close the
 door.
 ```
@@ -4788,7 +4775,7 @@ Both cabin doors are equipped with openable windows. The windows are held in the
 a detent equipped latch on the lower edge of the window frame. To open either window, rotate the
 latch upward. The windows are equipped with a spring-loaded retaining arm which will help rotate the
 window outward, and hold it there. If required, the windows may be opened at any speed up to 143
-knots. All other cabin windows are of the fixed type and cannot be opened. Two additional fixed
+mph. All other cabin windows are of the fixed type and cannot be opened. Two additional fixed
 windows may be installed in the cabin top.
 
 
@@ -5241,9 +5228,9 @@ Pitot heat should be used only as required.
 
 AIRSPEED INDICATOR
 
-The airspeed indicator is calibrated in knots and miles per hour. Limitation and range markings include
-the white arc (35 to 85 knots), green arc (40 to 111 knots), yellow arc (111 to 149 knots), and a red line
-(149 knots).
+The airspeed indicator is calibrated in mph and miles per hour. Limitation and range markings include
+the white arc (35 to 85 mph), green arc (40 to 111 mph), yellow arc (111 to 149 mph), and a red line
+(149 mph).
 
 If a true airspeed indicator is installed, it is equipped with a rotatable ring which works in conjunction
 with the airspeed indicator dial in a manner similar to the operation of a flight computer. To operate
@@ -5321,7 +5308,7 @@ edge of the left wing, an air-operated horn near the upper left corner of the wi
 plumbing. As the airplane approaches a stall, the low pressure on the upper surface of the wings moves
 forward around the leading edge of the wings. This low pressure creates a differential pressure in the
 stall warning system which draws air through the warning horn, resulting in an audible warning at 5 to
-10 knots above stall in all flight conditions.
+10 mph above stall in all flight conditions.
 
 The stall warning system should be checked during the preflight inspection by placing a clean
 handkerchief over the vent opening and applying suction. A sound from the warning horn will confirm

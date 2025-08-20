@@ -447,23 +447,12 @@ Airspeed limitations and their operational significance are shown in figure 2-1.
 
 Airspeed indicator markings and their color code significance are shown in figure 2-2.
 
-| MARKING    | MPH VALUE | SIGNIFICANCE                                        |
-|            | OR RANGE  |                                                     |
+| MARKING    | MPH VALUE OR RANGE | SIGNIFICANCE |
 |------------|-----------|-----------------------------------------------------|
-| White Arc  | 35 – 85   | Full Flap Operating Range. Lower limit is maximum   |
-|            |           | weight VS0 in landing configuration. Upper limit is |
-|            |           | maximum speed permissible with flaps extended.      |
-|------------|-----------|-----------------------------------------------------|
-| Green Arc  | 40 – 111  | Normal Operating Range. Lower limit is maximum      |
-|            |           | weight VS at most forward C.G. with flaps retracted.|
-|            |           | Upper limit is maximum structural cruising speed.   |
-|------------|-----------|-----------------------------------------------------|
-| Yellow Arc | 111 – 140 | Operations must be conducted with caution and       |
-|            |           | only in smooth air.                                 |
-|------------|-----------|-----------------------------------------------------|
-| Red Line   |       140 | Maximum speed for all operations.                   |
-
-## AIRSPEED INDICATOR MARKINGS
+| White Arc  | 35 – 85   | Full Flap Operating Range. Lower limit is maximum weight VS0 in landing configuration. Upper limit is maximum speed permissible with flaps extended. |
+| Green Arc  | 40 – 111  | Normal Operating Range. Lower limit is maximum weight VS at most forward C.G. with flaps retracted. Upper limit is maximum structural cruising speed. |
+| Yellow Arc | 111 – 140 | Operations must be conducted with caution and only in smooth air. |
+| Red Line   | 140 | Maximum speed for all operations. |
 
 
 ### MODEL SERIES 7 STi 2-
@@ -482,15 +471,15 @@ Maximum Engine Speed: 5800 RPM
 The static RPM range at full throttle is 5800 for a maximum of 5 minutes
 ```
 
-Maximum Oil Temperature: 118°C (245°F)
+Maximum Oil Temperature: 266°F
 Oil Pressure
-Minimum: 25 psi
-Maximum: 100 psi
-Propeller Manufacturer: McCauley Accessory Division
-Propeller Model Number: 1A103/TCM
-Propeller Diameter
-Maximum: 69 inches
-Minimum: 67.5 inches
+Minimum: 11.6 psi
+Maximum: 101.5 psi
+Propeller Manufacturer: Airmaster
+Propeller Model Number: AP430CTF-WWR72B-RSPB2.0-200F1.5-RS  
+Number of Blades: 3  
+Propeller Diameter: 72 inches  
+Propeller Type: Variable Pitch  
 
 POWER PLANT LIMITATIONS
 
@@ -498,14 +487,11 @@ Power plant instrument markings and their color code significance are show in fi
 
 ### INSTRUMENT
 
-### RED LINE GREEN ARC RED LINE
-
-### MINIMUM LIMIT NORMAL OPERATING MAXIMUM LIMIT
-
-```
-Tachometer - - - 1900 – 2550 RPM 2550 RPM
-Oil Temperature - - - 100° – 245°F 245°F
-Oil Pressure 25 psi 60 – 90 psi 100 psi
+| | RED LINE | GREEN ARC | RED LINE |
+| | MINIMUM LIMIT | NORMAL OPERATING | MAXIMUM LIMIT |
+| Tachometer | - - - | 1800 – 5500 RPM | 5800 RPM (max. 5 minutes)|
+| Oil Temperature | -4F | 122° – 266°F | 266°F |
+| Oil Pressure | 11.6 psi | 29 - 72.5 psi | 101.5 psi |
 ```
 ```
 Figure 2-3. Power Plant Instrument Markings
@@ -515,33 +501,27 @@ Figure 2-3. Power Plant Instrument Markings
 
 WEIGHT LIMITS
 
-Maximum Takeoff Weight: 1670 lbs.
-Maximum Landing Weight: 1670 lbs.
+Maximum Takeoff Weight: 1550 lbs.
+Maximum Landing Weight: 1550 lbs.
 Maximum Weight in Baggage Compartment:
-Baggage Area 1 (or passenger on child’s seat) – Station 50 to 76: 120 lbs.
-See note below.
-Baggage Area 2 – Station 76 to 94: 40 lbs.
+Baggage Area – Station 49: 120 lbs.
 See note below.
 
 ### NOTE
 
 ```
-The maximum combined weight capacity for baggage areas 1 and 2 is 120
-lbs.
+The maximum weight capacity for the baggage area is 160 lbs. with one 180 lb pilot.
 ```
 CENTER OF GRAVITY LIMITS
 
 Center of Gravity Range:
-Forward: 31.0 inches aft of datum at 1350 lbs. or less, with straight line variation to 32.65 inches
-aft of datum at 1670 lbs.
-Aft: 36.5 inches aft of datum at all weights.
-Reference Datum: Front face of firewall.
+Forward: 9.5 inches aft of datum at all weights.
+Aft: 16.0 inches aft of datum at all weights.
+Reference Datum: Leading edge of wing.
 
 MANEUVERING LIMITS
 
-This airplane is certificated in the utility category and is designed for limited aerobatic flight. In the
-acquisition of various certificates such as commercial pilot, instrument pilot and flight instructor, certain
-maneuvers are required. All of these maneuvers are permitted in this airplane.
+This airplane is certificated in the normal category and is not designed for aerobatic flight.
 
 No aerobatic maneuvers are approved except those listed below:
 
@@ -569,11 +549,8 @@ FLIGHT LOAD FACTOR LIMITS
 ## FLIGHT LOAD FACTOR LIMITS
 
 ```
-* Flaps Up: +4.4g, -1.76g
-* Flaps Down: +3.5g
+* +6g, -3g
 ```
-* The design load factors are 150% of the above, and in all cases, the structure meets or exceeds design
-loads.
 
 KINDS OF OPERATION LIMITS
 
@@ -594,19 +571,26 @@ Unusable Fuel: 1.5 U.S. gallons
 ### NOTE
 
 ```
-Due to cross-feeding between fuel tanks, the tanks should be re-topped
-after each refueling to assure maximum capacity.
-```
-### NOTE
-
-```
 Takeoffs have not been demonstrated with less than 2 gallons total fuel
 (1 gallon per tank).
 ```
 Approved Fuel Grades (and Colors):
+ASTM D4814 (min. AKI 91) aka 91 Octane MOGAS (Yellow)
 100LL Grade Aviation Fuel (Blue)
-100 (Formerly 100/130) Grade Aviation Fuel (Green)
 
+### NOTE
+
+```
+AVGAS fuel additives
+Additives under the names of Decalin® and Alcor®, which aid the scavenging of lead deposits have
+not been tested by BRP-Rotax. Field experience shows that these products significantly reduce
+lead deposits in the combustion chamber and piston/ring assemblies and have no detrimental
+effect on the engine, when used in the recommended manner.
+Always follow the additive manufacturers instructions especially with regard to health and safety
+precautions. BRP-Rotax only has field experience with Decalin Runup® and Alcor TCP® brands.
+Other similar additives are not recommended as BRP-Rotax cannot comment on their suitability for
+the 916 i Series, 915 i Series, 912 i Series, 912 and 914 Series engine types.
+```
 
 ### MODEL SERIES 7 STi 2-8
 
@@ -827,9 +811,6 @@ FIRES
 
 DURING START ON GROUND
 
-1. Cranking – CONTINUE, to get a start which would suck the flames and accumulated fuel through
-    the carburetor and into the engine.
-
 If engine starts:
 
 1. Power – 3300 RPM for a few minutes.
@@ -843,8 +824,7 @@ If engine fails to start:
     a. Master Switch – OFF.
     b. Fuel Shutoff Valve – OFF.
 4. Fire – EXTINGUISH using fire extinguisher, wool blanket, or dirt.
-5. Fire Damage – INSPECT, repair damage or replace damaged components or wiring before
-    conducting another flight.
+5. Fire Damage – INSPECT, repair damage or replace damaged components or wiring before conducting another flight.
 
 
 ### MODEL SERIES 7 STi 3-6
@@ -869,8 +849,7 @@ ELECTRICAL FIRE IN FLIGHT
 ### WARNING
 
 ```
-After discharging an extinguisher within a closed cabin, ventilate the
-cabin.
+After discharging an extinguisher within a closed cabin, ventilate the cabin.
 ```
 If fire appears out and electrical power is necessary for continuance of flight:
 
@@ -888,8 +867,7 @@ CABIN FIRE
 ### WARNING
 
 ```
-After discharging an extinguisher within a closed cabin, ventilate the
-cabin.
+After discharging an extinguisher within a closed cabin, ventilate the cabin.
 ```
 4. Land the airplane as soon as possible to inspect for damage.
 
@@ -906,8 +884,7 @@ WING FIRE
 ### NOTE
 
 ```
-Perform a side slip to keep the flames away from the fuel tank and cabin,
-and land as soon as possible, with flaps retracted.
+Perform a left side slip to keep the flames away from the fuel tank and cabin, and land as soon as possible, with flaps retracted.
 ```
 ICING
 
@@ -918,13 +895,9 @@ INADVERTENT ICING ENCOUNTER
 3. Set cabin heat control to high to obtain maximum defroster air temperature. For greater air
     flow at reduced temperatures, adjust the cabin air control as required.
 4. Open the throttle to increase engine speed and minimize ice build-up on propeller blades.
-5. Plan a landing at the nearest airport. With an extremely rapid ice build-up, select a suitable “off
-    airport” landing site.
-6. With an ice accumulation of 1/4 inch or more on the wing leading edges, be prepared for
-    significantly higher stall speed.
-7. Leave wing flaps retracted. With a severe ice build-up on the horizontal tail, the change in wing
-    wake airflow direction caused by wing flap extension could result in a loss of elevator
-    effectiveness.
+5. Plan a landing at the nearest airport. With an extremely rapid ice build-up, select a suitable “off airport” landing site.
+6. With an ice accumulation of 1/4 inch or more on the wing leading edges, be prepared for significantly higher stall speed.
+7. Leave wing flaps retracted. With a severe ice build-up on the horizontal tail, the change in wing wake airflow direction caused by wing flap extension could result in a loss of elevator effectiveness.
 8. Perform a landing approach using a forward slip, if necessary, for improved visibility.
 9. Approach at 65 to 75 MPH depending upon the amount of ice accumulation.
 10. Perform a landing in level attitude.
@@ -933,8 +906,7 @@ LANDING WITH A FLAT MAIN TIRE
 
 1. Wing Flaps – AS DESIRED.
 2. Approach – NORMAL.
-3. Touchdown – GOOD TIRE FIRST, hold airplane off flat tire as long as possible with aileron
-    control.
+3. Touchdown – GOOD TIRE FIRST, hold airplane off flat tire as long as possible with aileron control.
 
 
 ### MODEL SERIES 7 STi 3-8
@@ -959,79 +931,24 @@ AMMETER SHOWS DISCHARGE
 
 ### MODEL SERIES 7 STi 3-9
 
-AMPLIFIED PROCEDURES
+## AMPLIFIED PROCEDURES
 
-ENGINE FAILURE
+### ENGINE FAILURE
 
-If an engine failure occurs during the takeoff run, the most important thing to do is stop the airplane on
-the remaining runway. Those extra items on the checklist will provide added safety after a failure of this
-type.
+If an engine failure occurs during the takeoff run, the most important thing to do is stop the airplane on the remaining runway. Those extra items on the checklist will provide added safety after a failure of this type.
 
-PROMPTLY LOWERING THE NOSE TO MAINTAIN AIRSPEED and establish a glide attitude is the first response to
-an engine failure after takeoff. In most cases, the landing should be planned straight ahead with only
-small changes in direction to avoid obstructions. Altitude and airspeed are seldom sufficient to execute
-a 180° gliding turn necessary to return to the runway. The checklist procedures assume that adequate
-time exists to secure the fuel and ignition systems prior to touchdown.
+PROMPTLY LOWERING THE NOSE TO MAINTAIN AIRSPEED and establish a glide attitude is the first response to an engine failure after takeoff. In most cases, the landing should be planned straight ahead with only small changes in direction to avoid obstructions. Altitude and airspeed are seldom sufficient to execute a 180° gliding turn necessary to return to the runway. The checklist procedures assume that adequate time exists to secure the fuel and ignition systems prior to touchdown.
 
-After engine failure in flight, the best glide speed as shown in figure 3-1 should be established as quickly
-as possible. While gliding toward a suitable landing area, an effort should be made to identify the cause
-of the failure. If time permits, an engine restart should be attempted as shown in the checklist. If the
-engine cannot be restarted, a forced landing without power must be completed.
+After engine failure in flight, the best glide speed as shown in figure 3-1 should be established as quickly as possible. While gliding toward a suitable landing area, an effort should be made to identify the cause of the failure. If time permits, an engine restart should be attempted as shown in the checklist. If the engine cannot be restarted, a forced landing without power must be completed.
 
-```
-Figure 3-1. Maximum Glide
-```
-```
-0
-```
-```
-1000
-```
-```
-2000
-```
-```
-3000
-```
-```
-4000
-```
-```
-5000
-```
-```
-6000
-```
-```
-7000
-```
-```
-8000
-```
-```
-9000
-```
-```
-10000
-```
-```
-11000
-```
-```
-12000
-```
-```
-0.0 1.6 3.2 4.8 6.4 8.0 9.6 11.2 12.8 14.4 16.0 17.6 19.2
-```
-```
-HEIGHT ABOVE TERRAIN (FEET)
-```
-```
-GLIDE DISTANCE - NAUTICAL MILES
-```
+### Figure 3-1. Maximum Glide
+
+| HEIGHT ABOVE TERRAIN (FEET) | 0 | 1000 | 2000 | 3000 | 4000 | 5000 | 6000 | 7000 | 8000 | 9000 | 10000 | 11000 | 12000 |
+| GLIDE DISTANCE - NAUTICAL MILES | 0.0 | 1.6 | 3.2 | 4.8 | 6.4 | 8.0 | 9.6 | 11.2 | 12.8 | 14.4 | 16.0 | 17.6 | 19.2 |
+
 ### SPEED 60 MPH
 
-### PROPELLER WINDMILLING
+### PROPELLER FEATHERED
 
 ### FLAPS UP
 
@@ -1040,36 +957,23 @@ GLIDE DISTANCE - NAUTICAL MILES
 
 FORCED LANDINGS
 
-If all attempts to restart the engine fail and a forced landing is imminent, select a suitable field and
-prepare for the landing as discussed under the Emergency Landing Without Engine Power checklist.
+If all attempts to restart the engine fail and a forced landing is imminent, select a suitable field and prepare for the landing as discussed under the Emergency Landing Without Engine Power checklist.
 
-Before attempting an “off airport” landing with engine power available, one should fly over the landing
-area at a safe but low altitude to inspect the terrain for obstructions and surface conditions, proceeding
-as discussed under the Precautionary Landing With Engine Power checklist.
+Before attempting an “off airport” landing with engine power available, one should fly over the landing area at a safe but low altitude to inspect the terrain for obstructions and surface conditions, proceeding as discussed under the Precautionary Landing With Engine Power checklist.
 
-Prepare for ditching by securing or jettisoning heavy objects located in the baggage area and collect
-folded coats for protection of occupants’ face at touchdown. Transmit Mayday message on 121.5 MHz
-giving location and intentions.
+Prepare for ditching by securing or jettisoning heavy objects located in the baggage area and collect folded coats for protection of occupants’ face at touchdown. Transmit Mayday message on 121.5 MHz giving location and intentions.
 
 LANDING WITHOUT ELEVATOR CONTROL
 
-Trim for horizontal flight (with an airspeed of approximately 55 MPH and flaps lowered to 20°) by using
-throttle and elevator trim controls. Then **do not change the elevator trim control setting** ; control the
-glide angle by adjusting power exclusively.
+Trim for horizontal flight (with an airspeed of approximately 55 MPH and flaps lowered to 1/2) by using throttle and elevator trim controls. Then **do not change the elevator trim control setting** ; control the glide angle by adjusting power exclusively.
 
-At flareout, the nose-down moment resulting from power reduction is an adverse factor and the
-airplane may hit nose low. Consequently, at flareout, the trim control should be set at the full
-nose-up position and the power adjusted so that the airplane will rotate to the horizontal attitude for
-touchdown. Retract the flaps and close the throttle at touchdown.
+At flareout, the nose-down moment resulting from power reduction is an adverse factor and the airplane may hit nose low. Consequently, at flareout, the trim control should be set at the full nose-up position and the power adjusted so that the airplane will rotate to the horizontal attitude for touchdown. Retract the flaps and close the throttle at touchdown.
 
 FIRES
 
-Although engine fires are extremely rare in flight, the steps of the appropriate checklist should be
-followed if one is encountered. After completion of this procedure, execute a forced landing. Do not
-attempt to restart the engine.
+Although engine fires are extremely rare in flight, the steps of the appropriate checklist should be followed if one is encountered. After completion of this procedure, execute a forced landing. Do not attempt to restart the engine.
 
-The initial indication of an electrical fire is usually the odor of burning insulation. The checklist for this
-problem should result in elimination of the fire.
+The initial indication of an electrical fire is usually the odor of burning insulation. The checklist for this problem should result in elimination of the fire.
 
 EMERGENCY OPERATION IN CLOUDS
 
@@ -1080,28 +984,15 @@ EXECUTING A 180° TURN IN CLOUDS
 
 Upon inadvertently entering the clouds, an immediate plan should be made to turn back as follows:
 
-1. Note the time of the minute hand and observe the position of the sweep second hand on the
-    clock.
-2. When the sweep second hand indicates the nearest half-minute, initiate a standard rate left
-    turn, holding the turn coordinator symbolic airplane wing opposite the lower left index mark for
-    60 seconds. Then roll back to level flight by leveling the miniature airplane.
-3. Check accuracy of the turn by observing the compass heading which should be the reciprocal of
-    the original heading.
-4. If necessary, adjust heading primarily with skidding motions rather than rolling motions so that
-    the compass will read more accurately.
-5. Maintain altitude and airspeed by cautious application of elevator control. Avoid over
-    controlling by keeping the hands off the control wheel as much as possible and steering only
-    with rudder.
+1. Note the time of the minute hand and observe the position of the sweep second hand on the clock.
+2. When the sweep second hand indicates the nearest half-minute, initiate a standard rate left turn, holding the turn coordinator symbolic airplane wing opposite the lower left index mark for 60 seconds. Then roll back to level flight by leveling the miniature airplane.
+3. Check accuracy of the turn by observing the compass heading which should be the reciprocal of the original heading.
+4. If necessary, adjust heading primarily with skidding motions rather than rolling motions so that the compass will read more accurately.
+5. Maintain altitude and airspeed by cautious application of elevator control. Avoid over controlling by keeping the hands off the control wheel as much as possible and steering only with rudder.
 
 EMERGENCY DESCENT THROUGH CLOUDS
 
-If conditions preclude reestablishment of VFR flight by a 180° turn, a descent through a cloud deck to
-VFR conditions may be appropriate. If possible, obtain radio clearance for an emergency descent
-through clouds. To guard against a spiral dive, choose an easterly or westerly heading to minimize
-compass card swings due to changing bank angles. In addition, keep hands off the control wheel and
-steer a straight course with rudder control by monitoring the turn coordinator. Occasionally check the
-compass heading and make minor corrections to hold an approximate course. Before descending into
-the clouds, set up a stabilized let-down condition as follows:
+If conditions preclude reestablishment of VFR flight by a 180° turn, a descent through a cloud deck to VFR conditions may be appropriate. If possible, obtain radio clearance for an emergency descent through clouds. To guard against a spiral dive, choose an easterly or westerly heading to minimize compass card swings due to changing bank angles. In addition, keep hands off the control wheel and steer a straight course with rudder control by monitoring the turn coordinator. Occasionally check the compass heading and make minor corrections to hold an approximate course. Before descending into the clouds, set up a stabilized let-down condition as follows:
 
 1. Reduce power to set up a 500 to 800 ft/min rate of descent.
 2. Adjust the elevator trim for a stabilized descent at 70 MPH.
@@ -1116,8 +1007,7 @@ RECOVERY FROM A SPIRAL DIVE
 If a spiral is encountered, proceed as follows:
 
 1. Close the throttle.
-2. Stop the turn by using coordinated aileron and rudder control to align the symbolic airplane in
-    the turn coordinator with the horizon reference line.
+2. Stop the turn by using coordinated aileron and rudder control to align the symbolic airplane in the turn coordinator with the horizon reference line.
 3. Cautiously apply elevator back pressure to slowly reduce the airspeed to 70 MPH.
 4. Adjust the elevator trim control to maintain a 70 MPH glide.
 5. Keep hands off the control stick, using rudder control to hold a straight heading.
@@ -1130,8 +1020,7 @@ If a spiral is encountered, proceed as follows:
 FLIGHT IN ICING CONDITIONS
 
 Flight into icing conditions is prohibited. An inadvertent encounter with these conditions can best be
-handled using the checklist procedures. The best procedure, of course, is to turn back or change
-altitude to escape icing conditions.
+handled using the checklist procedures. The best procedure, of course, is to turn back or change altitude to escape icing conditions.
 
 SPINS
 
@@ -1143,23 +1032,17 @@ Should an inadvertent spin occur, the following recovery procedure should be use
 4. JUST AFTER THE RUDDER REACHES THE STOP, MOVE THE CONTROL STICK BRISKLY FORWARD
 
 ```
-FAR ENOUGH TO BREAK THE STALL. Full down elevator may be required at aft center of gravity
-loadings to assure optimum recoveries.
+FAR ENOUGH TO BREAK THE STALL. Full down elevator may be required at aft center of gravity loadings to assure optimum recoveries.
 ```
-5. **HOLD** THESE CONTROL INPUTS UNTIL ROTATION STOPS. Premature relaxation of the control
-    inputs may extend the recovery.
-6. AS ROTATION STOPS, NEUTRALIZE RUDDER, AND MAKE A SMOOTH RECOVERY FROM THE
-    RESULTING DIVE.
+5. **HOLD** THESE CONTROL INPUTS UNTIL ROTATION STOPS. Premature relaxation of the control inputs may extend the recovery.
+6. AS ROTATION STOPS, NEUTRALIZE RUDDER, AND MAKE A SMOOTH RECOVERY FROM THE RESULTING DIVE.
 
 ### NOTE
 
 ```
-If disorientation precludes a visual determination of the direction of
-rotation, the symbolic airplane in the turn coordinator may be referred
-to for this information.
+If disorientation precludes a visual determination of the direction of rotation, the symbolic airplane in the turn coordinator may be referred to for this information.
 ```
-For additional information on spins and spin recovery, see the discussion under SPINS in Normal
-Procedures (Section 4).
+For additional information on spins and spin recovery, see the discussion under SPINS in Normal Procedures (Section 4).
 
 ROUGH ENGINE OPERATION OR LOSS OF POWER
 
@@ -1167,44 +1050,27 @@ ROUGH ENGINE OPERATION OR LOSS OF POWER
 
 SPARK PLUG FOULING
 
-A slight engine roughness in flight may be caused by one or more spark plugs becoming fouled by
-carbon or lead deposits. This may be verified by turning Lane A off briefly, turning Lane A back on and 
-waiting for the light to turn back on and then repeating the same procedure with Lane B. An obvious 
-power loss in single ignition operation is evidence of spark plug problem. Proceed to the nearest
-airport for repairs.
+A slight engine roughness in flight may be caused by one or more spark plugs becoming fouled by carbon or lead deposits. This may be verified by turning Lane A off briefly, turning Lane A back on and  waiting for the light to turn back on and then repeating the same procedure with Lane B. An obvious power loss in single ignition operation is evidence of spark plug problem. Proceed to the nearest airport for repairs.
 
 IGNITION MALFUNCTION
 
-A sudden engine roughness or misfiring is usually evidence of ignition system or ECU problems. 
-Switching from BOTH to either Lane A or Lane B position will identify which lane is malfunctioning. 
-Select different power settings to determine if continued operation on BOTH lanes is practicable. 
+A sudden engine roughness or misfiring is usually evidence of ignition system or ECU problems. Switching from BOTH to either Lane A or Lane B position will identify which lane is malfunctioning. Select different power settings to determine if continued operation on BOTH lanes is practicable. 
 If not, switch to the good lane and proceed to the nearest airport for repairs.
 
 LOW OIL PRESSURE
 
-If low oil pressure is accompanied by normal oil temperature, there is a possibility the oil pressure gauge
-or relief valve is malfunctioning. Landing at the nearest airport would be advisable to inspect the source of trouble.
+If low oil pressure is accompanied by normal oil temperature, there is a possibility the oil pressure gauge or relief valve is malfunctioning. Landing at the nearest airport would be advisable to inspect the source of trouble.
 
-If a total loss of oil pressure is accompanied by a rise in oil temperature, there is good reason to suspect
-an engine failure is imminent. Reduce engine power immediately and select a suitable forced landing
-field. Use only the minimum power required to reach the desired touchdown spot.
+If a total loss of oil pressure is accompanied by a rise in oil temperature, there is good reason to suspect an engine failure is imminent. Reduce engine power immediately and select a suitable forced landing field. Use only the minimum power required to reach the desired touchdown spot.
 
 ELECTRICAL POWER SUPPLY SYSTEM MALFUNCTIONS
 
-Malfunctions in the electrical power supply system can be detected by periodic monitoring of the
-ammeter and over-voltage warning light; however, the cause of these malfunctions is usually difficult to
-determine. A failing alternator or wiring is most likely the cause of alternator failures,
-although other factors could cause the problem. A damaged or improperly adjusted voltage regulator
-can also cause malfunctions. Problems of this nature constitute an electrical emergency and should be
-dealt with immediately. Electrical power malfunctions usually fall into two categories: excessive rate of
-charge and insufficient rate of charge. The paragraphs below describe the recommended remedy for
-each situation.
+Malfunctions in the electrical power supply system can be detected by periodic monitoring of the ammeter and over-voltage warning light; however, the cause of these malfunctions is usually difficult to determine. A failing alternator or wiring is most likely the cause of alternator failures, although other factors could cause the problem. A damaged or improperly adjusted voltage regulator can also cause malfunctions. Problems of this nature constitute an electrical emergency and should be
+dealt with immediately. Electrical power malfunctions usually fall into two categories: excessive rate of charge and insufficient rate of charge. The paragraphs below describe the recommended remedy for each situation.
 
 EXCESSIVE RATE OF CHARGE
 
-After engine starting and heavy electrical usage at low engine speeds (such as extended taxiing) the
-battery condition will be low enough to accept above normal charging during the initial part of a flight.
-However, after thirty minutes of cruising flight, the ammeter should be indicating less than two needle
+After engine starting and heavy electrical usage at low engine speeds (such as extended taxiing) the battery condition will be low enough to accept above normal charging during the initial part of a flight. However, after thirty minutes of cruising flight, the ammeter should be indicating less than two needle
 widths of charging current. If the charging rate were to remain above this value on a long flight, the
 
 
@@ -1342,30 +1208,28 @@ as practical.
 
 INTRODUCTION
 
-Section 4 provides checklist and amplified procedures for the conduct of normal operation. Normal
-procedures associated with optional systems can be found in Section 9.
+Section 4 provides checklist and amplified procedures for the conduct of normal operation. Normal procedures associated with optional systems can be found in Section 9.
 
 SPEEDS FOR NORMAL OPERATION
 
-Unless otherwise noted, the following speeds are based on a maximum weight of 1550 pounds and may
-be used for any lesser weight.
+Unless otherwise noted, the following speeds are based on a maximum weight of 1550 pounds and may be used for any lesser weight.
 
 Takeoff:
 Normal Climb Out ....................................................... 65-75 MPH
 Short Field Takeoff, Flaps 1/2, Speed at 50 Feet .......................... 54 MPH
 Climb, Flaps Up:
 Normal .................................................................... 70 MPH
-Best Rate of Climb, Sea Level ............................................. 67 MPH
-Best Rate of Climb, 10,000 Feet ........................................... 61 MPH
+Best Rate of Climb, Sea Level ............................................. 70 MPH
+Best Rate of Climb, 10,000 Feet ........................................... 64 MPH
 Best Angle of Climb, Sea Level thru 10,000 Feet ........................... 55 MPH
 Landing Approach:
 Normal Approach, Flaps Up .............................................. 60-70 MPH
-Normal Approach, Flaps 30° ............................................. 55-65 MPH
-Short Field Approach, Flaps 30° ........................................... 54 MPH
+Normal Approach, Flaps Full ............................................. 55-65 MPH
+Short Field Approach, Flaps Full ........................................... 55 MPH
 Balked Landing:
-Maximum Power, Flaps 20° .................................................. 55 MPH
+Maximum Power, Flaps Half .................................................. 55 MPH
 Maximum Recommended Turbulent Air Penetration Speed:
-1670 Lbs ................................................................. 104 MPH
+1550 Lbs ................................................................. 104 MPH
 1500 Lbs .................................................................. 98 MPH
 1350 Lbs .................................................................. 93 MPH
 Maximum Demonstrated Crosswind Velocity ................................... 12 
@@ -1380,57 +1244,48 @@ Figure 4-1. Preflight Inspection
 
 ```
 Visually check airplane for general condition during walk-around
-inspection. In cold weather, remove even small accumulation of frost, ice
-or snow from wing, tail and control surfaces. Also, make sure that control
-surfaces contain no internal accumulation of ice or debris. Prior to flight,
-check that pitot heater (if installed) is warm to touch within 30 seconds
-with battery and pitot heat switches on. If a night flight is planned, check
-operation of all lights, and make sure a flashlight is available.
+inspection. In cold weather, remove even small accumulation of frost, ice or snow from wing, tail and control surfaces. Also, make sure that control surfaces contain no internal accumulation of ice or debris. Prior to flight, check that pitot heater (if installed) is warm to touch within 30 seconds with battery and pitot heat switches on. If a night flight is planned, check operation of all lights, and make sure a flashlight is available.
 ```
 
 ### MODEL SERIES 7 STi 4-5
 
-CHECKLIST PROCEDURES
+## CHECKLIST PROCEDURES
 
-PREFLIGHT INSPECTION
+### PREFLIGHT INSPECTION
 
- CABIN
+### CABIN
 
-1. Control Wheel Lock – REMOVE.
-2. Ignition Switch – OFF.
-3. Master Switch – ON.
-4. Fuel Quantity Indicators – CHECK QUANTITY.
-5. Master Switch – OFF.
-6. Fuel Shutoff Valve – ON.
+1. Lane A and B Switches – OFF.
+2. Master Switch – ON.
+3. Nav lights - ON.
+4. Strobe lights - ON.
+5. Landing or Wig Wag lights - ON.
+6. Fuel Quantity Indicators – CHECK QUANTITY.
+7. All lights - OFF.
+8. Master Switch – OFF.
+9. Fuel Shutoff Valve – ON.
 
- EMPENNAGE
+### EMPENNAGE
 
-1. Rudder Gust Lock – REMOVE.
-2. Tail Tie-Down – DISCONNECT.
-3. Control Surfaces – CHECK freedom of movement and security.
+1. Tail Tie-Down – DISCONNECT.
+2. Control Surfaces – CHECK freedom of movement and security.
 
- RIGHT WING Trailing Edge
+### RIGHT WING Trailing Edge
 
-1. Aileron – CHECK freedom of movement and security.
+1. Flaperon – CHECK freedom of movement and security.
 
- RIGHT WING
+### RIGHT WING
 
 1. Wing Tie-Down – DISCONNECT.
-2. Mail Wheel Tire – CHECK for proper inflation.
-3. Before first flight of the day and after each refueling, use sampler cup and drain small quantity
-    of fuel from fuel tank sump quick drain valve to check for water, sediment, and proper fuel
-    grade.
+2. Main Wheel Tire – CHECK for proper inflation.
+3. Before first flight of the day and after each refueling, use sampler cup and drain small quantity of fuel from fuel tank sump quick drain valve to check for water, sediment, and proper fuel grade.
 4. Fuel Quantity – CHECK VISUALLY for desired level.
 5. Fuel Filler Cap – SECURE.
 
- NOSE
+### NOSE
 
-1. Engine Oil Level – CHECK, do not operate with less than four quarts. Fill to six quarts for
-    extended flight.
-2. Before first flight of the day and after each refueling, pull out strainer drain knob for about four
-    seconds to clear fuel strainer of possible water and sediment. Check strainer drain closed. If
-    water is observed, the fuel system may contain additional water, and further draining of the
-    system at the strainer, fuel tank sumps, and fuel line drain plug will be necessary.
+1. Engine Oil Level – CHECK, do not operate with less than four quarts. Fill to six quarts for extended flight.
+2. Before first flight of the day and after each refueling, pull out strainer drain knob for about four seconds to clear fuel strainer of possible water and sediment. Check strainer drain closed. If water is observed, the fuel system may contain additional water, and further draining of the system at the strainer, fuel tank sumps, and fuel line drain plug will be necessary.
 3. Propeller and Spinner – CHECK for nicks and security.
 4. Carburetor Air Filter – CHECK for restrictions by dust or other foreign matter.
 5. Landing Light(s) – CHECK for condition and cleanliness.

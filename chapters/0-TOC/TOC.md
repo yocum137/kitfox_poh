@@ -1071,29 +1071,11 @@ dealt with immediately. Electrical power malfunctions usually fall into two cate
 EXCESSIVE RATE OF CHARGE
 
 After engine starting and heavy electrical usage at low engine speeds (such as extended taxiing) the battery condition will be low enough to accept above normal charging during the initial part of a flight. However, after thirty minutes of cruising flight, the ammeter should be indicating less than two needle
-widths of charging current. If the charging rate were to remain above this value on a long flight, the
-
-
-
-
-battery would overheat and evaporate the electrolyte at an excessive rate. Electronic components in
-the electrical system could be adversely affected by higher than normal voltage if a faulty voltage
-regulator setting is causing the overcharging. To preclude these possibilities, [an over-voltage sensor will
-automatically shut down the alternator and the over-voltage warning light will illuminate if the charge
-voltage reaches approximately 14.2 volts.] Assuming that the malfunction was only momentary, an
-attempt should be made to reactivate the alternator system. To do this, turn both lanes
-off and then on again. If the problem no longer exists, normal alternator charging will resume
-and the warning light will go off. If the light illuminates again, a malfunction is confirmed. In this event,
-the flight should be terminated and/or the current drain on the battery minimized because the battery
-can supply the electrical system for only a limited period of time. If the emergency occurs at night,
-power must be conserved for later use of the landing light and flaps during landing.
+widths of charging current. If the charging rate were to remain above this value on a long flight, the battery would overheat and evaporate the electrolyte at an excessive rate. Electronic components in the electrical system could be adversely affected by higher than normal voltage if a faulty voltage regulator setting is causing the overcharging. To preclude these possibilities, [an over-voltage sensor will automatically shut down the alternator and the over-voltage warning light will illuminate if the charge voltage reaches approximately 14.2 volts.] Assuming that the malfunction was only momentary, an attempt should be made to reactivate the alternator system. To do this, turn both lanes off and then on again. If the problem no longer exists, normal alternator charging will resume and the warning light will go off. If the light illuminates again, a malfunction is confirmed. In this event, the flight should be terminated and/or the current drain on the battery minimized because the battery can supply the electrical system for only a limited period of time. If the emergency occurs at night, power must be conserved for later use of the landing light and flaps during landing.
 
 INSUFFICIENT RATE OF CHARGE
 
-If the ammeter indicates a continuous discharge rate in flight, the alternator is not supplying power to
-the system and should be shut down since the alternator field circuit may be placing an unnecessary
-load on the system. All nonessential equipment should be turned off and the flight terminated as soon
-as practical.
+If the ammeter indicates a continuous discharge rate in flight, the alternator is not supplying power to the system and should be shut down since the alternator field circuit may be placing an unnecessary load on the system. All nonessential equipment should be turned off and the flight terminated as soon as practical.
 
 
 
@@ -1243,8 +1225,7 @@ Figure 4-1. Preflight Inspection
 ### NOTE
 
 ```
-Visually check airplane for general condition during walk-around
-inspection. In cold weather, remove even small accumulation of frost, ice or snow from wing, tail and control surfaces. Also, make sure that control surfaces contain no internal accumulation of ice or debris. Prior to flight, check that pitot heater (if installed) is warm to touch within 30 seconds with battery and pitot heat switches on. If a night flight is planned, check operation of all lights, and make sure a flashlight is available.
+Visually check airplane for general condition during walk-around inspection. In cold weather, remove even small accumulation of frost, ice or snow from wing, tail and control surfaces. Also, make sure that control surfaces contain no internal accumulation of ice or debris. Prior to flight, check that pitot heater (if installed) is warm to touch within 30 seconds with battery and pitot heat switches on. If a night flight is planned, check operation of all lights, and make sure a flashlight is available.
 ```
 
 
@@ -1260,44 +1241,13 @@ inspection. In cold weather, remove even small accumulation of frost, ice or sno
 3. Nav lights - ON.
 4. Strobe lights - ON.
 5. Landing or Wig Wag lights - ON.
+6. Propellor - Switch to FEATHER and toggle feather to verify functionality.  Switch to TO when complete.
 6. Fuel Quantity Indicators – CHECK QUANTITY.
 7. All lights - OFF.
 8. Master Switch – OFF.
 9. Fuel Shutoff Valve – ON.
 
-### EMPENNAGE
-
-1. Tail Tie-Down – DISCONNECT.
-2. Control Surfaces – CHECK freedom of movement and security.
-
-### RIGHT WING Trailing Edge
-
-1. Flaperon – CHECK freedom of movement and security.
-
-### RIGHT WING
-
-1. Wing Tie-Down – DISCONNECT.
-2. Main Wheel Tire – CHECK for proper inflation.
-3. Before first flight of the day and after each refueling, use sampler cup and drain small quantity of fuel from fuel tank sump quick drain valve to check for water, sediment, and proper fuel grade.
-4. Fuel Quantity – CHECK VISUALLY for desired level.
-5. Fuel Filler Cap – SECURE.
-
-### NOSE
-
-1. Engine Oil Level – CHECK, do not operate with less than four quarts. Fill to six quarts for extended flight.
-2. Before first flight of the day and after each refueling, pull out strainer drain knob for about four seconds to clear fuel strainer of possible water and sediment. Check strainer drain closed. If water is observed, the fuel system may contain additional water, and further draining of the system at the strainer, fuel tank sumps, and fuel line drain plug will be necessary.
-3. Propeller and Spinner – CHECK for nicks and security.
-4. Carburetor Air Filter – CHECK for restrictions by dust or other foreign matter.
-5. Landing Light(s) – CHECK for condition and cleanliness.
-6. Nose Wheel Strut and Tire – CHECK for proper inflation.
-
-
-
-
-7. Nose Tie-Down – DISCONNECT.
-8. Static Source Opening (left side of fuselage) – CHECK for stoppage.
-
- LEFT WING
+### LEFT WING
 
 1. Main Wheel Tire – CHECK for proper inflation.
 2. Before first flight of day and after each refueling, use sampler cup and drain small quantity of
@@ -1305,20 +1255,50 @@ inspection. In cold weather, remove even small accumulation of frost, ice or sno
 3. Fuel Quantity – CHECK VISUALLY for desired level.
 4. Fuel Filler Cap – SECURE.
 
- LEFT WING Leading Edge
+### LEFT WING Leading Edge
 
 1. Pitot Tube Cover – REMOVE and check opening for stoppage.
-2. Stall Warning Opening – CHECK for stoppage. To check the system, place a clean handkerchief
-    over the vent opening and apply suction; a sound from the warning horn will confirm system
-    operation.
-3. Fuel Tank Vent Opening – CHECK for stoppage.
-4. Wing Tie-Down – DISCONNECT.
+2. Fuel Tank Vent Opening – CHECK for stoppage.
+3. Wing Tie-Down – DISCONNECT.
 
- LEFT WING Trailing Edge
+### LEFT WING Trailing Edge
 
-1. Aileron – CHECK freedom of movement and security.
+1. Flaperon – CHECK freedom of movement and security.
 
-BEFORE STARTING ENGINE
+### EMPENNAGE
+
+1. Static Source Opening (left side of fuselage) – CHECK for stoppage.
+2. Tail Tie-Down – DISCONNECT.
+3. Control Surfaces – CHECK freedom of movement and security.
+4. Tailwheel - CHECK springs are connected to tail and safety wires are in place. CHECK that all bolts are secure and spring is properly tensioned.
+5. Access covers - CHECK all screws are in place.
+
+### RIGHT WING Trailing Edge
+
+1. Flaperon – CHECK freedom of movement and security.
+
+### RIGHT WING Leading edge
+
+1. Landing Light(s) – CHECK for condition and cleanliness.
+
+### RIGHT WING
+
+1. Wing Tie-Down – DISCONNECT.
+2. Main Wheel Tire – CHECK for proper inflation.
+3. Before first flight of the day and after each refueling, use sampler cup and drain small quantity of fuel from fuel tank sump quick drain valve as well as header tank on bottom of fuselage to check for water, sediment, and proper fuel grade.
+4. Fuel Quantity – CHECK VISUALLY for desired level.
+5. Fuel Filler Cap – SECURE.
+
+### NOSE
+
+1. Engine Oil Level – CHECK, do not operate with less than 3 liters (3.2 quarts). Level must be between minimum and maximum lines on dipstick.
+2. Engine Coolant - CHECK, that coolant level is visible through coolant window.
+3. Propeller and Spinner – CHECK for nicks and security.
+4. Air Filter – CHECK for restrictions by dust or other foreign matter.
+5. Cowling - CHECK for security.
+
+
+## BEFORE STARTING ENGINE
 
 1. Preflight Inspection – COMPLETE.
 2. Seats, Belts, Shoulder Harnesses – ADJUST and LOCK.
@@ -1327,69 +1307,64 @@ BEFORE STARTING ENGINE
 5. Brakes – TEST and SET.
 6. Circuit Breakers – CHECK IN.
 
-STARTING ENGINE (Temperatures Above Freezing)
+### STARTING ENGINE (Temperatures Above Freezing)
 
-1. Mixture – RICH.
-2. Carburetor Heat – COLD.
-3. Prime – AS REQUIRED (up to 3 strokes).
-4. Throttle – OPEN 1/2 INCH.
+1. Master - ON.
+2. Lane A and B - ON.
+3. Start Power - Toggle ON.
+4. Throttle – 50-60%.
+5. Fuel Pump (1) - ON.
 5. Propeller Area – CLEAR.
-6. Master Switch – ON.
 7. Ignition Switch – START (release when engine starts).
-8. Throttle – ADJUST for 1000 RPM or less.
+8. Throttle – ADJUST for 2000 RPM or less.
 9. Oil Pressure – CHECK.
 
 
 
 
-BEFORE TAKEOFF
+### BEFORE TAKEOFF
 
-1. Parking Brake – SET.
+1. Parking Brake – OFF.
 2. Cabin Doors – CLOSED and LATCHED.
 3. Flight Controls – FREE and CORRECT.
 4. Flight Instruments – SET.
-5. Fuel Shutoff Valve – ON.
-6. Mixture – RICH (below 3000 feet).
-7. Elevator Trim – TAKEOFF.
-8. Throttle – 1700 RPM.
-    a. Magnetos – CHECK (RPM drop should not exceed 125 RPM on either magneto or 50
-       RPM differential between magnetos).
-    b. Carburetor Heat – CHECK (for RPM drop).
-    c. Engine Instruments and Ammeter – CHECK.
-    d. Suction Gage – CHECK.
-9. Radios – SET.
-10. Flashing Beacon, Navigation Lights and/or Strobe Lights – ON as required.
-11. Throttle Friction Lock – ADJUST.
-12. Brakes – RELEASE.
+5. Radios – SET.
+6. Fuel Shutoff Valve – ON.
+7. Flaps - SET.
+8. Elevator Trim – TAKEOFF.
+9. Propellor - SET to Take Off and toggle to Auto
+10. Throttle – 3000 RPM.
+    a. Lanes – CHECK (RPM drop should not exceed 125 RPM on either lane or 50 RPM differential between magnetos).
+    b. Engine Instruments and Ammeter – CHECK.
+11. Flashing Beacon, Navigation Lights and/or Strobe Lights – ON as required.
+12. Throttle Friction Lock – ADJUST.
+13. Brakes – RELEASE.
 
-TAKEOFF
+### TAKEOFF
 
 NORMAL TAKEOFF
 
-1. Wing Flaps – 0° - 10°.
-2. Carburetor Heat – COLD.
-3. Throttle – FULL OPEN.
-4. Elevator Control – LIFT NOSE WHEEL at 50 MPH.
-5. Climb Speed – 65-75 MPH.
+1. Wing Flaps – 1/2.
+2. Throttle – FULL OPEN.
+3. Elevator – LIFT TAIL at 40 MPH.
+4. Climb Speed – 65-75 MPH.
+5. Wing Flaps – RETRACT slowly after reaching 60 MPH.
+6. Prop - SET to Climb.
 
 SHORT FIELD TAKEOFF
 
-1. Wing Flaps – 10°.
-2. Carburetor Heat – COLD.
-3. Brakes – APPLY.
-4. Throttle – FULL OPEN.
-5. Mixture – RICH (above 3000 feet, LEAN to obtain maximum RPM).
+1. Wing Flaps – 1/2.
+2. Brakes – APPLY.
+3. Throttle – FULL OPEN.
 6. Brakes – RELEASE.
-7. Elevator Control – SLIGHTLY TAIL LOW.
+7. Elevator – LIFT TAIL at 40 MPH.
 8. Climb Speed – 54 MPH (until all obstacles are cleared).
 9. Wing Flaps – RETRACT slowly after reaching 60 MPH.
-
-
-
+10. Prop - SET to Climb.
 
 ENROUTE CLIMB
 
-1. Airspeed – 70-80 MPH.
+1. Airspeed – 70 MPH.
 
 ### NOTE
 
@@ -1398,101 +1373,68 @@ If a maximum performance climb is necessary, use speeds shown in the
 Rate of Climb chart in Section 5.
 ```
 2. Throttle – FULL OPEN.
-3. Mixture – RICH below 3000 feet, LEAN for maximum RPM above 3000 feet.
+3. Prop - SET to Climb.
 
 CRUISE
 
-1. Power – 1900-2550 RPM (no more than 75%).
-2. Elevator Trim – ADJUST.
-3. Mixture – LEAN.
+1. Prop - Cruise
+2. Power – 5350 RPM (no more than 75%).
+3. Elevator Trim – ADJUST.
 
 BEFORE LANDING
 
 1. Seats, Belts, Harnesses – ADJUST and LOCK.
-2. Mixture – RICH.
-3. Carburetor Heat – ON (apply full heat before closing throttle).
+2. Prop - Set to Take Off (T.O.)
 
 LANDING
 
 NORMAL LANDING
 
 1. Airspeed – 60-70 MPH (flaps UP).
-2. Wing Flaps – AS DESIRED (below 85 MPH).
+2. Wing Flaps – AS DESIRED (below 80 MPH).
 3. Airspeed – 55-65 MPH (flaps DOWN).
-4. Touchdown – MAIN WHEELS FIRST.
-5. Landing Roll – LOWER NOSE WHEEL GENTLY.
+4. Touchdown – TAIL LOW.
+5. Landing Roll – RETRACT (if deployed).
 6. Braking – MINIMUM REQUIRED.
 
 SHORT FIELD LANDING
 
 1. Airspeed – 60-70 MPH (flaps UP).
-2. Wing Flaps – 30° (below 85 MPH).
+2. Wing Flaps – FULL (below 80 MPH).
 3. Airspeed – MAINTAIN 54 MPH.
 4. Power – REDUCE to idle as obstacle is cleared.
-5. Touchdown – MAIN WHEEL FIRST.
-6. Brakes – APPLY HEAVILY.
-7. Wing Flaps – RETRACT.
-
-
-
+5. Touchdown – TAIL LOW.
+6. Landing Roll – RETRACT
+6. Brakes – APPLY HEAVILY, CAREFULLY.
 
 BALKED LANDING
 
 1. Throttle – FULL OPEN.
-2. Carburetor Heat – COLD.
-3. Wing Flaps – RETRACT to 20°.
+3. Wing Flaps – RETRACT to half.
 4. Airspeed – 55 MPH.
 5. Wing Flaps – RETRACT (slowly).
 
 AFTER LANDING
 
 1. Wing Flaps – UP.
-2. Carburetor Heat – COLD.
 
 SECURING AIRPLANE
 
-1. Parking Brake – SET.
-2. Radios, Electrical Equipment – OFF.
-3. Mixture – IDLE CUT-OFF (pull full out).
-4. Ignition Switch – OFF.
+1. Brake – ON.
+2. Power - >3000 RPM
+3. Lane A and B - OFF
+4. Radios, Electrical Equipment – OFF.
 5. Master Switch – OFF.
-6. Control Lock – INSTALL.
-
-
-
-
-```
-PAGE INTENTIONALLY BLANK
-```
-
+6. Parking Brake – SET.
 
 
 AMPLIFIED PROCEDURES
 
 STARTING ENGINE (Temperatures Above Freezing)
 
-During engine starting, open the throttle approximately 1/2 inch. In warm weather, one stroke of the
-primer should be sufficient. In temperatures near freezing, up to 3 strokes of the primer may be
-necessary. As the engine starts, slowly adjust the throttle as required for 1000 RPM or less.
-
-```
-NOTE
-The carburetor used on this airplane does not have an accelerator pump;
-therefore, pumping of the throttle must be avoided during starting
-because doing so will only cause excessive leaning.
-```
-Weak intermittent firing followed by puffs of black smoke from the exhaust stack indicates over priming
-or flooding. Excess fuel can be cleared from the combustion chambers by the following procedure: set
-the mixture control in the idle cut-off position, the throttle full open, and crank the engine through
-several revolutions with the starter. Repeat the starting procedure without any additional priming.
-
-If the engine is under primed (most likely in cold weather with a cold engine) it will not fire at all, and
-additional priming will be necessary.
-
 After starting, if the oil gage does not begin to show pressure within 30 seconds in the summertime and
 about twice that long in very cold weather, stop the engine and investigate. Lack of oil pressure can
-cause serious engine damage. After starting, avoid the use of carburetor heat unless icing conditions
-prevail.
+cause serious engine damage. 
 
 ### NOTE
 
@@ -1517,23 +1459,14 @@ Figure 4-2. Taxiing Diagram
 ```
 Strong quartering tail winds require caution. Avoid sudden bursts of the
 throttle and sharp braking when the airplane is in this attitude. Use the
-steerable nose wheel and rudder to maintain direction.
+steerable tail wheel and rudder to maintain direction.
 ```
-The carburetor heat control knob should be pushed full in during all ground operations unless heat is
-absolutely necessary. When the knob is pulled out to the heat position, air entering the engine is not
-filtered.
 
 
 
 
 Taxiing over loose gravel or cinders should be done at low engine speed to avoid abrasion and stone
 damage to the propeller tips.
-
-The nose wheel is designed to automatically center straight ahead when the nose strut is fully extended.
-In the event the nose strut is over inflated and the airplane is loaded to a rearward center of gravity
-position, it may be necessary to partially compress the strut to permit steering. This can be
-accomplished prior to taxiing by depressing the airplane nose (by hand) or during taxi by sharply
-applying brakes.
 
 BEFORE TAKEOFF
 
@@ -1543,24 +1476,23 @@ Most of the warm-up will have been conducted during taxi, and additional warm-up
 should be restricted to the checklist procedures. Since the engine is closely cowled for efficient in-flight
 cooling, precautions should be taken to avoid overheating on the ground.
 
-MAGNETO CHECK
+LANE CHECK
 
-The magneto check should be made at 1700 RPM as follows. Move ignition switch first to R position and
-note RPM. Next move switch back to BOTH to clear the other set of plugs. Then move switch to the L
-position, note RPM and return the switch to the BOTH position. RPM drop should not exceed 125 RPM
-on either magneto or show greater than 50 RPM differential between magnetos. If there is a doubt
+The lane check should be made at 3000 RPM as follows. Turn off Lane A and 
+note RPM. Next turn on BOTH to clear the other set of plugs. Then turn off Lane B
+note RPM and return the switch to the ON position. RPM drop should not exceed 125 RPM
+on either Lane or show greater than 50 RPM differential between magnetos. If there is a doubt
 concerning operation of the ignition system, RPM checks at higher engine speeds will usually confirm
 whether a deficiency exists.
 
 An absence of RPM drop may be an indication of faulty grounding of one side of the ignition system or
-should be cause for suspicion that the magneto timing is set in advance of the setting specified.
+should be cause for suspicion that the ignition timing is set in advance of the setting specified.
 
 ALTERNATOR CHECK
 
 Prior to flight where verification of proper alternator and voltage regulator operation is essential (such
-as night or instrument flights), a positive verification can be made by loading the electrical system
-momentarily (3 to 5 seconds) with the landing light, or by operating the wing flaps during the engine
-run-up (1700 RPM). The ammeter will remain within a needle width of its initial position if the
+as night or instrument flights), a positive verification can be made by viewing the volts and amps on the Eng page of the Garmin G3X and by loading the electrical system
+momentarily (3 to 5 seconds) with the landing light.  The ammeter will remain within the minimum and maximum range if the
 alternator and voltage regulator are operating properly.
 
 
@@ -1573,17 +1505,13 @@ POWER CHECK
 It is important to check full-throttle engine operation early in the takeoff run. Any sign of rough engine
 operation or sluggish engine acceleration is good cause for discontinuing the takeoff. If this occurs, you
 are justified in making a thorough full-throttle static run-up before another takeoff is attempted. The
-engine should run smoothly and turn approximately 2280 to 2380 RPM with carburetor heat off and
-mixture leaned to maximum RPM.
+engine should run smoothly and turn approximately 5500 to 5750 under full power and prop set to T.O. setting.
 
 Full throttle run-ups over loose gravel are especially harmful to propeller tips. When takeoffs must be
 made over a gravel surface, it is very important that the throttle be advanced slowly. This allows the
 airplane to start rolling before high RPM is developed, and the gravel will be blown back of the propeller
 rather than pulled into it. When unavoidable small dents appear in the propeller blades, they should be
-immediately corrected as described in Section 8 under Propeller Care.
-
-Prior to takeoff from fields above 3000 feet elevation, the mixture should be leaned to give maximum
-RPM in a full-throttle, static run-up.
+immediately corrected as described in the Airmaster manuals.
 
 After full throttle is applied, adjust the throttle friction lock clockwise to prevent the throttle from
 creeping back from a maximum power position. Similar friction lock adjustment should be made as
@@ -1591,16 +1519,16 @@ required in other flight conditions to maintain a fixed throttle setting.
 
 WING FLAP SETTING
 
-Normal takeoffs are accomplished with wing flaps 0° - 10°. Using 10° wing flaps reduces the total
-distance over an obstacle by approximately 10%. Flap deflections greater than 10° are not approved for
-takeoff. If 10° wing flaps are used for takeoff, they should be left down until all obstacles are cleared
+Normal takeoffs are accomplished with wing flaps 0 to 1/2.  Using 1/2 wing flaps reduces the total
+distance over an obstacle by approximately 10%. Flap deflections greater than 1/2 are not approved for
+takeoff. If 1/2 wing flaps are used for takeoff, they should be left down until all obstacles are cleared
 and a safe flap retraction speed of 60 MPH is reached.
 
-On a short field, 10° wing flaps and an obstacle clearance speed of 54 MPH should be used. This speed
+On a short field, 1/2 wing flaps and an obstacle clearance speed of 54 MPH should be used. This speed
 provides the best overall climb speed to clear obstacles when taking into account turbulence often
 found near ground level.
 
-Soft or rough field takeoffs are performed with 10° wing flaps by lifting the airplane off the ground as
+Soft or rough field takeoffs are performed with 1/2 wing flaps by lifting the airplane off the ground as
 soon as practical in a slightly tail-low attitude. If no obstacles are ahead, the airplane should be leveled
 off immediately to accelerate to a higher climb speed.
 
@@ -1614,19 +1542,18 @@ while drifting. When clear of the ground, make a coordinated turn into the wind 
 
 ENROUTE CLIMB
 
-Normal climbs are performed with flaps up and full throttle and at speeds 5 to 10 mph higher than best
-rate-of-climb speeds for the best combination of performance, visibility and engine cooling. The mixture
-should be full rich below 3000 feet and may be leaned above 3000 feet for smoother operation or to
-obtain maximum RPM. For maximum rate of climb, use the best rate-of-climb speeds shown in the Rate
+Normal climbs are performed with flaps up, prop set to CRUISE, full throttle, and at speeds 5 to 10 mph higher than best
+rate-of-climb speeds for the best combination of performance, visibility and engine cooling. 
+For maximum rate of climb, use the best rate-of-climb speeds shown in the Rate
 Of Climb chart in Section 5. If an obstruction dictates the use of a steep climb angle, the best angle-of-
-climb speed should be used with flaps up and maximum power. Climbs at speeds lower than the best
+climb speed should be used with flaps 1/2, prop set to T.O., and maximum power. Climbs at speeds lower than the best
 angle-of-climb speed should be of short duration to improve engine cooling.
 
 CRUISE
 
-Normal cruising is performed between 55% and 75% power. The engine RPM and corresponding fuel
-consumption for various altitudes can be determined by using your Kitfox Power Computer or the data
-in Section 5.
+Normal cruising is performed between 60% and 65% power. The engine RPM and corresponding fuel
+consumption for various altitudes can be determined by using the Garmin G3X, Foreflight, or
+Section 5.
 
 ### NOTE
 
@@ -2158,10 +2085,10 @@ gallon of fuel. The corresponding distance during the climb is 9 nautical miles.
 standard temperature (as shown on the climb chart) and are sufficiently accurate for most flight
 planning purposes. However, a further correction for the effect of temperature may be made as noted
 on the climb chart. The approximate effect of a non-standard temperature is to increase the time, fuel
-and distance by 10% for each 10°C above standard temperature, due to the lower rate of climb. In this
+and distance by 10% for each 1/2C above standard temperature, due to the lower rate of climb. In this
 case, assuming a temperature 16°C above standard, the correction would be:
 
-### 16°𝐶𝐶10°𝐶𝐶 ×10%=16% 𝐼𝐼𝐼𝐼𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷
+### 16°𝐶𝐶1/2𝐶𝐶 ×10%=16% 𝐼𝐼𝐼𝐼𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷
 
 With this factor included, the fuel estimate would be calculated as follows:
 
@@ -2245,7 +2172,7 @@ Power required for level flight or maximum rated RPM dive.
 
 ### KCAS 46 53 60 69 78 88 97 107 117 127 136
 
-### FLAPS 10°
+### FLAPS 1/2
 
 ### MPH 40 50 60 70 80 85 - - - - - - - - - - - - - - -
 
@@ -2301,7 +2228,7 @@ MOST REARWARD CENTER OF GRAVITY
 
 ### UP 36 46 39 49 43 55 51 65
 
-### 10° 36 43 39 46 43 51 51 61
+### 1/2 36 43 39 46 43 51 51 61
 
 ### 30° 31 41 33 44 37 49 44 58
 
@@ -2325,7 +2252,7 @@ MOST FORWARD CENTER OF GRAVITY
 
 ### UP 40 48 43 52 48 57 57 68
 
-### 10° 40 46 43 49 48 55 57 65
+### 1/2 40 46 43 49 48 55 57 65
 
 ### 30° 35 43 38 46 42 51 49 61
 
@@ -2341,7 +2268,7 @@ SHORT FIELD
 ```
 ### CONDITIONS:
 
-Flaps 10°
+Flaps 1/2
 Full Throttle Prior to Brake Release
 Paved, Level, Dry Runway
 Zero Wind
@@ -2367,7 +2294,7 @@ Zero Wind
 
 ### FT
 
-### 0°C 10°C 20°C 30°C 40°C
+### 0°C 1/2C 20°C 30°C 40°C
 
 ### LIFT
 
@@ -2522,7 +2449,7 @@ Standard Temperature
 
 1. Add 0.8 of a gallon of fuel for engine start, taxi and takeoff allowance.
 2. Mixture leaned above 3000 feet for maximum RPM.
-3. Increase time, fuel and distance by 10% for each 10°C above standard temperature.
+3. Increase time, fuel and distance by 10% for each 1/2C above standard temperature.
 4. Distances shown are based on zero wind.
 
 ### WEIGHT
@@ -2831,7 +2758,7 @@ Zero Wind
 
 ### FT
 
-### 0°C 10°C 20°C 30°C 40°C
+### 0°C 1/2C 20°C 30°C 40°C
 
 ```
 GROUND
@@ -4471,8 +4398,8 @@ WING FLAP SYSTEM
 
 The wing flaps are of the single-slot type (see figure 7-3), and are extended or retracted by positioning
 the wing flap switch lever on the instrument panel to the desired flap deflection position. The switch
-lever is moved up or down in a slot in the instrument panel that provides mechanical stops at the 10°
-and 20° positions. For flap settings greater than 10°, move the switch lever to the right to clear the stop
+lever is moved up or down in a slot in the instrument panel that provides mechanical stops at the 1/2
+and 20° positions. For flap settings greater than 1/2, move the switch lever to the right to clear the stop
 and position it as desired. A scale and pointer on the left side of the switch lever indicates flap travel in
 degrees. The wing flap system circuit is protected by a 15-ampere circuit breaker, labeled FLAP, on the
 right side of the instrument panel.
@@ -5122,7 +5049,7 @@ ATTITUDE INDICATOR
 
 An attitude indicator is available and gives a visual indication of flight attitude. Bank attitude is
 presented by a pointer at the top of the indicator relative to the bank scale which has index marks at
-10°, 20°, 30°, 60°, and 90° either side of the center mark. Pitch and roll attitudes are presented by a
+1/2, 20°, 30°, 60°, and 90° either side of the center mark. Pitch and roll attitudes are presented by a
 miniature airplane in relation to the horizontal bar. A knob at the bottom of the instrument is provided
 
 
@@ -5622,7 +5549,7 @@ consumption has stabilized.
 SAE 50 above 16°C (60°F)
 SAE 40 between -1°C (30°F) and 32°C (90°F)
 SAE 30 between -18°C (0°F) and 21°C (70°F)
-SAE 20 below -12°C (10°F)
+SAE 20 below -12°C (1/2F)
 ```
 MIL-L -22851 Ashless Dispersant Oil: This oil **must be used** after the first 50 hours or oil consumption has
 stabilized.
@@ -5631,7 +5558,7 @@ stabilized.
 SAE 40 or SAE 50 above 16°C (60°F)
 SAE 40 between -1°C (30°F) and 32°C (90°F)
 SAE 30 or SAE 40 between -18°C (0°F) and 21°C (70°F)
-SAE 30 below -12°C (10°F)
+SAE 30 below -12°C (1/2F)
 ```
 
 
@@ -6359,7 +6286,7 @@ SECTION 4 – NORMAL PROCEDURES
     bearing of signal; OFF/TO-FROM indicator shows TO or FROM.
 4. ID-T Switch – PRESS to T and HOLD at T; CDI pointer should center and OFF/TO-FROM indicator
     should show FROM.
-5. OBS Knob – TURN to displace course approximately 10° to either side of 0° (while holding ID-T
+5. OBS Knob – TURN to displace course approximately 1/2 to either side of 0° (while holding ID-T
     switch at T); CDI pointer should deflect full scale in direction corresponding to course
     displacement. OFF/TO-FROM indicator should still show FROM.
 
@@ -6573,7 +6500,7 @@ station.
     right, depending on bearing of signal; NAV/TO-FROM indicator shows TO or FROM.
 4. ID/VOX/T Switch – PRESS to T and HOLD at T; course deviation pointer centers and NAV/TO-
     FROM indicator shows FROM.
-5. OBS Knob – TURN to displace course approximately 10° to either side of 0° (while holding
+5. OBS Knob – TURN to displace course approximately 1/2 to either side of 0° (while holding
     ID/VOX/T to T). Course deviation pointer deflects full scale in direction corresponding to course
     displacement. NAV/TO-FROM indicator shows FROM.
 6. ID/VOX/T Switch – RELEASE for normal operation.

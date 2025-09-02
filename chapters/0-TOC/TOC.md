@@ -1569,52 +1569,12 @@ operating at lower power settings. The use of lower power settings and the selec
 on the basis of the most favorable wind conditions are significant factors that should be considered on
 every trip to reduce fuel consumption.
 
-```
-75% Power 65% Power 55% Power
-ALTITUDE KTAS NMPG KTAS NMPG KTAS NMPG
-Sea Level
-4000 Feet
-8000 Feet
-```
-### 100
-
-### 103
-
-### 107
-
-### 16.4
-
-### 17.0
-
-### 17.6
-
-### 94
-
-### 97
-
-### 100
-
-### 17.8
-
-### 18.4
-
-### 18.9
-
-### 87
-
-### 89
-
-### 91
-
-### 19.3
-
-### 19.8
-
-### 20.4
-
-```
-Standard Conditions Zero Wind
-```
+| | 75% Power | 65% Power | 55% Power |
+| ALTITUDE | KTAS | NMPG | KTAS | NMPG | KTAS | NMPG |
+| Sea Level | 100 | 16.4 | 94 | 17.8 | 87 | 19.3 |
+| 4000 Feet | 103 | 17.0 | 97 | 18.4 | 89 | 19.8 |
+| 8000 Feet | 107 | 17.6 | 100 | 18.9 | 91 | 20.4 |
+| Standard Conditions Zero Wind | 
 ```
 Figure 4-3. Cruise Performance Table
 ```
@@ -1623,64 +1583,25 @@ cruise for various altitudes and percent powers. This table should be used as a 
 available winds aloft information, to determine the most favorable altitude and power setting for a
 given trip.
 
-To achieve the recommended lean mixture fuel consumption figures shown in Section 5, the mixture
-should be leaned until engine RPM peaks and drops 25-50 RPM. At lower powers it may be necessary to
-enrichen the mixture slightly to obtain smooth operation.
-
-
-
-
-Carburetor ice, as evidenced by an unexplained drop in RPM, can be removed by application of full
-carburetor heat. Upon regaining the original RPM (with heat off), use the minimum amount of heat (by
-trial and error) to prevent ice from forming. Since the heated air causes a richer mixture, readjust the
-mixture setting when carburetor heat is to be used continuously in cruise flight.
-
-The use of full carburetor heat is recommended during flight in very heavy rain to avoid the possibility of
-engine stoppage due to excessive water ingestion. The mixture setting should be readjusted for
-smoothest operation.
-
-FUEL SAVINGS PROCEDURES FOR FLIGHT TRAINING OPERATIONS
-
-For best fuel economy during flight training operations, the following procedures are recommended.
-
-1. Use 55% to 60% power while transitioning to and from the practice area (approximately 2200-
-    2250 RPM).
-2. Lean the mixture for maximum RPM during climbs above 3000 feet. The mixture may be left
-    leaned for practicing such maneuvers as stalls.
-3. Lean the mixture for maximum RPM during all operations at any altitude, including those below
-    3000 feet, when using 75% or less power.
-
-### NOTE
-
-```
-When cruising at 75% or less power, the mixture may be further leaned
-until the RPM peaks and drops 25-50 RPM. This is especially applicable
-to cross-country training flights, but may also be practiced during
-transition flights to and from the practice area.
-```
-Using the above recommended procedures can provide fuel savings of up to 13% when compared to
-typical training operations at a full rich mixture.
-
 STALLS
 
-The stall characteristics are conventional for the flaps up and flaps down condition. The stall warning
-horn produces a steady signal 5 to 10 mph before the actual stall is reached and remains on until the
+The stall characteristics are conventional for the flaps up and flaps down condition. The Angle of Attack audible indicator
+produces an intermittent beep 5 to 10 mph before the actual stall is reached and remains on until the
 airplane flight attitude is changed. Stall speeds for various combinations of flap setting and bank angle
 are summarized in Section 5.
 
 SPINS
 
-Intentional spins are approved in this airplane (see Section 2). Before attempting to perform spins,
+Intentional spins are not approved in this airplane (see Section 2). 
+
+Before attempting to perform spins,
 however, several items should be carefully considered to assure a safe flight. No spins should be
 attempted without first having received dual instruction in both spin entries and spin recoveries from a
-qualified instructor who is familiar with the spin characteristics of the Kitfox 152.
+qualified instructor who is familiar with the spin characteristics of the Kitfox S7.
 
 The cabin should be clean and all loose equipment (including the microphone) should be stowed. For a
 solo flight in which spins will be conducted, the copilot’s seat belt and shoulder harness should be
-secured. **Spins with baggage loadings or occupied child’s seat are not approved.**
-
-
-
+secured. **Spins with baggage loadings are not approved.**
 
 The seat belts and shoulder harnesses should be adjusted to provide proper restraint during all
 anticipated flight conditions. However, care should be taken to ensure that the pilot can easily reach
@@ -1727,17 +1648,9 @@ should be used:
 
 ### 2. APPLY AND HOLD FULL RUDDER OPPOSITE TO THE DIRECTION OF ROTATION.
 
-### 3. JUST AFTER THE RUDDER REACHES THE STOP, MOVE THE CONTROL WHEEL BRISKLY FORWARD
+### 3. JUST AFTER THE RUDDER REACHES THE STOP, MOVE THE CONTROL STICK BRISKLY FORWARD FAR ENOUGH TO BREAK THE STALL. Full down elevator may be required at aft enter of gravity loadings to assure optimum recoveries.
 
-```
-FAR ENOUGH TO BREAK THE STALL. Full down elevator may be required at aft enter of gravity
-loadings to assure optimum recoveries.
-```
-4. **HOLD** THESE CONTROL INPUTS UNTIL ROTATION STOPS. Premature relaxation of the control
-    inputs may extend the recovery.
-
-
-
+### 4. **HOLD** THESE CONTROL INPUTS UNTIL ROTATION STOPS. Premature relaxation of the control inputs may extend the recovery.
 
 ### 5. AS ROTATION STOPS, NEUTRALIZE RUDDER, AND MAKE A SMOOTH RECOVERY FROM THE
 
@@ -1758,25 +1671,24 @@ always be used and will result in the most expeditious recovery from any spin.
 Intentional spins with flaps extended are prohibited, since the high speed which may occur during
 recovery are potentially damaging to the flap/wing structure.
 
-LANDING
+## LANDING
 
 Normal landing approaches can be made with power-on or power-off at speeds of 60 to 70 MPH with
 flaps up, and 55 to 65 MPH with flaps down. Surface winds and air turbulence are usually the primary
 factors in determining the most comfortable approach speeds.
 
-Actual touchdown should be made with power-off and on the main wheels first. The nose wheel should
-be lowered smoothly to the runway as speed is diminished.
+Actual touchdown should be made with power-off in a three-point stance.
 
-SHORT FIELD LANDING
+### SHORT FIELD LANDING
 
-For a short field landing in smooth air conditions, make an approach at 54 MPH with 30° flaps using
+For a short field landing in smooth air conditions, make an approach at 54 MPH with full flaps using
 enough power to control the glide path. After all approach obstacles are cleared, progressively reduce
 power and maintain 54 MPH by lowering the nose of the airplane. Touchdown should be made with
-power-off and on the main wheels first. Immediately after touchdown, lower the nose wheel and apply
-heavy braking as required. For maximum brake effectiveness, retract flaps, hold full nose-up elevator,
+power-off.  Immediately after touchdown, retract the flaps and carefully apply
+heavy braking as required. For maximum brake effectiveness hold full nose-up elevator,
 and apply maximum brake pressure without sliding the tires.
 
-Slightly higher approach speeds should be used under turbulent air conditions.
+Slightly higher approach speeds should be used under turbulent air conditions.  The rule of thumb is increase landing speed by 1/2 the predicted gust speed.
 
 CROSSWIND LANDING
 
@@ -1785,14 +1697,11 @@ wing low, crab, or a combination method of drift correction and land in a nearly
 
 BALKED LANDING
 
-In a balked landing (go-around) climb, the wing flap setting should be reduced to 20° immediately after
+In a balked landing (go-around) climb, the wing flap setting should be reduced to 1/2 immediately after
 full power is applied. Upon reaching a safe airspeed, the flaps should be slowly retracted to the full up
 position.
 
-
-
-
-COLD WEATHER OPERATION
+### COLD WEATHER OPERATION
 
 Prior to starting with temperatures below freezing, it is advisable to pull the propeller through several
 times by hand to “break loose” or “limber” the oil, thus conserving battery energy.
@@ -1801,9 +1710,9 @@ times by hand to “break loose” or “limber” the oil, thus conserving batt
 
 ```
 When pulling the propeller through by hand, treat it as if the ignition
-switch is turned on. A loose or broken ground wire on either magneto
-could cause the engine to fire.
+switch is turned on.
 ```
+
 Preheat is generally required with outside air temperatures below -18°C (0°F) and is recommended
 when temperatures are below -7° (20°F).
 
@@ -1811,11 +1720,10 @@ Cold weather starting procedures are as follows:
 
 **With Preheat:**
 
-1. Ignition Switch – OFF.
+1. Master Switch – OFF.
 2. Throttle – CLOSED.
-3. Mixtures – IDLE CUT-OFF.
-4. Parking Brake – SET.
-5. Propeller – PULL through by hand several revolutions.
+3. Parking Brake – SET.
+4. Propeller – PULL through by hand several revolutions.
 
 ### NOTE
 
@@ -1823,26 +1731,23 @@ Cold weather starting procedures are as follows:
 Caution should be used to ensure the brakes are set or a qualified person
 is at the controls.
 ```
-6. Mixture – RICH.
-7. Throttle – OPEN 1/2 to 3/4 INCH.
-8. Prime – 2 to 4 STROKES depending on temperature.
-9. Primer – RECHARGE for priming after engine start.
-10. Propeller Area – CLEAR.
-11. Master Switch – ON.
-12. Ignition Switch – START (release when engine starts).
-13. Prime – AS REQUIRED until the engine runs smoothly.
-14. Throttle – ADJUST for 1200 to 1500 RPM for approximately one minute after which the RPM can
-    be lowered to 1000 or less.
-15. Oil Pressure – CHECK.
-16. Primer – LOCK.
 
+5. Throttle – OPEN to 50-60%.
+6. Propeller Area – CLEAR.
+7. Master Switch – ON.
+8. Lane A and B - ON.
+9. Power switch - ON.
+10. Pump A or B  (not both) - ON.
+11. Ignition Switch – PRESS (release when engine starts).
+12. Throttle – ADJUST for 2000 to 2200 RPM for approximately one minute after which the RPM can
+    be lowered to 2000 or less.
+13. Oil Pressure – CHECK.
 
 
 
 **Without Preheat:**
 
-The procedure for starting without preheat is the same as with preheat except the engine should be
-primed an additional three strokes just prior to pulling the propeller through by hand.
+The procedure for starting without preheat is the same as with preheat. 
 
 ### NOTE
 
@@ -1853,16 +1758,8 @@ start during the first few attempts, or if engine firing diminishes in
 strength, it is possible that the spark plugs have been frosted over, in
 which case preheat must be used before another start is attempted.
 ```
-During cold weather operations, no indication will be apparent on the oil temperature gage prior to
-takeoff if outside air temperatures are very cold. After a suitable warm-up period (2 to 5 minutes at
-1000 RPM), accelerate the engine several times to higher engine RPM. If the engine accelerates
-smoothly and oil pressure remains normal and steady, the airplane is ready for takeoff.
 
-When operating in temperatures below -18°C, avoid using partial carburetor heat. Partial heat may
-increase the carburetor air temperature to the 0° to 21°C range, where icing is critical under certain
-atmospheric conditions.
-
-NOISE ABATEMENT
+### NOISE ABATEMENT
 
 Increased emphasis on improving the quality of our environment requires renewed effort on the part of
 all pilots to minimize the effect of airplane noise on the public.
@@ -1885,11 +1782,6 @@ conflict with Air Traffic Control clearances or instructions, or where, in
 the pilot’s judgment, an altitude of less than 2000 feet is necessary for
 him to adequately exercise his duty to see and avoid other aircraft.
 ```
-The certificated noise level for the Model 152 at 1670 pounds maximum weight is 65.0 dB(A). No
-determination has been made by the Federal Aviation Administration that the noise levels of this
-airplane are or should be acceptable or unacceptable for operation at, into or out of, any airport.
-
-
 
 
 # SECTION 5
@@ -1948,9 +1840,6 @@ airplane are or should be acceptable or unacceptable for operation at, into or o
 
 ### ENDURANCE PROFILE ............................................................ 16
 
-
-
-
 ### 45 MINUTES RESERVE ........................................................... 16
 
 ### 24.5 GALLONS USABLE FUEL ..................................................... 16
@@ -1959,8 +1848,6 @@ airplane are or should be acceptable or unacceptable for operation at, into or o
 
 ### 45 MINUTES RESERVE ........................................................... 17
 
-### 37.5 GALLONS USABLE FUEL ..................................................... 17
-
 ### LANDING DISTANCE ............................................................. 18
 
 ### SHORT FIELD .................................................................. 18
@@ -1968,7 +1855,7 @@ airplane are or should be acceptable or unacceptable for operation at, into or o
 
 
 
-INTRODUCTION
+## INTRODUCTION
 
 Performance data charts on the following pages are presented so that you may know what to expect
 from the airplane under various conditions, and also, to facilitate the planning of flights in detail and
@@ -1982,19 +1869,19 @@ fuel metering characteristics, engine and propeller condition, and air turbulenc
 variations of 10% or more in range and endurance. Therefore, it is important to utilize all available
 information to estimate the fuel required for the particular flight.
 
-USE OF PERFORMANCE CHARTS
+### USE OF PERFORMANCE CHARTS
 
 Performance data is presented in tabular or graphical form to illustrate the effect of different variables.
 Sufficiently detailed information is provided in the tables so that conservative values can be selected
 and used to determine the particular performance figure with reasonable accuracy.
 
-SAMPLE PROBLEM
+### SAMPLE PROBLEM
 
 The following sample flight problem utilizes information from the various charts to determine the
 predicted performance data for a typical flight. The following information is known:
 
 AIRPLANE CONFIGURATION
-Takeoff weight 1610 Pounds
+Takeoff weight 1550 Pounds
 Usable fuel 24.5 Gallons
 
 ### TAKEOFF CONDITIONS
@@ -2988,1123 +2875,6 @@ Figure 6-8. Center of Gravity Moment Envelope
 Figure 6-9. Center of Gravity Limits
 ```
 
-
-
-EQUIPMENT LIST
-
-The following equipment list is a comprehensive list of all Kitfox equipment available for this airplane.
-A separate equipment list of items installed in your specific airplane is provided in your aircraft file. The
-following list and the specific list for your airplane have a similar order of listing.
-
-This equipment list provides the following information:
-
-An **item number** gives the identification number for the item. Each number is prefixed with a letter
-which identifies the **descriptive** grouping (example: A. Powerplant & Accessories) under which it is
-listed. Suffix leters identify the equipment as a required item, a standard item or an optional item.
-Suffix letters are as follows:
--R = required items of equipment for FAA certification
--S = standard equipment items
--O = optional equipment items replacing required or standard items
--A = optional equipment items which are in addition to required or standard items
-
-A **reference drawing** column provides the drawing number for the item.
-
-### NOTE
-
-```
-If additional equipment is to be installed, it must be done in accordance
-with the reference drawing, accessory kit instructions, or a separate FAA
-approval.
-```
-Columns showing **weight (in pounds)** and **arm (in inches)** provide the weight and center of gravity
-location for the equipment.
-
-### NOTE
-
-```
-Unless otherwise indicated, true values (not net change values) for the
-weight and arm are shown. Positive arms are distances aft of the
-airplane datum; negative arms are distances forward of the datum.
-```
-### NOTE
-
-```
-Asterisks (*) after the item weight and arm indicate complete assembly
-installations. Some major components of the assembly are listed on the
-lines immediately following. The summation of these major
-components does not necessarily equal the complete assembly
-installation.
-```
-
-
-
-### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
-
-```
-A. POWERPLANT & ACCESSORIES
-```
-A01-R ENGINE, LYCOMING O- 235 - L2C (INCLUDES
-STARTER, CARBURETOR, SPARK PLUGS AND
-ALTERNATOR BRACKETS)
-
-```
-0450071 243.5 - 19.2
-```
-A05-R FILTER, CABURETOR AIR C294510- 0201 0.5 - 16.0
-A09-R ALTERNATOR, 60 AMP, 28 VOLT (BELT DRIVE) C611503- 0102 10.7 - 27.5
-A17-R OIL COOLER INSTALLATION 0450071 3.6* - 22.6
-OIL COOLER (STEWART WARNER) 8406J 2.0 - 27.5
-A21-A OIL FILTER INSTALLATION (SPIN-ON ELEMENT) 0450412 2.5 - 6.0*
-A33-R PROPELLER INSTALLATION 0450077 24.9* - 36.5*
-PROPELLER, MCCAULEY FIXED PITCH
-1A103/TCM6958
-
-```
-C161001- 0501 23.2 - 36.5
-```
-A41-R SPINNER INSTALLATION, PROPELLER 0450077 2.4* - 38.6*
-SPINNER DOME 0450073 - 1 0.8 - 38.4
-AFT BULKHEAD (BACK SIDE OF PROP) 0450072 - 1 1.1 - 38.3
-FWD BULKHEAD (FWD SIDE OF PROP) 0450076 - 1 0.3 - 37.4
-A61-A VACUUM SYSTEM INSTALLATION, ENGINE DRIVEN 0413466 - 1 4.8* - 1.5*
-DRY VACUUM PUMP C431003- 0101 2.8 - 7.0
-FILTER ASSEMBLY 1201075 - 2 0.3 2.0
-VACUUM GAUGE C668509- 0101 0.1 18.0
-VACUUM RELIEF VALVE C482001- 0401 0.5 1.9
-A70-S ENGINE PRIMING SYSTEM 0.5 3.1
-A73-A VALVE, ENGINE OIL QUICK DRAIN (NET CHANGE) 1701015 - 1 0.0 --
-
-```
-B. LANDING GEAR & ACCESSORIES
-```
-B01-R- 1 WHEEL, BRAKE & TIRE ASSY, 6.00-6 MAIN (2) C163018- 0201 40.3* 46.8*
-WHEEL ASSEMBLY, MCCAULEY (EACH) C163005- 0101 7.4 47.1
-BRAKE ASSEMBLY, MCCAULEY (LEFT) C163032- 0111 1.7 43.7
-BRAKE ASSEMBLY, MCCAULEY (RIGHT) C163032- 0112 1.7 43.7
-TIRE, 4-PLY BLACKWALL (EACH C262003- 0101 8.5 47.1
-TUBE (EACH) C262023- 0102 1.8 47.1
-B01-R- 2 WHEEL, BRAKE & TIRE ASSY, 6.00-6 MAIN (2) 1241156 - 40 37.6* 46.8*
-WHEEL ASSY, CLEVELAND 40-113 (EACH) C163001- 0101 6.2 47.1
-BRAKE ASSY, CLEVELAND 30-75A (LEFT) C163030- 0111 1.9 43.7
-BRAKE ASSY, CLEVELAND 30-75A (RIGHT) 163030 - 112 1.9 43.7
-TIRE, 4-PLY BLACKWALL (EACH) C262003- 0101 8.5 47.1
-TUBE (EACH) C262023- 0102 1.8 47.1
-B04-R- 1 WHEEL & TIRE ASSY, 5.00-5 NOSE C163018- 0101 8.7* - 10.8*
-WHEEL ASSY, MCCAULEY C163005- 0201 3.4 - 10.8
-TIRE, 4 PLY BLACKWALL C262003- 0102 4.0 - 10.8
-TUBE C262023- 0101 1.2 - 10.8
-B04-R- 2 WHEEL & TIRE ASSY, 5.00-5 NOSE 1241156 - 2 8.7* - 10.8*
-WHEEL ASSY, CLEVELAND 40- 77 1241156 - 12 3.0 - 10.8
-TIRE, 4-PLY BLACKWALL C262003- 0102 4.0 - 10.8
-TUBE C252023- 0101 1.2 - 10.8
-
-
-
-
-### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
-
-B10-A WHEEL FAIRINGS (SET OF 3) 0541225 18.0* 35.3*
-NOSE WHEEL FAIRING 0543079 4.1 - 9.5
-MAIN WHEEL FAIRING (EACH) 0541223 5.9 49.5
-BRAKE FAIRINGS (EACH) 0441227 0.6 50.5
-
-```
-C. ELECTRICAL SYSTEMS
-```
-C01-R- 1 BATTERY, 24 VOLT, 14 AMP HR 0870060 - 1 27.5 - 5.5
-C01-R- 2 BATTERY, 24 VOLT, 14 AMP HR C614001- 0101 22.8 - 5.5
-C01- 0 BATTERY, 24 VOLT, 17 AMP HR C614001- 0102 24.8 - 5.5
-C04-R REGULATOR, ALTERNATOR 60 AMP, 28 VOLT C611004- 0101 0.6 0.5
-C07-A GROUND SERVICE RECEPTACLE 0401021 2.0 - 2.0
-C16-A PITOT HEATER 0422355 0.6 21.5
-C25-A LIGHT INSTALLATION, CONTROL WHEEL MAP 0470117 - 3 0.2 22.5
-C43-A LIGHT INSTALLATION, OMNIFLASH BEACON 0406003 - 1 1.4* 185.5*
-BEACON LIGHT IN FIN TIP C621001- 0102 0.4 210.9
-FLASHER POWER SUPPLY IN AFT TAILCONE C594502- 0102 0.5 173.9
-RESISTOR (MEMCOR) OR95- 6 0.2 183.4
-C46-A LIGHT INSTALLATION WING TIP STROBE 0401009 - 1 3.1* 37.8*
-STROBE LIGHTS IN WING TIP (SET OF 2) C622006- 0101 0.2 35.5
-FLASHER POWER SUPPLIES IN TIPS (SET OF 2) C622008- 0102 2.3 39.5
-C49-A- 1 LANDING LIGHT INSTALLATION – SINGLE BULB 0401022 1.0 - 28.3
-C49-A- 2 LANDING & TAXI LIGHT INSTL. DUAL BULB 0101022 1.8 - 28.3
-
-```
-D. INSTRUMENTS
-```
-D01-R INDICATOR, AIRSPEED C661064- 0107 0.6 17.2
-D01-O INDICATOR, TRUE AIRSPEED 0513279 1.0 18.0
-D07-R ALTIMETER, SENSITIVE C661071- 0101 1.0 17.6
-D07- 0 - 1 ALTIMETER, SENSITIVE (20 FT MARKINGS)
-(FEET AND MILLIBARS)
-
-```
-C661025- 0102 1.0 17.6
-```
-D07- 0 - 2 ALTIMETER, SENSITIVE (50 FT. MARKINGS)
-(FEET AND MILLIBARS)
-
-```
-C661071- 0102 1.0 17.6
-```
-D16-A- 1 ENCODING ALTIMETER (INCLUDES RELOCATION
-OF CONVENTIONAL ALTIMETER)
-
-```
-0401013 2.9 17.0
-```
-D16-A- 2 ENCODING ALTIMETER, FEET & MILLIBARS
-(INCLUDES RELOCATION OF CONVENTIONAL
-ALTIMETER)
-
-```
-0401013 2.9 17.0
-```
-D16-A- 3 ENCODING ALTIMETER, USE WITH TRANSPONDER
-(BLIND ENCODER-DOES NOT REQUIRE PANEL
-MOUNT)
-
-```
-0401019 1.5 2.0
-```
-D19-R AMMETER S- 1320 - 5 0.5 18.0
-D25-A CLOCK INSTALLATION
-CLOCK, ELECTRIC
-
-```
-0400341
-C664508- 0101
-```
-```
-0.4*
-0.3
-```
-14.4*
-18.1
-D28-R COMPASS C660501- 0102 0.5 20.0
-D37-R INSTRUMENT CLUSTER (LH FUEL & RH FUEL) C669511- 0101 0.6 18.0
-D40-R INSTRUMENT CLUSTER (OIL PRES. & OIL TEMP.) C669512- 0102 0.6 18.0
-D64-A GYRO INSTALLATION (REQUIRES ITEM A61-A)
-DIRECTIONAL INDICATOR
-ATTITUDE INDICATOR
-
-```
-0413466 - 1
-C661075
-C661076
-```
-```
-7.1*
-2.8
-2.1
-```
-```
-14.8*
-15.6
-15.8
-```
-
-
-
-### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
-
-D67-A RECORDER, ENGINE HOUR METER 0401017 0.6 5.2
-D82-A OUTSIDE AIR TEMPERATURE INDICATOR C668507- 0101 0.1 22.0
-D85-R TACHOMETER INSTALLATION, ENGINE
-RECORDING TACH INDICATOR
-TACH FLEXIBLE SHAFT
-
-```
-C668507- 0101
-C668020- 0119
-S- 1605 - 3
-```
-```
-1.0*
-0.6
-0.3
-```
-12.5*
-17.0
-2.0
-D88-A INDICATOR, TURN COORDINATOR C661003- 0505 1.3 17.2
-D91-A INDICATOR, RATE OF CLIMB C661080- 0101 1.0 18.0
-
-```
-E. CABIN ACCOMMODATIONS
-```
-E05-R SEAT, PILOT INDIVIDUAL SLIDING 0414070 11.1 45.2
-E05-O SEAT, VERTICALLY ADJUSTABLE, PILOT 0414071 13.6 45.2
-E07-S SEAT, CO-PILOT INDIVIDUAL SLIDING 0414070 11.1 45.2
-E07-O SEAT, VERTICALLY ADJUSTABLE, CO-PILOT 0414071 13.6 45.2
-E09-A SEAT INSTALLATION, AUXILIARY
-UPPER BACK REST CUSHION
-LOWER SEAT CUSHION ASSEMBLY
-LAP BELT ASSEMBLY
-
-```
-0400134 - 1
-0711080 -1
-0400136 -9
-S- 1746 - 2
-```
-```
-10.5*
-1.3
-6.4
-1.0
-```
-66.5*
-72.9
-64.5
-66.0
-E15-R BELT ASSY, PILOT LAP S- 2275 - 104 1.0 39.0
-E15-S SHOULDER HARNESS ASSY, PILOT S- 2275 - 202 1.0 39.0
-E19-O SHOULDER HARNESS INERTIA INSTL., PILOT &
-CO-PILOT (NET CHANGE)
-
-```
-0401012 - 1 1.3 71.1
-```
-E23-S BELT & SHOULDER HARNESS ASSY, CO-PILOT S- 2275 - 4 2.0 39.0
-E39-A WINDOWS, OVERHEAD CABIN TOP (NET INCREASE) 0413492 0.5 49.0
-E53-A MIRROR, REAR VIEW 0400338 0.3 17.0
-E55-A SUN VISORS (SET OF 2) 0413473 - 1 1.0 27.0
-E57-A WINDOWS, TINTED (SET OF 4, NET CHANGE) 0400324 - 1 0.0 --
-E65-A BAGGAGE NET 2015009 - 2 0.5 84.0
-E85-A DUAL CONTROLS (WHEEL, PEDALS & TOE BRAKES) 0460118 - 2 4.1 12.1
-E93-R HEATING SYSTEM, CABIN & CARBURETOR AIR
-(INCLUDES EXHAUST SYSTEM)
-
-```
-0450071 14.0 - 22.0
-```
-```
-F. PLACARDS & WARNING
-```
-F01-R OPERATIONAL LIMITATIONS PLACARD VFR-DAY 0405058 - 1 NEGL 23.0
-F01-O- 1 OPERATIONAL LIMITATIONS PLACARD VFR-DAY
-NIGHT
-
-```
-0405058 - 2 NEGL 23.0
-```
-F01-O- 2 OPERATIONAL LIMITATIONS PLACARD IFR-DAY
-NIGHT
-
-```
-0405058 - 3 NEGL 23.0
-```
-F04-R INDICATOR, STALL WARNING AUDIBLE 0413029 0.5 21.5
-
-```
-G. AUXILIARY EQUIPMENT
-```
-G04-A HOOK, TOW (NOT FACTORY INSTALLED) 0500228 0.5 200.0
-G07-A HOISTING RINGS, AIRCRAFT CABIN TOP 0541115 2.0 42.0
-G13-A CORROSION PROOFING, INTERNAL 0400027 - 2 4.5 68.0
-G16-A STATIC DISCHARGERS (SET OF 10) 0401015 0.4 117.6
-
-
-
-
-### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
-
-G19-A STABILIZER ABRASION BOOTS 0500041 2.5 179.4
-G22-A TOW BAR, AIRCRAFT NOSE WHEEL (STOWED) 0501019 - 1 1.6 84.0
-G25-S- 1 PAINT, OVERALL EXTERIOR (ACRYLIC)
-OVERALL, WHITE BASE
-COLOR STRIPE
-
-```
-0404030 8.5*
-8.1
-0.4
-```
-79.1*
-79.0
-81.7
-G25-S- 2 PAINT, OVERALL EXTERIOR (MODIFIED
-POLYURETHANE)
-OVERALL BASE WHITE
-WASH PRIME COATING
-COLOR STRIPE
-
-```
-0404030 9.5*
-```
-```
-8.7
-0.3
-0.5
-```
-```
-79.1*
-```
-79.0
-79.0
-81.7
-G25-O PAINT, OVERALL EXTERIOR (MODIFIED
-POLYURETHANE – USED WITH INTERNAL
-CORROSION PROOFING, ITEM G13-A)
-
-```
-0404030 9.5 79.1
-```
-G31-A CABLES, CORROSION RESISTANT CONTROL (NET
-CHANGE)
-
-```
-0400027 0.0 --
-```
-G34-A LIGHTER, CIGARETTE 0401023 0.1 18.0
-G49-A WING TIPS, MODIFIED CONICAL (NET CHANGE) 0523565 2.5 41.0
-G55-A FIRE EXTINGUISHER, HAND TYPE 0401001 3.0 9.5
-G58-A STEPS & HANDLES, REFUELING ASSIST 0413456 - 2 2.1 9.9
-G67-A PEDAL EXTENSIONS, RUDDER, REMOVABLE – SET
-OF 2 (STOWABLE – INSTALLED ARM SHOWN)
-
-```
-0701048 2.3 8.0
-```
-G88-A WINTERIZATION KIT INSTALLATION, ENGINE
-COVER PLATES, FWD COWL (SET OF 2
-INSTALLED)
-COVER PLATES, FORWARD COWL (STOWED)
-CRANKCASE BREATHER TUBE INSULATION
-
-```
---
---
-```
-```
---
---
-```
-```
-1.2*
-0.3
-```
-```
-0.3
-0.3
-```
-- 24.2*
-    -37.0
-
-```
-84.0
-```
-- 24.0
-G92-A WINGS WITH 39 GALLON CAPACITY, EXTENDED
-RANGE FUEL TANKS (SET OF 2, NET CHANGE)
-
-```
-0401018 5.9 37.3
-```
-```
-H. AVIONICS & AUTOPILOTS
-```
-H01-A KITFOX 300 ADF
-RECEIVER WITH BFO (R-546E)
-INDICATOR (IN-346A)
-ANTENNA INSTALLATION
-LOOP ANTENNA INSTALLATION
-CABLE INSTALLATION
-MISC. INSTALLATION COMPONENTS
-
-```
-3910159 - 11
-41240 -0101
-40980 -1001
-0470400 -621
-3960104 -1
-3950104 -14
-```
-```
-7.3*
-2.3
-0.9
-0.2
-1.4
-1.8
-0.6
-```
-18.2*
-13.5
-15.5
-96.5
-24.2
-12.3
-14.4
-H07-A KITFOX 400 GLIDESLOPE
-RECEIVER (R-443B)
-MOUNTING, RIGID
-ANTENNA
-
-```
-3910157 - 10
-42100 -0000
-36450 -0000
-1200098 - 2
-```
-```
-4.0*
-2.1
-0.3
-0.2
-```
-80.4*
-105.3
-100.0
-20.4
-H13-A- 1 KITFOX 400 MARKER BEACON
-RECEIVER (R-402A)
-ANTENNA, L SHAPED ROD
-
-```
-3910142 - 1
-42410 -5114
-0770681 - 1
-```
-```
-2.2*
-0.8
-0.6
-```
-35.4*
-11.7
-86.0
-H13-A- 2 BENDIX MARKER BEACON (EXPORT USE)
-RECEIVER
-ANTENNA, L SHAPED ROD
-
-```
-3910174 - 1
-GM-247A
-0770681 - 1
-```
-```
-3.9*
-1.5
-0.6
-```
-85.7*
-99.8
-86.0
-H16-A- 1 KITFOX 300 TRANSPONDER
-TRANSCEIVER (RT-359A)
-
-```
-3910127 - 1
-41420 - 1128
-```
-```
-3.6*
-2.7
-```
-```
-18.6*
-13.0
-```
-
-
-
-ANTENNA (A-1098) 41530 - 0001 0.1 67.0
-**ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS**
-H16-A- 2 KITFOX 400 TRANSPONDER (EXPORT USE)
-TRANSCEIVER (RT-459A)
-ANTENNA (A-109B)
-
-```
-3910128 - 20
-41470 -1128
-41530 - 0001
-```
-```
-3.6*
-2.8
-0.1
-```
-18.6*
-13.0
-67.0
-H22-A- 1 KITFOX 300 NAV/COM 160 CHANNEL TRANSMIT
-RECEIVER-TRANSCEIVER (RT-308C)
-VOR/LOC INDICATOR (IN-514B)
-H34-A BASIC AVIONICS KIT
-VOLTAGE CONVERTER INSTL.
-MOUNT, WIRING & MISC HARDWARE
-
-```
-3910184 - 4
-42450 -1114
-45010 -1000
-391018 6-1
-3940224
-3930152 - 1
-```
-```
-14.8*
-6.4
-0.6
-5.1
-1.4
-1.3
-```
-29.2*
-13.6
-17.8
-61.9
-1.5
-12.9
-H22-A- 2 KITFOX 300 NAV/COM, 720 CHANNEL 1ST UNIT
-RECEIVER-TRANSCEIVER (RT-385A)
-VOR/LOC INDICATOR
-H34-A BASIC AVIONICS KIT
-MOUNT, WIRING & MISC HARDWARE
-
-```
-3910183
-46660 -0000
-46860 -1000
-3910186 -1
-```
-```
-13.7*
-5.4
-2.2
-5.1
-1.0
-```
-31.8*
-13.6
-15.5
-61.9
-12.9
-H22-A- 3 KITFOX 300 NAV/COM, 720 CHANNEL 1ST UNIT
-WITH VOR/ILS
-RECEIVER-TRANSCEIVER (RT-328T)
-VOR/ILS INDICATOR (IN-525B)
-INSTALLATION COMPONENTS ARE SIMILAR
-TO H22-A- 1
-
-```
-3910184
-```
-```
-43340 -1124
-45010 -2000
-```
-```
-15.4*
-```
-```
-6.9
-0.7
-7.8
-```
-```
-28.6*
-```
-```
-13.6
-17.8
-42.9
-```
-H22-A- 4 KITFOX 300 NAV/COM, 720 CHANNEL, 1ST UNIT
-WITH VOR/ILS
-RECEIVER-TRANSCEIVER (RT-385A)
-VOR/ILS INDICATOR
-1ST UNIT INSTL. COMPONENTS ARE SIMILAR
-TO H22-A- 2
-
-```
-3910184 - 3
-```
-```
-46660 -000
-46660 -2000
-```
-```
-13.6*
-```
-```
-5.4
-2.3
-6.1
-```
-```
-32.1*
-```
-```
-13.6
-15.5
-53.9
-```
-H22-A- 5 KITFOX 300 NAV/COM 720 CHANNEL 1ST UNIT
-RECEIVER-TRANSCEIVER (RT-328T)
-VOR/LOC INDICATOR (IN-514B)
-1ST UNIT INSTL. COMPONENTS ARE SIMILAR
-TO H22-A- 1
-
-```
-3900140
-43340 -1124
-45010 -1000
-```
-```
-15.3*
-6.9
-0.6
-7.8
-```
-```
-28.7*
-13.6
-17.8
-42.9
-```
-H22-A- 6 KITFOX 300 NAV/COM, 720 CH COM 1ST UNIT
-WITH VOR/LOC AUTOCOURSE INDICATOR
-RECEIVER-TRANSCEIVER (RT-385A)
-VOR/LOC INDICATOR (IN-385AC)(AUTOMATIC
-RADIAL CENTERING)
-BASIC AVIONICS KIT
-MOUNT, WIRING & MISC HARDWARE
-
-```
-3910183
-```
-```
-46660 -0000
-46860 -1200
-```
-```
-3910186 -1
-```
-```
-13.7*
-```
-```
-5.4
-2.2
-```
-```
-5.1
-1.0
-```
-```
-31.8*
-```
-```
-13.6
-15.5
-```
-61.9
-12.9
-H22-A- 7 KITFOX 300 NAV/COM, 720 CH COM 1ST UNIT
-WITH VOR/ILS AUTOCOURSE INDICATOR
-RECEIVER-TRANSCEIVER (RT-385A)
-VOR/ILS INDICATOR (IN-386AC)(AUTOMATIC
-RADIAL CENTERING)
-BASIC AVIONICS KIT
-MOUNT, WIRING & MISC HARDWARE
-
-```
-3910183
-```
-```
-46660 -0000
-46860 -2200
-```
-```
-3910186 -1
-```
-```
-13.8*
-```
-```
-5.4
-2.3
-```
-```
-5.1
-1.0
-```
-```
-31.7*
-```
-```
-13.6
-15.5
-```
-```
-61.9
-12.9
-```
-
-
-
-### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
-
-H25-A- 1 KITFOX 300 NAV/COM, 720 CHANNEL 2ND UNIT
-WITH VOR/LOC
-RECEIVER-TRANSCEIVER (RT-328T)
-VOR/LOC INDICATOR (IN-514B)
-H37-A ANTENNA & COUPLER KIT
-VOLTAGE CONVERTER
-2ND UNIT COM SWITCH INSTL
-MISC 2ND UNIT ITEMS
-
-```
-3910184 - 5
-```
-```
-42450 -1114
-45010 -1000
-3910186
-3940224
-3970118 -3
-```
-```
-10.6*
-```
-```
-6.4
-0.6
-1.0
-1.4
-0.2
-1.0
-```
-```
-13.9*
-```
-13.6
-17.8
-30.6
-1.5
-17.0
-13.0
-H25-A- 2 KITFOX 300 NAV/COM, 720 CH, SECOND UNIT
-WITH VOR/ILS
-RECEIVER-TRANSCEIVER (RT-385A)
-VOR/LOC INDICATOR
-H37-A ANTENNA & COUPLER KIT
-2ND UNIT COM SWITCHING INSTL
-MISC 2ND UNIT ITEMS
-
-```
-3910183
-```
-```
-46660 -0000
-46860 -1000
-3910186
-3970118 -3
-```
-```
-9.8*
-```
-```
-5.4
-2.2
-1.0
-0.2
-1.0
-```
-```
-15.8*
-```
-13.6
-15.5
-30.6
-17.0
-13.3
-H25-A- 3 KITFOX 300 NAV/COM 720 CH COM 2ND UNIT
-RECEIVER-TRANSCEIVER (RT-385A)
-VOR/LOC INDICATOR (IN-385AC) AUTOCOURSE
-(AUTOMATIC RADIAL CENTERING)
-H37-A ANTENNA & COUPLER KIT
-2ND UNIT COM SWITCHING INSTL
-MOUNT, WIRING & MISC HARDWARE
-
-```
-3910183
-46660 -0000
-46860 -1200
-```
-```
-3910186
-3970118 -3
-```
-```
-9.8*
-5.4
-2.2
-```
-```
-1.0
-0.2
-1.9
-```
-```
-15.8*
-13.6
-15.5
-```
-30.6
-17.0
-13.3
-H25-A- 4 KITFOX 300 NAV/COM 720 CH COM 2ND UNIT
-RECEIVER-TRANSCEIVER (RT-328T)
-VOR/LOC INDICATOR (IN-514B)
-H37-A ANTENNA & COUPLER KIT
-VOLTAGE REGULATOR (41010)
-2ND UNIT SWITCHING INSTL
-MOUNT, WIRING & MISC HARDWARE
-
-```
-3910182
-43340 -1124
-45010 -1000
-3910186
-3940224
-3970118 -3
-```
-```
-11.4*
-6.9
-0.6
-1.0
-1.4
-0.2
-1.3
-```
-13.9*
-13.6
-17.8
-30.6
-1.5
-17.0
-13.4
-H28-A- 1 EMERGENCY LOCATOR TRANSMITTER
-TRANSMITTER (D & M DMELT-6)
-ANTENNA
-
-```
-0470419 - 1
-C589511- 0101
-C589511- 0109
-```
-```
-1.6*
-1.4
-0.1
-```
-102.4*
-102.6
-101.3
-H28-A- 2 EMERGENCY LOCATOR TRANSMITTER (USED IN
-CANADA)
-TRANSMITTER (D & M DMETL-6C)
-ANTENNA
-
-```
-0470419 - 2
-```
-```
-C589511- 0102
-C589511- 0109
-```
-```
-1.6*
-```
-```
-1.4
-0.1
-```
-```
-102.4*
-```
-102.6
-101.3
-H34-A BASIC AVIONICS KIT
-RADIO COOLING
-NOISE FILTER (AUDIO)(ON ALTERNATOR)
-LH COM ANTENNA CABLE
-OMNI ANTENNA CABLE
-OMNI ANTENNA INSTALLATION
-VHF L.H. COM ANTENNA
-MICROPHONE INSTALLATION
-COM SWITCHING INSTALLATION
-CABIN SPEAKER INSTL
-HEADPHONE INSTALLATION
-
-```
-3910186
-3930152 -1
-3940148 -1
-3950104 -3
-3950104 -4
-3060102 -9
-3960113 -1
-3970117 -1
-3970118 -2
-3970123 -6
-3970125 - 1
-```
-```
-5.1*
-1.0
-0.1
-0.4
-0.9
-0.5
-0.4
-0.3
-0.2
-1.1
-0.2
-```
-```
-61.9*
-15.6
--25.0
-20.2
-105.0
-220.9
-55.9
-18.2
-17.0
-51.1
-17.2
-```
-
-
-
-### ITEM NO EQUIPMENT LIST DESCRIPTION REF DRAWING WT LBS ARM INS
-
-H37-A COM ANTENNA & OMNI COUPLER KIT (AVAILABLE
-ON 2ND UNIT NAV/COM FACTORY INSTL ONLY)
-RH COM ANTENNA INSTALLATION
-RH COM ANTENNA CABLE
-OMNI COUPLER (SIGNAL SPLITTER) & CABLE
-S- 2086 - 1
-
-```
-1.0*
-```
-```
-0.4
-0.4
-0.2
-```
-```
-30.6*
-```
-55.9
-20.2
-1.0
-H55-A MIKE-HEADSET COMBINATION (INCLUDES ALL-
-PURPOSE CONTROL WHEEL)
-
-```
-3970134 0.3 17.0
-```
-H56-A PADDED HEADPHONE (STOWED) C59653- 0101 1.1 --
-
-```
-J. SPECIAL OPTION PACKAGES
-```
-J01-A 152 - II PACKAGE EQUIPMENT WITH RT-308C
-WITH RT-385A (AVAILABLE MID YEAR)
-A61-A VACUUM SYSTEM (FOR GYROS)
-C43-A OMNI FLASHING BEACON
-C49-A-1 LANDING LIGHT SINGLE BULB
-D64-A GYRO INSTALLATION
-D82-A OUTSIDE AIR TEMPERATURE IND
-D88-A TURN COORDINATOR
-D91-A RATE-OF-CLIMB IND.
-E55-A SUN VISORS
-E85-A DUAL CONTROLS
-G34-A CIGARETTE LIGHTER
-H22-A-1 KITFOX 300 NAV/COM RT-308C
-H22-A- 2 KITFOX 300 NAV/COM RT-385A
-
-```
-0413466 -1
-0406003 -1
-0401022
-0413466
-C668507- 0101
-C661003- 0505
-C661080- 0101
-0413473 -1
-0460118 -2
-9910220 -1
-3900140
-```
-```
-36.7*
-35.6*
-4.8
-1.4
-1.0
-7.1
-0.1
-1.3
-1.0
-1.0
-4.1
-0.1
-14.6
-13.7
-```
-23.9*
-24.8*
--1.5
-185.5
--28.3
-14.8
-22.0
-17.2
-18.0
-27.0
-12.1
-18.0
-29.5
-31.8
-J04-A 152 II NAV PAC WITH RT-328T
-152 II NAV/PAC WITH R385A (MID-YEAR)
-H16-A-1 KITFOX 300 TRANSPONDER RT-359A
-H25-A-1 RT-308C NAV/COM 2ND UNIT ADDED
-H22-A-1 RT-308C 1ST UNIT DELETED
-H22-A-3 RT-328T NAV/COM 1ST UNIT ADDED
-H22-A-2 RT-385A 1ST UNIT ADDED MID-YEAR
-
-```
-3910127 -1
-3910182
-```
-```
-14.7*
-13.1*
-3.6
-10.6
--14.8
-15.3
-13.7
-```
-```
-15.3*
-16.6*
-18.6
-13.9
-29.2
-28.9
-31.8
-```
 
 
 

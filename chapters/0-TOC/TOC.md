@@ -1241,11 +1241,14 @@ Visually check airplane for general condition during walk-around inspection. In 
 3. Nav lights - ON.
 4. Strobe lights - ON.
 5. Landing or Wig Wag lights - ON.
-6. Propellor - Switch to FEATHER and toggle feather to verify functionality.  Switch to TO when complete.
+6. Propellor - Switch to FEATHER and toggle feather to verify functionality.  Switch to T.O. when complete.
 6. Fuel Quantity Indicators – CHECK QUANTITY.
 7. All lights - OFF.
 8. Master Switch – OFF.
 9. Fuel Shutoff Valve – ON.
+10. Fuel levels - More than 1/8 tank, each.
+11. Control pins - In and secure.
+12. Spar pins - In and secure.
 
 ### LEFT WING
 
@@ -1394,7 +1397,7 @@ NORMAL LANDING
 2. Wing Flaps – AS DESIRED (below 80 MPH).
 3. Airspeed – 55-65 MPH (flaps DOWN).
 4. Touchdown – TAIL LOW.
-5. Landing Roll – RETRACT (if deployed).
+5. Landing Roll – RETRACT FLAPS (if deployed).
 6. Braking – MINIMUM REQUIRED.
 
 SHORT FIELD LANDING
@@ -1404,7 +1407,7 @@ SHORT FIELD LANDING
 3. Airspeed – MAINTAIN 54 MPH.
 4. Power – REDUCE to idle as obstacle is cleared.
 5. Touchdown – TAIL LOW.
-6. Landing Roll – RETRACT
+6. Landing Roll – RETRACT FLAPS.
 6. Brakes – APPLY HEAVILY, CAREFULLY.
 
 BALKED LANDING
@@ -1416,23 +1419,24 @@ BALKED LANDING
 
 AFTER LANDING
 
-1. Wing Flaps – UP.
+1. Wing Flaps – RETRACT.
 
 SECURING AIRPLANE
 
 1. Brake – ON.
 2. Power - >3000 RPM
 3. Lane A and B - OFF
-4. Radios, Electrical Equipment – OFF.
-5. Master Switch – OFF.
-6. Parking Brake – SET.
+4. Throttle - Pull OFF.
+5. Radios, Electrical Equipment – OFF.
+6. Master Switch – OFF.
+7. Parking Brake – SET.
 
 
 AMPLIFIED PROCEDURES
 
 STARTING ENGINE (Temperatures Above Freezing)
 
-After starting, if the oil gage does not begin to show pressure within 30 seconds in the summertime and
+After starting, if the oil gauge does not begin to show pressure within 30 seconds in the summertime and
 about twice that long in very cold weather, stop the engine and investigate. Lack of oil pressure can
 cause serious engine damage. 
 
@@ -1520,7 +1524,7 @@ required in other flight conditions to maintain a fixed throttle setting.
 WING FLAP SETTING
 
 Normal takeoffs are accomplished with wing flaps 0 to 1/2.  Using 1/2 wing flaps reduces the total
-distance over an obstacle by approximately 10%. Flap deflections greater than 1/2 are not approved for
+distance over an obstacle by approximately 10%. Flap deflections greater than 1/2 are not recommended or required for
 takeoff. If 1/2 wing flaps are used for takeoff, they should be left down until all obstacles are cleared
 and a safe flap retraction speed of 60 MPH is reached.
 
@@ -1594,8 +1598,7 @@ SPINS
 
 Intentional spins are not approved in this airplane (see Section 2). 
 
-Before attempting to perform spins,
-however, several items should be carefully considered to assure a safe flight. No spins should be
+Before attempting to perform spins several items should be carefully considered to assure a safe flight. No spins should be
 attempted without first having received dual instruction in both spin entries and spin recoveries from a
 qualified instructor who is familiar with the spin characteristics of the Kitfox S7.
 
@@ -1863,9 +1866,7 @@ with reasonable accuracy. The data in the charts has been computed from actual f
 airplane and engine in good condition and using average piloting techniques.
 
 It should be noted that the performance information presented in the range and endurance profile
-charts allows for 45 minutes reserve fuel based on 45% power. Fuel flow data for cruise is based on the
-recommended lean mixture setting. Some indeterminate variables such as mixture leaning technique,
-fuel metering characteristics, engine and propeller condition, and air turbulence may account for
+charts allows for 45 minutes reserve fuel based on 45% power. Some indeterminate variables such as engine and propeller condition and air turbulence may account for
 variations of 10% or more in range and endurance. Therefore, it is important to utilize all available
 information to estimate the fuel required for the particular flight.
 
@@ -1915,20 +1916,21 @@ at the next higher value of altitude and temperature. For example, in this parti
 the takeoff distance information presented for a pressure altitude of 2000 feet and a temperature of
 30°C should be used and results in the following:
 
-Ground roll 980 Feet
-Total distance to clear a 50-foot obstacle 1820 Feet
+Ground roll 250 Feet
+Total distance to clear a 50-foot obstacle 350 Feet
 
 These distances are well within the available takeoff field length. However, a correction for the effect of
 wind may be made based on Note 3 of the takeoff chart. The correction for a 12 mph headwind is:
 
 (^129) 𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾 × 10%=13% 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷
 This results in the following distances, corrected for wind:
-Ground roll, zero wind 980
-Decrease in ground roll (980 feet × 13%) 127
-Corrected ground roll 853 Feet
-Total distance to clear a 50-foot obstacle, zero wind: 1820
-Decrease in total distance (1820 feet × 13%) 237
-Corrected total distance to clear 50-foot obstacle 1583 Feet
+Ground roll, zero wind 250
+Decrease in ground roll (250 feet × 13%) 33
+Corrected ground roll 217 Feet
+Total distance to clear a 50-foot obstacle, zero wind: 350
+Decrease in total distance (350 feet × 13%) 46
+Corrected total distance to clear 50-foot obstacle 305 Feet
+
 CRUISE
 The cruising altitude should be selected based on a consideration of trip length, winds aloft, and the
 airplane’s performance. A typical cruising altitude and the expected wind enroute have been given for
@@ -1937,9 +1939,9 @@ several considerations. These include the cruise performance characteristics pre
 range profile chart presented in figure 5-8, and the endurance profile chart presented in figure 5-9.
 The relationship between power and range is illustrated by the range profile chart. Considerable fuel
 savings and longer range result when lower power settings are used.
-The range profile chart indicates that use of 65% power at 5500 feet yields a predicted range of 375
+The range profile chart indicates that use of 60% power at 5500 feet yields a predicted range of 387
 nautical miles under no wind conditions. The endurance profile chart, figure 5-9, shows a corresponding
-3.9 hours.
+3.5 hours.=
 
 
 
@@ -1947,11 +1949,11 @@ nautical miles under no wind conditions. The endurance profile chart, figure 5-9
 The range figure of 375 nautical miles is corrected to account for the expected 10 mph headwind at
 5500 feet.
 
-Range, zero wind 375
+Range, zero wind 387
 Decrease in range due to wind (3.9 hours × 10 mph headwind) 39
 Corrected range 336 Nautical Miles
 
-This indicates that the trip can be made without a fuel stop using approximately 65% power.
+This indicates that the trip can be made without a fuel stop using approximately 60% power.
 
 The cruise performance chart, figure 5-7, is entered at 6000 feet altitude and 20°C above standard
 temperature. These values most nearly correspond to the planned altitude and expected temperature

@@ -1957,11 +1957,11 @@ This indicates that the trip can be made without a fuel stop using approximately
 
 The cruise performance chart, figure 5-7, is entered at 6000 feet altitude and 20°C above standard
 temperature. These values most nearly correspond to the planned altitude and expected temperature
-conditions. The engine speed chosen is 2400 RPM, which results in the following:
+conditions. The engine configuration results in the following:
 
-Power 64%
-True airspeed 99 MPH
-Cruise fuel flow 5.2 GPH
+Power 60%
+True airspeed 111 MPH
+Cruise fuel flow 5.7 GPH
 
 The power computer may be used to determine power and fuel consumption more accurately during
 the flight.
@@ -2046,46 +2046,7 @@ Total distance to clear a 50-foot obstacle 1300 Feet
 A correction for the effect of wind may be made based on Note 2 of the landing chart using the same
 procedure as outlined for takeoff.
 
-
-
-
-AIRSPEED CALIBRATION
-
-### CONDITION:
-
-Power required for level flight or maximum rated RPM dive.
-
-### FLAPS UP
-
-### MPH 40 50 60 70 80 90 100 110 120 130 140
-
-### KCAS 46 53 60 69 78 88 97 107 117 127 136
-
-### FLAPS 1/2
-
-### MPH 40 50 60 70 80 85 - - - - - - - - - - - - - - -
-
-### KCAS 44 52 61 70 80 84 - - - - - - - - - - - - - - -
-
-### FLAPS 30°
-
-### MPH 40 50 60 70 80 85 - - - - - - - - - - - - - - -
-
-### KCAS 43 51 61 71 82 87 - - - - - - - - - - - - - - -
-
-```
-Figure 5-1. Airspeed Calibration
-```
-
-
-
-TEMPERATURE CONVERSION CHART
-
-```
-Figure 5-2. Temperature Conversion Chart
-```
-
-
+##
 
 STALL SPEEDS
 
@@ -2996,45 +2957,37 @@ Figure 6-9. Center of Gravity Limits
 
 INTRODUCTION
 
-This section provides description and operation of the airplane and its systems. Some equipment
-described herein is optional and may not be installed in the airplane. Refer to Section 9, Supplements,
-for details of other optional systems and equipment.
+This section provides description and operation of the airplane and its systems. 
 
 AIRFRAME
 
-The airplane is an all-metal, two-place, high-wing, single-engine airplane equipped with tricycle landing
+The airplane is an rag and tube, two-place, high-wing, single-engine airplane equipped with conventioanl tailwheel landing
 gear, and is designed for general utility purposes.
 
-The construction of the fuselage is a conventional formed sheet metal bulkhead, stringer, and skin
-design referred to as semimonocoque. Major items of structure are the front and rear carry-through
+The construction of the fuselage is a conventional tube 4130 chromoly steel frame covered in fabric. Major items of structure are the front and rear carry-through
 spars to which the wings are attached, a bulkhead and forgings for main landing gear attachment at the
 base of the rear door posts, and a bulkhead with attaching plates at the base of the forward door posts
 for the lower attachment of the wing struts. Four engine mount stringers are also attached to the
 forward door posts and extend forward to the firewall.
 
 The externally braced wings, containing the fuel tanks, are constructed of a front and rear spar with
-formed sheet metal ribs, doublers, and stringers. The entire structure is covered with aluminum skin.
+cut plywood ribs with birch plywood sparcaps, doublers, and stringers. The entire structure is covered with fabric skin.
 The front spars are equipped with wing-to-fuselage and wing-to-strut attach fittings. The aft spars are
-equipped with wing-to-fuselage attach fittings, and are partial-span spars. Conventional hinged ailerons
-and single-slotted flaps are attached to the trailing edge of the wings. The ailerons are constructed of a
-forward spar containing balance weights, formed sheet metal ribs and “V” type corrugated aluminum
-skin joined together at the trailing edge. The flaps are constructed basically the same as the ailerons,
-with the exception of the balance weights and the addition of a formed sheet metal leading edge
+equipped with wing-to-fuselage attach fittings, and are full-span spars. Conventional hinged flaperon
+are attached to the trailing edge of the wings. The flaperons are constructed of a
+forward spar containing balance weights, formed sheet foam ribs and smooth aluminum
+skin joined together at the trailing edge. 
 
 ## SECTION
 
 The empennage (tail assembly) consists of a conventional vertical stabilizer, rudder, horizontal stabilizer,
-and elevator. The vertical stabilizer consists of a spar, formed sheet metal ribs and reinforcements, a
-wrap-around skin panel, formed leading edge skin and a dorsal. The rudder is constructed of a formed
-leading edge skin containing hinge halves, a wrap-around skin panel and ribs, and a formed trailing edge
-skin with a ground adjustable trim tab at its base. The top of the rudder incorporates a leading edge
-extension which contains a balance weight. The horizontal stabilizer is constructed of a forward spar,
-main spar, formed sheet metal ribs and stiffeners, a wrap-around skin panel, and formed leading edge
-skins. The horizontal stabilizer also contains the elevator trim tab actuator. Construction of the elevator
-consists of a main spark and bellcrank, left and right wrap-around skin panels, and a formed trailing
-edge skin on the left half of the elevator; the entire trailing edge of the right half is hinged and forms the
-elevator trim tab. The leading edge of both left and right elevator tips incorporate extensions which
-contain balance weights.
+and elevator. The vertical stabilizer consists of a steel frame, cut plywood wood ribs and reinforcements, covered in a
+fabric skin panel. The rudder is constructed of a formed
+leading fiberglass edge skin containing hinge halves, a fabric skin panels and ribs, with a ground adjustable trim tab at its base. 
+The horizontal stabilizer is constructed of a steel frame,
+plywood ribs and stiffeners, and fabric skin panels. The the front of the horizontal stabilizer attach point acts as the 
+elevator trim. Construction of the elevator
+consists of a steel frame and bellcrank, left and right wrap-around skin panels.
 
 
 

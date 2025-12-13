@@ -42,7 +42,7 @@ At each weight and CG configuration, fly the plane for 3-4 minutes at 30%, 40%, 
 - Fuel Flow
 - TAS
 
-The spreadsheet will self populate the rest of the data and then taking a screen capture of the 8 separate tables - 4 range and endurance, 4 sample trip tables - is straighforward to include directly into your copy of the manual.
+The spreadsheet will self populate the rest of the data.  Then take a screen capture of the 8 separate tables - 4 range and endurance, 4 sample trip tables - and insert them directly into your copy of the manual.
 
 ## Using the Weight & Balance Spreadsheet.
 

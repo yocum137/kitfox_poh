@@ -25,7 +25,7 @@ This manual is specific to the following Kitfox configuration:
 - Garmin panel with PFD, MFD, and autopilot as built by Kitfox 
 - Extended baggage compartment (Changes CG range)
 
-It is highly recommended that you obtain the latest copy of the EAA Flight Test Manual and Test Cards (currently v2 as of Dec 2025), and proceed through Phase I flight testing in the following order.  Folks have done Phase I in as little as 15 hours using this schedule and combining several cards into the same flight, i.e., Vx and Vy can be combined with Best L/D, etc.  For instance, I was able to proceed through the Light weight and Aft CG task cards in a single day, flying 2 flights over 4 hours.
+It is highly recommended that you obtain the latest copy of the EAA Flight Test Manual and Test Cards (currently v2 as of Dec 2025), and proceed through Phase I flight testing in the following order.  Folks have done Phase I in as little as 15 hours using this schedule and combining several cards into the same flight, e.g., Vx and Vy can be combined with Best L/D, etc.  For instance, I was able to proceed through the Light weight and Aft CG task cards in a single day, flying 2 flights over 4 hours.
 
 1) Perform the preliminary test cards in the "Any" Test Weight and CG category.
 2) Configure the plane in a Light weight and Forward CG.

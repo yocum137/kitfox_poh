@@ -21,7 +21,7 @@ Simply download the [ODT File](https://github.com/yocum137/kitfox_poh/blob/main/
 This manual is specific to the following Kitfox configuration:
 
 - STi wing (changes CG range)
-- Rotax 915iS engine (Changes CG range and gross weight)
+- Rotax 915iS engine (Changes gross weight)
 - Garmin panel with PFD, MFD, and autopilot as built by Kitfox 
 - Extended baggage compartment (Changes CG range)
 

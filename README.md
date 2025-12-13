@@ -14,7 +14,9 @@ If you find a problem - a typo, a bad procedure or checklist, an unclear instruc
 
 ## How to Use This Handbook for your Kitfox
 
-Take it and edit it for your airplane! That's it! 
+I used LibreOffice, a Free and Open Source document editor that is 98% compatible with MS Word, to edit this document.  MS Word can import the ODT file, but being a greybeard Open Source guy, I encourage you to use LibreOffice as well.  [Download LibreOffice Here](https://www.libreoffice.org/download/download-libreoffice/).
+
+Simply download the [ODT File](https://github.com/yocum137/kitfox_poh/blob/main/Kitfox_POH_Rotax_915_Airmaster_AP4_Garmin_G3X-N137DF.odt), open it in Libre Office (or MS Word) and modify it for your airplane! That's it! 
 
 This manual is specific to the following Kitfox configuration:
 

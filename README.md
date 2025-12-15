@@ -1,4 +1,4 @@
-# Kitfox Pilot's Operating Handbook
+# Kitfox Aircraft Operating Handbook
 
 This handbook is based heavily on the venerable 1978 Cessna 152 Pilot's Operating Handbook.  It follows the same format and includes many of the same sections, subsections, graphs, diagrams, and procedures.  It should be familiar to most pilots. 
 
